@@ -1,0 +1,51 @@
+{
+  "market_targets": [
+    {
+      "target_name": "具身智能多机协同控制器与世界模型 (Embodied AI & WAM)",
+      "direction": "Bullish",
+      "time_horizon": "中长期(6-12个月)",
+      "confidence_score": 88,
+      "core_logic": "DeepMind Gemini Robotics ER 2 与 NVIDIA 世界动作模型（WAM）标志着机器人正突破单机模仿学习局限，转向基于视频理解的多机协同与泛化推演，将加速柔性工厂与复杂仓储场景的智能化渗透。",
+      "validation_metric": "头部物流/车企柔性产线中基于大模型的多机协同具身智能POC项目落地数量及续约率"
+    },
+    {
+      "target_name": "边缘侧 Agent 算力与高显存工作站 (Edge Agent Workstations)",
+      "direction": "Bullish",
+      "time_horizon": "短期(1-3个月)",
+      "confidence_score": 85,
+      "core_logic": "Meta 30B 稠密模型 Muse Glimmer 与量化蒸馏技术成熟，使 120K+ 长上下文本地 Agent 部署成为可能，直接驱动企业对数据隐私敏感场景下大显存本地工作站与边缘服务器的需求爆破。",
+      "validation_metric": "NVIDIA RTX 4090/6000 Ada 等大显存本地硬件的渠道溢价及 HuggingFace 上 30B 部署框架的下载增速"
+    },
+    {
+      "target_name": "垂直金融深度智能体 (Vertical Finance AI Agents)",
+      "direction": "Bullish",
+      "time_horizon": "短期(1-3个月)",
+      "confidence_score": 90,
+      "core_logic": "Model ML 整合 GPT-5.6 Sol 实现从研究推演到可编辑 PowerPoint/Excel 的全链路闭环，证明垂直高客单价场景（投行/研报/财报）的 Agent 商业化付费路径已完全通畅。",
+      "validation_metric": "标杆金融 AI Agent 产品（如 Model ML、Heptabase 等）的 ARR 增长曲线与企业级客户留存率"
+    }
+  ],
+  "startup_inspirations": [
+    {
+      "tech_trigger": "Google DeepMind WeatherNext 突破性气象预测模型",
+      "product_concept": "基于 AI 气象微模型的“极端气候风险对冲与高频航线优化”决策平台",
+      "target_customers": "远洋航运物流公司、新能源（风/光）电站运营商、农业巨灾保险机构",
+      "monetization_model": "SaaS 基础年费 + 高频微气象预测 API 调用费 + 避险方案效益分成",
+      "mvp_difficulty": "Medium"
+    },
+    {
+      "tech_trigger": "NVIDIA Magpie TTS + Hugging Face 低延迟多语言语音 Agent 架构",
+      "product_concept": "超低延迟（<300ms）端到端离线双向实时语音同传硬件与 SDK 套件",
+      "target_customers": "跨境医疗设备厂商、高端商务会议服务商、出海客服外包中心",
+      "monetization_model": "硬件/软件 SDK 授权费 + 语音流处理时长（按分钟计费）",
+      "mvp_difficulty": "Low"
+    },
+    {
+      "tech_trigger": "Gemini Robotics ER 2 多机协同与工具编排能力",
+      "product_concept": "异构机器人“通用任务大脑”：针对柔性制造厂的跨品牌机器人协同编排系统",
+      "target_customers": "3C 电子代工厂、汽车零配件柔性产线、第三方自动化物流枢纽",
+      "monetization_model": "系统部署许可费 (License) + 现场机器人节点接入月费",
+      "mvp_difficulty": "High"
+    }
+  ]
+}
