@@ -2,42 +2,37 @@ name: Daily AI Reasoning Pipeline
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-  workflow_dispatch:
+    - cron: '0 0 * * *' # 每天自动定时运行
+  workflow_dispatch: # 支持手动按按键触发
 
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
-
-    # 显式声明赋予写入权限
-    permissions:
-      contents: write
-
     steps:
-    - name: Checkout Repository
-      uses: actions/checkout@v4
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.10'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
 
-    - name: Install Dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-    - name: Run AI Pipeline Script
-      env:
-        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-      run: |
-        python main.py
-        python daily_alpha.py
+      - name: Run Main & Pro Pipelines
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python main.py
+          python daily_alpha.py
 
-    - name: Commit and Push Results
-      run: |
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add results.json alpha_results.json
-        git commit -m "auto: update daily reasoning and alpha results [skip ci]" || exit 0
-        git push
+      - name: Commit and Push Updated Results
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add results.json alpha_results.json
+          git commit -m "auto: update reasoning results [skip ci]" || exit 0
+          git push
