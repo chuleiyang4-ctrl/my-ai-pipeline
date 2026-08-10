@@ -1,47 +1,46 @@
 # main.py
-# 数据管道（Pipeline）总指挥控制入口
-
 import os
 import json
+from datetime import datetime, timezone, timedelta
 from scraper import fetch_latest_news
 from cleaner import process_and_clean_articles
 from llm_reasoner import analyze_with_gemini
 
 def run_pipeline():
     print("=" * 50)
-    print("🤖 AI 降噪与二阶决策推演系统 启动运行...")
+    print("🤖 AI 决策与二阶推演系统 启动运行...")
     print("=" * 50)
 
-    # 第一步：抓取 RSS 原始数据（每个源暂定抓取最新 2 条）
+    # 抓取与清洗
     raw_articles = fetch_latest_news(max_items_per_source=2)
     if not raw_articles:
-        print("❌ 未获取到任何新闻数据，程序终止。")
+        print("❌ 未获取到任何新闻数据。")
         return
 
-    # 第二步：规则数据清洗与降噪
     cleaned_articles = process_and_clean_articles(raw_articles)
     if not cleaned_articles:
-        print("❌ 经过降噪后没有有效高信号数据，程序终止。")
+        print("❌ 降噪后没有有效高信号数据。")
         return
 
-    # 第三步：调用 Gemini 进行二阶推演
-    # 提示：可以在环境变量中设置 GEMINI_API_KEY，或直接在下面填入字符串测试
-    api_key = os.environ.get("GEMINI_API_KEY") or "YOUR_GEMINI_API_KEY_HERE"
-    
+    # 调用 Gemini 推演
+    api_key = os.environ.get("GEMINI_API_KEY")
     final_cards = analyze_with_gemini(cleaned_articles, api_key=api_key)
 
-    # 第四步：输出并打印推演卡片 JSON 结果
-    print("\n" + "=" * 50)
-    print("📊 最终生成的结构化推演卡片 (JSON):")
-    print("=" * 50)
+    # 计算当前北京时间 (UTC+8) 并构建最终包含元数据的 JSON 数据结构
+    beijing_time = datetime.now(timezone(timedelta(hours=8))).strftime("%Y-%m-%d %H:%M:%S")
     
-    output_json = json.dumps(final_cards, ensure_ascii=False, indent=2)
-    print(output_json)
+    output_data = {
+        "updated_at": f"{beijing_time} (UTC+8)",
+        "total_cards": len(final_cards),
+        "cards": final_cards
+    }
 
-    # 也可以将结果保存为本地的 results.json 文件
+    # 保存 JSON
+    output_json = json.dumps(output_data, ensure_ascii=False, indent=2)
     with open("results.json", "w", encoding="utf-8") as f:
         f.write(output_json)
-    print("\n💾 结果已成功保存至 results.json")
+        
+    print(f"\n💾 结果已成功保存至 results.json | 更新时间: {beijing_time}")
 
 if __name__ == "__main__":
     run_pipeline()
