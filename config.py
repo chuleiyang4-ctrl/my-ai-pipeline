@@ -14,13 +14,6 @@ RSS_SOURCES = [
         "category": "Model Vendor",
         "url": "https://www.anthropic.com/rss.xml"
     },
-    # config.py 增加 GitHub Trending 路由 (基于 RSSHub 稳定节点)
-    {
-        "id": "github_trending_ai",
-        "name": "GitHub Trending (AI & Python)",
-        "category": "Open Source Breakthroughs",
-        "url": "https://rsshub.app/github/trending/daily/python"
-    }，
     {
         "id": "google_deepmind",
         "name": "Google DeepMind Blog",
@@ -50,8 +43,13 @@ RSS_SOURCES = [
         "name": "Hugging Face Blog",
         "category": "Ecosystem & Models",
         "url": "https://huggingface.co/blog/feed.xml"
+    },
+    {
+        "id": "github_trending_ai",
+        "name": "GitHub Trending (AI & Python)",
+        "category": "Open Source Breakthroughs",
+        "url": "https://rsshub.app/github/trending/daily/python"
     }
-    # 💡 以后想加新源，直接在这里按同样格式粘贴新的大括号即可
 ]
 
 LLM_CONFIG = {
