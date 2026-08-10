@@ -1,51 +1,51 @@
 {
   "market_targets": [
     {
-      "target_name": "具身智能/物理AI (World Action Models & Gemini Robotics ER 2)",
+      "target_name": "具身智能多机协作与世界动作模型 (WAM) 路线",
       "direction": "Bullish",
       "time_horizon": "中长期(6-12个月)",
       "confidence_score": 88,
-      "core_logic": "世界行动模型 (WAM) 与多机协同模型突破了传统 VLA 泛化局限，加速具身智能在复杂工业与物流场景的真实商业落地，直接带动边缘端高算力芯片与传感器需求。",
-      "validation_metric": "工业人形/双臂机器人季度出货量增长率及 NVIDIA Jetson Thor 等边缘算力模组采购额"
+      "core_logic": "DeepMind ER 2 与 NVIDIA WAM 的突破标志着机器人正从‘单体简单泛化’向‘复杂世界模型推演+多机协同控制’演进，工业与物流场景的自动化部署成本将迎来断崖式下跌。",
+      "validation_metric": "头部仓储/制造巨头在工业场景中多机器人协同系统的实际部署数量及具身智能领头羊企业的 B 轮后融资金额"
     },
     {
-      "target_name": "本地化/私有化 Agent 部署生态 (Meta Muse Glimmer 30B & Magpie TTS)",
+      "target_name": "本地私有化 Agent 算力与工作站 (以 Meta Muse 30B + 英伟达栈为代表)",
       "direction": "Bullish",
       "time_horizon": "短期(1-3个月)",
       "confidence_score": 85,
-      "core_logic": "30B 级别高上下文开源模型与超低延迟 TTS 组合，使得企业无需依赖昂贵云端 API 即可在本地部署高可用 Agent，驱动企业级私有算力硬件与部署服务链条回暖。",
-      "validation_metric": "工作站级 GPU (如 RTX 4090/A6000) 企业端销量及 vLLM / Ollama 等部署框架的企业下载量"
+      "core_logic": "30B 稠密+长上下文开源模型的成熟使企业无需上云即可在本地多卡工作站运行复杂 Agent，强力刺激企业级本地高显存硬件与私有化中间件需求。",
+      "validation_metric": "英伟达 RTX 6000 Ada / RTX 4090 等高显存卡在企业端的出货量增长及 GitHub 上本地 Agent 框架（如 Muse 相关）的 Star 增速"
     },
     {
-      "target_name": "垂直领域垂直 Agent SaaS (以 Model ML 金融 Agent 为代表)",
+      "target_name": "垂直金融深度工作流 AI 智能体 (FinTech Agent)",
       "direction": "Bullish",
-      "time_horizon": "短期(1-3个月)",
-      "confidence_score": 82,
-      "core_logic": "能够直接输出可编辑、可追溯（Excel/PPT 原生）结果的深度垂直 Agent 解决了 B 端可解释性与合规痛点，客单价与付费意愿远超通用对话助手。",
-      "validation_metric": "垂直领域 AI SaaS 企业的 ARR (年度可重复收入) 增长率及续费率 (Net Retention Rate)"
+      "time_horizon": "中长期(6-12个月)",
+      "confidence_score": 90,
+      "core_logic": "Model ML 整合 GPT-5.6 Sol 证明了 AI 已具备生成‘可追溯、可直接编辑的复杂 PPT 与 Excel’能力，金融投研与咨询行业的高客单价 SaaS 逻辑被彻底打通。",
+      "validation_metric": "金融垂直领域 AI SaaS 企业的 ARR（年度可重复收入）增长率及 Tier 1 投行/PE 对 AI 工具的采购渗透率"
     }
   ],
   "startup_inspirations": [
     {
-      "tech_trigger": "Google DeepMind WeatherNext 突破性极端气象预测模型",
-      "product_concept": "针对航运航道动态优化、新能源电场出力预测及农业保险精准定损的“高时空分辨率气象风险 SaaS 平台”",
-      "target_customers": "远洋航运物流公司、海上/陆上风光电站运营商、农业保险与再保险公司",
-      "monetization_model": "基础平台订阅费 (SaaS 月费/年费) + 高频 API 调用费 + 保险精算模型定制服务费",
+      "tech_trigger": "Google DeepMind WeatherNext 气象/气旋 AI 预测突破",
+      "product_concept": "基于 AI 气象模型的航运避险与大宗商品套期保值决策 Copilot。结合高频极端天气预测与全球货轮路线/农作物暴露面，自动生成避航建议与金融对冲方案。",
+      "target_customers": "远洋航运物流公司、大宗商品贸易商、农业保险巨头",
+      "monetization_model": "高阶 SaaS 订阅年费 + 基于风险减免的绩效抽成 / API 计量计费",
       "mvp_difficulty": "Medium"
     },
     {
-      "tech_trigger": "NVIDIA Magpie TTS + 低延迟多语言开源语音 Agent 技术",
-      "product_concept": "面向跨国商业与离岸服务的“极速无感交互多语种智能客服与电话销售系统”，支持本地私有部署保障数据隐私",
-      "target_customers": "跨境电商大卖家、离岸医疗/旅游服务商、高端跨国酒店集团",
-      "monetization_model": "按并发通道数订阅 (SaaS) + 线下私有部署与系统集成费",
+      "tech_trigger": "Hugging Face / NVIDIA Magpie TTS 超低延迟多语言语音 Agent",
+      "product_concept": "出海企业级超低延迟（<200ms）端到端私有化语音客服与拟人销售中台。支持多语种实时同传、情绪感知与本地数据合规部署。",
+      "target_customers": "跨境电商龙头、海外出行/外卖平台、出海金融与游戏公司",
+      "monetization_model": "基础软件授权费（按并发通道数量计费）+ 年度技术维护服务费",
       "mvp_difficulty": "Low"
     },
     {
-      "tech_trigger": "Gemini Robotics ER 2 视频理解与多机器人任务编排系统",
-      "product_concept": "异构机器人（无人搬运车 AGV、机械臂、巡检狗）混合编排与协同作业大脑平台，实现跨品牌机器人统一视觉理解与任务调度",
-      "target_customers": "半导体无尘车间、高端智能制造工厂、第三方第三方物流 (3PL) 自动化仓储中心",
-      "monetization_model": "按连接机器人节点数收取的软件许可费 (Software License) + 方案实施服务费",
-      "mvp_difficulty": "High"
+      "tech_trigger": "大规模模型知识蒸馏技术 (Knowledge Distillation) + 开源密集模型",
+      "product_concept": "企业端侧‘模型瘦身与极轻量化蒸馏平台’。帮助数据敏感型企业将千亿基座模型的能力，以极低成本蒸馏至可运行于员工终端/边缘设备的 3B-8B 专属小模型。",
+      "target_customers": "对数据隐私高度敏感的医疗机构、律师事务所、军工/国央企",
+      "monetization_model": "按蒸馏训练任务数收费的 PaaS 模式 + 企业级私有部署服务费",
+      "mvp_difficulty": "Medium"
     }
   ]
 }
