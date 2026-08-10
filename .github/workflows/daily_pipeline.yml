@@ -34,5 +34,5 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add results.json alpha_results.json
-          git commit -m "auto: update reasoning results [skip ci]" || exit 0
+          git commit -m "auto: update reasoning results" || exit 0
           git push
