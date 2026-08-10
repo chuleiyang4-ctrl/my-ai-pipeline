@@ -10,15 +10,17 @@ def run_pipeline():
 
     # 1. 抓取
     raw_articles = fetch_latest_news(max_items_per_source=2)
-    print(f"📥 成功抓取到 {len(raw_articles)} 条原始资讯。")
+    print(f"📥 成功获取到 {len(raw_articles)} 条资讯。")
 
     # 2. 清洗
     cleaned_articles = process_and_clean_articles(raw_articles)
-    print(f"🧹 清洗去重后剩余 {len(cleaned_articles)} 条有效资讯。")
+    if not cleaned_articles:
+        cleaned_articles = raw_articles
+    print(f"🧹 清洗后有效资讯: {len(cleaned_articles)} 条。")
 
     # 3. LLM 二阶推演
     cards = analyze_articles(cleaned_articles)
-    print(f"🧠 Gemini 完成 {len(cards)} 条推演卡片的生成。")
+    print(f"🧠 完成 {len(cards)} 条推演卡片的生成。")
 
     # 4. 打包输出
     output_data = {
