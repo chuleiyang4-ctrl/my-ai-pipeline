@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI 决策深度室 - 标的胜率与创业启发</title>
+    <style>
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: #0f172a; color: #f8fafc; margin: 0; padding: 20px; }
+        .container { max-width: 900px; margin: 0 auto; }
+        h1 { font-size: 1.8rem; color: #38bdf8; text-align: center; }
+        .sub { text-align: center; color: #94a3b8; font-size: 0.9rem; margin-bottom: 30px; }
+        
+        .section-title { font-size: 1.3rem; border-left: 4px solid #38bdf8; padding-left: 10px; margin: 30px 0 15px 0; color: #f1f5f9; }
+        
+        /* 标的卡片表格化样式 */
+        .target-card { background: #1e293b; border-radius: 10px; padding: 18px; margin-bottom: 15px; border: 1px solid #334155; }
+        .target-header { display: flex; justify-content: space-between; align-items: center; }
+        .target-name { font-weight: bold; font-size: 1.1rem; color: #f8fafc; }
+        .bullish { color: #4ade80; background: #064e3b; padding: 3px 8px; border-radius: 4px; font-size: 0.85rem; }
+        .bearish { color: #f87171; background: #7f1d1d; padding: 3px 8px; border-radius: 4px; font-size: 0.85rem; }
+        .logic { margin: 10px 0; font-size: 0.95rem; color: #cbd5e1; }
+        .metric { font-size: 0.85rem; color: #64748b; background: #0f172a; padding: 6px 10px; border-radius: 6px; }
+
+        /* 创业启发卡片样式 */
+        .idea-card { background: #1e293b; border-radius: 10px; padding: 18px; margin-bottom: 15px; border-left: 4px solid #a855f7; }
+        .idea-concept { font-weight: bold; font-size: 1.1rem; color: #c084fc; margin-bottom: 8px; }
+        .idea-row { font-size: 0.9rem; margin-top: 6px; color: #cbd5e1; }
+        .label { color: #94a3b8; font-weight: 600; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>👑 AI 决策深度室 (Pro Alpha)</h1>
+        <div class="sub">基于二阶思维的标的逻辑推演 & 商业化落地指南</div>
+
+        <div class="section-title">📈 标的库与胜率追踪池</div>
+        <div id="targets-container">加载中...</div>
+
+        <div class="section-title">💡 商业化落地与创业启发</div>
+        <div id="ideas-container">加载中...</div>
+    </div>
+
+    <script>
+        async function loadAlpha() {
+            try {
+                const res = await fetch('./alpha_results.json');
+                const data = await res.json();
+
+                // 渲染标的库
+                const tContainer = document.getElementById('targets-container');
+                tContainer.innerHTML = '';
+                (data.market_targets || []).forEach(t => {
+                    tContainer.innerHTML += `
+                        <div class="target-card">
+                            <div class="target-header">
+                                <span class="target-name">${t.target_name}</span>
+                                <span class="${t.direction === 'Bullish' ? 'bullish' : 'bearish'}">${t.direction} | 置信度 ${t.confidence_score}%</span>
+                            </div>
+                            <div class="logic">📌 推演逻辑: ${t.core_logic}</div>
+                            <div class="metric">🔍 验证指标 (${t.time_horizon}): ${t.validation_metric}</div>
+                        </div>
+                    `;
+                });
+
+                // 渲染创业启发
+                const iContainer = document.getElementById('ideas-container');
+                iContainer.innerHTML = '';
+                (data.startup_inspirations || []).forEach(i => {
+                    iContainer.innerHTML += `
+                        <div class="idea-card">
+                            <div class="idea-concept">🚀 产品概念: ${i.product_concept}</div>
+                            <div class="idea-row"><span class="label">🎯 技术源头:</span> ${i.tech_trigger}</div>
+                            <div class="idea-row"><span class="label">👥 付费客户:</span> ${i.target_customers}</div>
+                            <div class="idea-row"><span class="label">💰 变现模式:</span> ${i.monetization_model} (MVP 难度: ${i.mvp_difficulty})</div>
+                        </div>
+                    `;
+                });
+            } catch (e) {
+                document.getElementById('targets-container').innerHTML = '暂无深度分析数据。';
+            }
+        }
+        loadAlpha();
+    </script>
+</body>
+</html>
