@@ -1,6 +1,7 @@
 # llm_reasoner.py
 import os
 import json
+import re
 import google.generativeai as genai
 from config import LLM_CONFIG
 
@@ -8,7 +9,7 @@ SYSTEM_PROMPT = """
 你是一位顶尖的科技与 AI 产业链分析师。
 请针对给定的新闻/技术进展，提取核心【事实摘要】，并深入分析其【一阶直接影响】与【二阶推演传导】。
 
-你必须严格返回以下 JSON 数组格式（绝对不要包含 ```json 等 markdown 代码块标记）：
+你必须严格返回 JSON 数组格式：
 [
   {
     "title": "新闻标题/核心事件",
@@ -28,12 +29,16 @@ def analyze_articles(articles):
         return []
 
     if not articles:
+        print("⚠️ 传入新闻列表为空，跳过 AI 分析。")
         return []
 
     genai.configure(api_key=api_key)
+    
+    # 开启原生 JSON 响应模式，杜绝格式解析失败
     model = genai.GenerativeModel(
         model_name=LLM_CONFIG["model_name"],
-        system_instruction=SYSTEM_PROMPT
+        system_instruction=SYSTEM_PROMPT,
+        generation_config={"response_mime_type": "application/json"}
     )
 
     input_text = "请分析以下最新 AI 资讯:\n\n"
@@ -42,8 +47,13 @@ def analyze_articles(articles):
 
     try:
         response = model.generate_content(input_text)
-        clean_text = response.text.strip().replace("```json", "").replace("```", "")
-        reasoned_data = json.loads(clean_text)
+        text = response.text.strip()
+        
+        # 深度正则剥离可能的 Markdown 标记
+        text = re.sub(r"^```(?:json)?\s*", "", text, flags=re.MULTILINE)
+        text = re.sub(r"\s*```$", "", text, flags=re.MULTILINE)
+        
+        reasoned_data = json.loads(text.strip())
         return reasoned_data
     except Exception as e:
         print(f"❌ Gemini 推理分析生成失败: {str(e)}")
