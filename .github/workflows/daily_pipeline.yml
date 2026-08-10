@@ -1,4 +1,4 @@
-name: Daily AI Pipeline Task
+name: Daily AI Reasoning Pipeline
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
 jobs:
   run-pipeline:
     runs-on: ubuntu-latest
-    
+
     # 显式声明赋予写入权限
     permissions:
       contents: write
@@ -32,11 +32,12 @@ jobs:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
       run: |
         python main.py
+        python daily_alpha.py
 
     - name: Commit and Push Results
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"
         git config --local user.name "github-actions[bot]"
-        git add results.json
-        git commit -m "auto: update daily reasoning results [skip ci]" || exit 0
+        git add results.json alpha_results.json
+        git commit -m "auto: update daily reasoning and alpha results [skip ci]" || exit 0
         git push
