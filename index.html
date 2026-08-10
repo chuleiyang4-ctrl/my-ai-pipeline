@@ -55,61 +55,77 @@
             const container = document.getElementById('cards-container');
             const timeTag = document.getElementById('update-time');
 
+            // 优先直接拉取 GitHub 仓库主干分支最新的 results.json
+            const primaryUrl = 'https://raw.githubusercontent.com/chuleiyang4-ctrl/my-ai-pipeline/main/results.json?t=' + new Date().getTime();
+            const fallbackUrl = './results.json?t=' + new Date().getTime();
+
+            let data = null;
+
             try {
-                const response = await fetch('./results.json?t=' + new Date().getTime());
-                if (!response.ok) throw new Error('无法获取 JSON 数据');
-                
-                const data = await response.json();
-
-                let cardsList = [];
-                let lastUpdated = '实时更新';
-
-                if (Array.isArray(data)) {
-                    cardsList = data;
-                } else if (data && typeof data === 'object') {
-                    cardsList = data.cards || Object.values(data).find(v => Array.isArray(v)) || [];
-                    lastUpdated = data.updated_at || lastUpdated;
+                let response = await fetch(primaryUrl);
+                if (!response.ok) {
+                    response = await fetch(fallbackUrl);
                 }
-
-                timeTag.innerText = '最后更新时间: ' + lastUpdated;
-
-                if (!cardsList || cardsList.length === 0) {
-                    container.innerHTML = '<div class="empty-state">暂无最新推演卡片。</div>';
-                    return;
-                }
-
-                container.innerHTML = '';
-                cardsList.forEach(item => {
-                    const factSummary = item.summary || item.fact_summary || item.raw_summary || item.description || item.snippet || '暂无事实摘要';
-                    const firstOrder = item.first_order_impact || item.first_order || item.first_order_effect || '暂无分析';
-                    const secondOrder = item.second_order_reasoning || item.second_order || item.second_order_effect || '暂无推演';
-
-                    container.innerHTML += `
-                        <div class="card">
-                            <div class="card-header">
-                                <span class="source-tag">${item.source_name || '官方资讯'}</span>
-                                <span class="time-tag">${item.published_at || ''}</span>
-                            </div>
-                            <div class="title">${item.title || '最新资讯'}</div>
-                            
-                            <div class="section fact-summary">
-                                <span class="label">📌 事实摘要：</span>${factSummary}
-                            </div>
-                            <div class="section order1">
-                                <span class="label">🎯 一阶直接影响：</span>${firstOrder}
-                            </div>
-                            <div class="section order2">
-                                <span class="label">🧩 二阶推演：</span>${secondOrder}
-                            </div>
-                        </div>
-                    `;
-                });
-
+                data = await response.json();
             } catch (error) {
-                console.error(error);
-                timeTag.innerText = '最后更新时间: 读取失败';
-                container.innerHTML = '<div class="empty-state">加载数据失败，请检查 results.json 路径。</div>';
+                console.warn('GitHub Raw 抓取异常，尝试读取同源路径:', error);
+                try {
+                    const res = await fetch(fallbackUrl);
+                    data = await res.json();
+                } catch (e) {
+                    console.error(e);
+                }
             }
+
+            if (!data) {
+                timeTag.innerText = '最后更新时间: 读取失败';
+                container.innerHTML = '<div class="empty-state">加载数据失败，请检查网络连接或 results.json 路径。</div>';
+                return;
+            }
+
+            let cardsList = [];
+            let lastUpdated = '实时更新';
+
+            if (Array.isArray(data)) {
+                cardsList = data;
+            } else if (data && typeof data === 'object') {
+                cardsList = data.cards || Object.values(data).find(v => Array.isArray(v)) || [];
+                lastUpdated = data.updated_at || lastUpdated;
+            }
+
+            timeTag.innerText = '最后更新时间: ' + lastUpdated;
+
+            if (!cardsList || cardsList.length === 0) {
+                container.innerHTML = '<div class="empty-state">暂无最新推演卡片。</div>';
+                return;
+            }
+
+            container.innerHTML = '';
+            cardsList.forEach(item => {
+                const factSummary = item.summary || item.fact_summary || item.raw_summary || item.description || item.snippet || '暂无事实摘要';
+                const firstOrder = item.first_order_impact || item.first_order || item.first_order_effect || '暂无分析';
+                const secondOrder = item.second_order_reasoning || item.second_order || item.second_order_effect || '暂无推演';
+
+                container.innerHTML += `
+                    <div class="card">
+                        <div class="card-header">
+                            <span class="source-tag">${item.source_name || '官方资讯'}</span>
+                            <span class="time-tag">${item.published_at || ''}</span>
+                        </div>
+                        <div class="title">${item.title || '最新资讯'}</div>
+                        
+                        <div class="section fact-summary">
+                            <span class="label">📌 事实摘要：</span>${factSummary}
+                        </div>
+                        <div class="section order1">
+                            <span class="label">🎯 一阶直接影响：</span>${firstOrder}
+                        </div>
+                        <div class="section order2">
+                            <span class="label">🧩 二阶推演：</span>${secondOrder}
+                        </div>
+                    </div>
+                `;
+            });
         }
 
         fetchResults();
