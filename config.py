@@ -14,6 +14,13 @@ RSS_SOURCES = [
         "category": "Model Vendor",
         "url": "https://www.anthropic.com/rss.xml"
     },
+    # config.py 增加 GitHub Trending 路由 (基于 RSSHub 稳定节点)
+    {
+        "id": "github_trending_ai",
+        "name": "GitHub Trending (AI & Python)",
+        "category": "Open Source Breakthroughs",
+        "url": "https://rsshub.app/github/trending/daily/python"
+    }，
     {
         "id": "google_deepmind",
         "name": "Google DeepMind Blog",
