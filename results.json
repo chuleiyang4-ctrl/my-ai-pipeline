@@ -1,4 +1,77 @@
 {
-  "updated_at": "2026-08-10 21:18:11 UTC",
-  "cards": []
+  "updated_at": "2026-08-10 21:24:35 UTC",
+  "cards": [
+    {
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "source_name": "TechCrunch AI",
+      "published_at": "Mon, 10 Aug 2026 20:53:02 +0000",
+      "summary": "On Monday, Mark Zuckerberg published a 6,500 word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "first_order_impact": "直接赋能垂直领域核心厂商，提升计算效率与交互体验。",
+      "second_order_reasoning": "重构上游算力与下游应用商业模式，加速企业级 Agent 采购落地。"
+    },
+    {
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "source_name": "TechCrunch AI",
+      "published_at": "Mon, 10 Aug 2026 20:04:24 +0000",
+      "summary": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "first_order_impact": "直接赋能垂直领域核心厂商，提升计算效率与交互体验。",
+      "second_order_reasoning": "重构上游算力与下游应用商业模式，加速企业级 Agent 采购落地。"
+    },
+    {
+      "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
+      "source_name": "VentureBeat AI",
+      "published_at": "Tue, 19 May 2026 17:45:00 GMT",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google ann",
+      "first_order_impact": "直接赋能垂直领域核心厂商，提升计算效率与交互体验。",
+      "second_order_reasoning": "重构上游算力与下游应用商业模式，加速企业级 Agent 采购落地。"
+    },
+    {
+      "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
+      "source_name": "VentureBeat AI",
+      "published_at": "Thu, 22 Jan 2026 14:00:00 GMT",
+      "summary": "Railway, a San Francisco-based cloud platform that has quietly amassed two million developers without spending a dollar on marketing, announced Thursday that it raised $100 million in a Series B funding round, as surging demand for artificial intelligence applications exposes the limitations of lega",
+      "first_order_impact": "直接赋能垂直领域核心厂商，提升计算效率与交互体验。",
+      "second_order_reasoning": "重构上游算力与下游应用商业模式，加速企业级 Agent 采购落地。"
+    },
+    {
+      "title": "AI professors are negotiating the new realities of academic research",
+      "source_name": "MIT Tech Review AI",
+      "published_at": "Mon, 10 Aug 2026 20:00:00 +0000",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join some of the most accomplished, and some of the most promising",
+      "first_order_impact": "直接赋能垂直领域核心厂商，提升计算效率与交互体验。",
+      "second_order_reasoning": "重构上游算力与下游应用商业模式，加速企业级 Agent 采购落地。"
+    },
+    {
+      "title": "AI for science needs reasoning, not just data",
+      "source_name": "MIT Tech Review AI",
+      "published_at": "Mon, 10 Aug 2026 09:00:00 +0000",
+      "summary": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that theoretical physics might be finished by the end of the century. Wi",
+      "first_order_impact": "直接赋能垂直领域核心厂商，提升计算效率与交互体验。",
+      "second_order_reasoning": "重构上游算力与下游应用商业模式，加速企业级 Agent 采购落地。"
+    },
+    {
+      "title": "The AI Slop Backlash Is Actually Having an Impact",
+      "source_name": "Wired AI",
+      "published_at": "Mon, 10 Aug 2026 11:30:00 +0000",
+      "summary": "Platforms are finally recognizing that people don’t want to consume AI slop. A growing number of sites and apps now have tools and policies to flag, label, and ban AI-generated content.",
+      "first_order_impact": "直接赋能垂直领域核心厂商，提升计算效率与交互体验。",
+      "second_order_reasoning": "重构上游算力与下游应用商业模式，加速企业级 Agent 采购落地。"
+    },
+    {
+      "title": "WeatherNext: AI model achieves breakthrough in forecasting cyclones",
+      "source_name": "Google DeepMind Blog",
+      "published_at": "Thu, 06 Aug 2026 15:06:15 +0000",
+      "summary": "暂无硬核摘要",
+      "first_order_impact": "直接赋能垂直领域核心厂商，提升计算效率与交互体验。",
+      "second_order_reasoning": "重构上游算力与下游应用商业模式，加速企业级 Agent 采购落地。"
+    },
+    {
+      "title": "Gemini Robotics ER 2: powering robotics with video understanding, task orchestration, and multi-robot collaboration",
+      "source_name": "Google DeepMind Blog",
+      "published_at": "Thu, 30 Jul 2026 15:00:59 +0000",
+      "summary": "Gemini Robotics ER 2 helps robots reason, collaborate, and solve real-world tasks. It represents a step change in video understanding, tool orchestration, and multi-robot collaboration for robotic applications.",
+      "first_order_impact": "直接赋能垂直领域核心厂商，提升计算效率与交互体验。",
+      "second_order_reasoning": "重构上游算力与下游应用商业模式，加速企业级 Agent 采购落地。"
+    }
+  ]
 }
