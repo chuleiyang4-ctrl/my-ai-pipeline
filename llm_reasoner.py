@@ -1,4 +1,3 @@
-# llm_reasoner.py
 import os
 import json
 import re
@@ -24,21 +23,13 @@ SYSTEM_PROMPT = """
 
 def analyze_articles(articles):
     api_key = os.environ.get("GEMINI_API_KEY")
-    
-    # 兜底逻辑：若无 API Key 或 API 异常时保底生成结构化推演
-    if not api_key or not articles:
-        print("⚠️ 未找到 GEMINI_API_KEY 或资讯为空，使用结构化推演规则生成卡片...")
-        fallback_cards = []
-        for a in articles:
-            fallback_cards.append({
-                "title": a.get("title", "AI 核心技术进展"),
-                "source_name": a.get("source_name", "AI 产业链观察"),
-                "published_at": a.get("published_at", "最新"),
-                "summary": a.get("summary", "该技术或战略动作标志着 AI 产业链基础设施与应用落地进入全新阶段。"),
-                "first_order_impact": f"直接推动 {a.get('source_name', '相关厂商')} 在算力、软件生态与垂直场景的部署落地，直接赋能生态合作伙伴。",
-                "second_order_reasoning": "将加速产业链上下游配套（算力/数据/高客单场景 Agent）的资本开支与商业化渗透，倒逼传统工作流重构。"
-            })
-        return fallback_cards
+    if not api_key:
+        print("❌ 警告: 环境变量中未检测到 GEMINI_API_KEY！")
+        return []
+
+    if not articles:
+        print("⚠️ 传入新闻列表为空，跳过 AI 分析。")
+        return []
 
     try:
         genai.configure(api_key=api_key)
@@ -58,18 +49,7 @@ def analyze_articles(articles):
         text = re.sub(r"^```(?:json)?\s*", "", text, flags=re.MULTILINE)
         text = re.sub(r"\s*```$", "", text, flags=re.MULTILINE)
         
-        reasoned_data = json.loads(text.strip())
-        return reasoned_data
+        return json.loads(text.strip())
     except Exception as e:
-        print(f"❌ Gemini 推理分析生成异常 ({str(e)})，触发保底结构化卡片...")
-        fallback_cards = []
-        for a in articles:
-            fallback_cards.append({
-                "title": a.get("title", "AI 核心技术进展"),
-                "source_name": a.get("source_name", "AI 产业链观察"),
-                "published_at": a.get("published_at", "最新"),
-                "summary": a.get("summary", "技术进展快速演进中。"),
-                "first_order_impact": "直接赋能垂直领域核心厂商，提升计算效率与交互体验。",
-                "second_order_reasoning": "重构上游算力与下游应用商业模式，加速企业级 Agent 采购落地。"
-            })
-        return fallback_cards
+        print(f"❌ Gemini 推理生成异常: {str(e)}")
+        return []
