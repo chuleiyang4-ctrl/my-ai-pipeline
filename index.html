@@ -84,7 +84,8 @@
 
                 container.innerHTML = '';
                 cardsList.forEach(item => {
-                    const factSummary = item.summary || item.fact_summary || item.description || '暂无事实摘要';
+                    // 全抓取自动兜底，确保事实摘要绝对能显示出来
+                    const factSummary = item.summary || item.fact_summary || item.raw_summary || item.description || item.snippet || '暂无事实摘要';
                     const firstOrder = item.first_order_impact || item.first_order || item.first_order_effect || '暂无分析';
                     const secondOrder = item.second_order_reasoning || item.second_order || item.second_order_effect || '暂无推演';
 
