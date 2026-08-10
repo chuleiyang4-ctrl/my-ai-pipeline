@@ -1,5 +1,5 @@
 # config.py
-# 存储 10 个核心官方 RSS 信息源及最新模型配置
+# 存储核心官方 RSS 信息源及最新模型配置
 
 RSS_SOURCES = [
     {
@@ -24,7 +24,6 @@ RSS_SOURCES = [
         "id": "xai",
         "name": "xAI (Grok) News",
         "category": "Model Vendor",
-        # 使用 RSSHub 转换为标准的 RSS 路由
         "url": "https://rsshub.app/xai/news"
     },
     {
@@ -40,20 +39,14 @@ RSS_SOURCES = [
         "url": "https://ai.meta.com/blog/rss/"
     },
     {
-        "id": "github_blog",
-        "name": "GitHub Engineering & AI Blog",
-        "category": "Developer Tools",
-        "url": "https://github.blog/category/engineering/feed/"
-    },
-    {
         "id": "huggingface",
         "name": "Hugging Face Blog",
         "category": "Ecosystem & Models",
         "url": "https://huggingface.co/blog/feed.xml"
     }
+    # 💡 以后想加新源，直接在这里按同样格式粘贴新的大括号即可
 ]
 
-# 大模型配置（更新为最新 Gemini 3.6 Flash，性能更好且成本极低）
 LLM_CONFIG = {
     "provider": "gemini",
     "model_name": "gemini-3.6-flash"
