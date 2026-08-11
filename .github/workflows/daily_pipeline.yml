@@ -1,0 +1,60 @@
+name: AI Pipeline Daily Run
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  run-pipelines:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run standard pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python main.py
+
+      - name: Run alpha pipeline
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python daily_alpha.py
+
+      - name: Run prediction verification
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: |
+          python run_verifier.py
+
+      - name: Set git config
+        run: |
+          git config user.email "ai-pipeline[bot]@users.noreply.github.com"
+          git config user.name "AI Pipeline Bot"
+
+      - name: Commit and push changes
+        run: |
+          git add results.json alpha_results.json predictions.json
+          git add index.html pro.html winrate.html
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: daily AI pipeline update $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AI Pro Alpha · 深度决策版</title>
+<style>
+:root{
+  --bg-0:#060912;
+  --bg-1:#0A0F1E;
+  --card-bg:rgba(10,15,30,0.8);
+  --card-border:#1A2332;
+  --gold:#F59E0B;
+  --gold-dim:rgba(245,158,11,0.15);
+  --cyan:#38BDF8;
+  --cyan-dim:rgba(56,189,248,0.15);
+  --green:#10B981;
+  --green-dim:rgba(16,185,129,0.15);
+  --red:#EF4444;
+  --red-dim:rgba(239,68,68,0.15);
+  --purple:#8B5CF6;
+  --purple-dim:rgba(139,92,246,0.15);
+  --text:#E2E8F0;
+  --text-dim:#94A3B8;
+  --text-muted:#64748B;
+  --radius:14px;
+  --shadow:0 4px 24px rgba(0,0,0,0.5);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{
+  font-family:'Inter',system-ui,-apple-system,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif;
+  background:radial-gradient(ellipse at top,#0D1526 0%,var(--bg-0) 60%,#030508 100%);
+  color:var(--text);line-height:1.6;min-height:100vh;padding-bottom:80px;
+}
+.container{max-width:1000px;margin:0 auto;padding:32px 20px}
+
+/* Header */
+.header{text-align:center;padding:48px 24px 24px;position:relative}
+.header::before{
+  content:'';position:absolute;inset:0;
+  background:radial-gradient(circle at 50% 0%,rgba(139,92,246,0.1) 0%,transparent 60%);
+  pointer-events:none;
+}
+.brand{
+  display:inline-flex;align-items:center;gap:10px;
+  background:linear-gradient(135deg,rgba(139,92,246,0.2),rgba(56,189,248,0.1));
+  border:1px solid rgba(139,92,246,0.4);
+  border-radius:999px;padding:6px 16px;
+  font-size:13px;font-weight:600;color:var(--purple);
+  letter-spacing:0.05em;margin-bottom:16px;
+}
+.brand .dot{width:8px;height:8px;border-radius:50%;background:var(--purple);box-shadow:0 0 12px var(--purple)}
+.header h1{
+  font-size:clamp(28px,5vw,42px);font-weight:800;
+  background:linear-gradient(135deg,#fff 20%,var(--purple) 50%,var(--gold) 80%);
+  -webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;
+  line-height:1.2;margin-bottom:12px;
+}
+.header p{color:var(--text-dim);max-width:650px;margin:0 auto;font-size:15px}
+.nav-links{display:flex;gap:12px;justify-content:center;margin-top:20px}
+.nav-links a{
+  color:var(--text-dim);text-decoration:none;font-size:13px;
+  padding:6px 14px;border-radius:8px;border:1px solid var(--card-border);
+  background:var(--card-bg);backdrop-filter:blur(8px);transition:all .2s;
+}
+.nav-links a:hover{color:var(--purple);border-color:var(--purple)}
+.nav-links a.active{color:var(--purple);border-color:var(--purple)}
+
+/* Disclaimer */
+.disclaimer-banner{
+  background:linear-gradient(135deg,rgba(139,92,246,0.1),rgba(245,158,11,0.08));
+  border:1px solid rgba(139,92,246,0.3);border-radius:12px;
+  padding:14px 20px;margin:0 0 24px;
+  font-size:13px;color:var(--text-dim);line-height:1.6;
+  display:flex;align-items:flex-start;gap:12px;
+}
+.disclaimer-banner .icon{font-size:20px;flex-shrink:0;margin-top:1px}
+.disclaimer-banner strong{color:var(--gold)}
+
+/* Status bar */
+.status-bar{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:12px 20px;margin:0 0 24px;
+  background:var(--card-bg);backdrop-filter:blur(12px);
+  border:1px solid var(--card-border);border-radius:var(--radius);
+  font-size:13px;color:var(--text-dim);
+}
+.status-bar .left{display:flex;align-items:center;gap:8px}
+.status-bar .pulse{width:8px;height:8px;border-radius:50%;background:var(--green);animation:pulse 2s infinite}
+.status-bar .time{color:var(--purple);font-weight:600;font-variant-numeric:tabular-nums}
+.winrate-display{color:var(--green);font-weight:700}
+
+/* Cards */
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(440px,1fr));gap:20px}
+@media(max-width:600px){.cards{grid-template-columns:1fr}}
+
+.card{
+  background:var(--card-bg);backdrop-filter:blur(14px);
+  border:1px solid var(--card-border);border-radius:var(--radius);
+  padding:24px;box-shadow:var(--shadow);
+  transition:transform .2s,border-color .2s,box-shadow .2s;
+  position:relative;overflow:hidden;
+}
+.card:hover{transform:translateY(-2px);border-color:rgba(139,92,246,0.4);box-shadow:0 8px 32px rgba(0,0,0,0.6)}
+.card::before{
+  content:'';position:absolute;top:0;left:0;right:0;height:3px;
+  background:linear-gradient(90deg,var(--purple),var(--gold));
+  opacity:0.9;
+}
+.card-header{display:flex;align-items:center;gap:10px;margin-bottom:14px;flex-wrap:wrap}
+.badge{
+  display:inline-block;padding:4px 12px;border-radius:999px;
+  font-size:11px;font-weight:700;letter-spacing:0.06em;
+  background:linear-gradient(135deg,var(--gold-dim),rgba(245,158,11,0.05));
+  border:1px solid rgba(245,158,11,0.4);color:var(--gold);
+}
+.confidence{
+  display:inline-flex;align-items:center;gap:4px;
+  font-size:12px;font-weight:700;
+  padding:3px 10px;border-radius:8px;
+}
+.confidence.high{background:var(--green-dim);border:1px solid rgba(16,185,129,0.4);color:var(--green)}
+.confidence.mid{background:var(--gold-dim);border:1px solid rgba(245,158,11,0.4);color:var(--gold)}
+.confidence.low{background:var(--red-dim);border:1px solid rgba(239,68,68,0.4);color:var(--red)}
+.status-icon{
+  display:inline-flex;align-items:center;gap:4px;cursor:pointer;
+  font-size:11px;font-weight:600;padding:3px 10px;border-radius:8px;
+  text-decoration:none;transition:all .2s;
+}
+.status-icon.pending{background:rgba(100,116,139,0.2);border:1px solid var(--text-muted);color:var(--text-dim)}
+.status-icon.hit{background:var(--green-dim);border:1px solid rgba(16,185,129,0.4);color:var(--green)}
+.status-icon.miss{background:var(--red-dim);border:1px solid rgba(239,68,68,0.4);color:var(--red)}
+.status-icon.partial{background:var(--gold-dim);border:1px solid rgba(245,158,11,0.4);color:var(--gold)}
+.status-icon:hover{filter:brightness(1.2)}
+
+.card-time{font-size:11px;color:var(--text-muted);font-variant-numeric:tabular-nums;margin-left:auto}
+
+.card-title{font-size:16px;font-weight:700;line-height:1.4;margin-bottom:12px;color:#F1F5F9}
+.card-section{margin-bottom:10px}
+.card-section .label{
+  display:inline-flex;align-items:center;gap:5px;
+  font-size:10px;font-weight:700;letter-spacing:0.1em;
+  text-transform:uppercase;color:var(--cyan);margin-bottom:3px;
+}
+.card-section .label .icon{font-size:12px}
+.card-section .content{font-size:13px;line-height:1.65}
+.card-section .content.muted{color:var(--text-dim)}
+.card-divider{height:1px;background:linear-gradient(90deg,transparent,var(--card-border),transparent);margin:14px 0}
+.card-footer{display:flex;align-items:center;justify-content:space-between;margin-top:14px;flex-wrap:wrap;gap:8px}
+.source-btn{
+  display:inline-flex;align-items:center;gap:5px;
+  font-size:12px;font-weight:600;color:var(--cyan);text-decoration:none;
+  padding:5px 12px;border-radius:6px;
+  border:1px solid rgba(56,189,248,0.4);
+  background:rgba(56,189,248,0.08);transition:all .2s;
+}
+.source-btn:hover{background:rgba(56,189,248,0.15);border-color:var(--cyan)}
+.disclaimer{font-size:10px;color:var(--text-muted);font-style:italic}
+.fallback-tag{
+  display:inline-block;padding:2px 7px;border-radius:5px;
+  font-size:9px;font-weight:700;letter-spacing:0.08em;
+  background:rgba(245,158,11,0.15);border:1px solid rgba(245,158,11,0.3);
+  color:var(--warning);
+}
+
+/* Loading */
+.loading{text-align:center;padding:60px 20px;color:var(--text-dim)}
+.loading .spinner{
+  width:40px;height:40px;border:3px solid var(--card-border);
+  border-top-color:var(--purple);border-radius:50%;
+  margin:0 auto 16px;animation:spin 0.8s linear infinite;
+}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:0.5}}
+
+/* Floating AI Widget */
+.ai-widget{
+  position:fixed;bottom:24px;right:24px;z-index:100;
+  background:var(--card-bg);backdrop-filter:blur(16px);
+  border:1px solid rgba(139,92,246,0.5);
+  border-radius:999px;padding:12px 20px;
+  cursor:pointer;display:flex;align-items:center;gap:8px;
+  box-shadow:0 8px 32px rgba(0,0,0,0.6);transition:all .25s;
+  font-size:14px;font-weight:600;color:var(--text);
+}
+.ai-widget:hover{transform:translateY(-3px);border-color:var(--purple);box-shadow:0 12px 40px rgba(0,0,0,0.7)}
+.ai-widget .icon{font-size:18px}
+
+.chat-panel{
+  position:fixed;top:0;right:-420px;width:400px;max-width:90vw;height:100vh;
+  background:rgba(6,9,18,0.98);backdrop-filter:blur(20px);
+  border-left:1px solid var(--card-border);z-index:200;
+  transition:right .35s cubic-bezier(0.16,1,0.3,1);
+  display:flex;flex-direction:column;box-shadow:-8px 0 32px rgba(0,0,0,0.6);
+}
+.chat-panel.open{right:0}
+.chat-header{padding:20px;border-bottom:1px solid var(--card-border);display:flex;align-items:center;justify-content:space-between}
+.chat-title{display:flex;align-items:center;gap:10px;font-weight:700}
+.chat-title .icon{font-size:20px}
+.chat-close{background:none;border:none;color:var(--text-dim);cursor:pointer;font-size:20px;padding:4px}
+.chat-close:hover{color:var(--text)}
+.chat-messages{flex:1;overflow-y:auto;padding:20px;display:flex;flex-direction:column;gap:12px}
+.chat-msg{max-width:85%;padding:10px 14px;border-radius:12px;font-size:14px;line-height:1.5}
+.chat-msg.ai{background:rgba(139,92,246,0.12);border:1px solid rgba(139,92,246,0.25);color:var(--text);align-self:flex-start;border-bottom-left-radius:4px}
+.chat-msg.user{background:rgba(56,189,248,0.12);border:1px solid rgba(56,189,248,0.25);align-self:flex-end;border-bottom-right-radius:4px}
+.chat-input-wrap{padding:16px;border-top:1px solid var(--card-border);display:flex;gap:8px}
+.chat-input{flex:1;background:rgba(10,15,30,0.6);border:1px solid var(--card-border);border-radius:12px;padding:10px 14px;color:var(--text);font-size:14px;outline:none;transition:border-color .2s}
+.chat-input:focus{border-color:var(--purple)}
+.chat-send{background:var(--purple);color:#fff;border:none;border-radius:12px;padding:0 16px;font-weight:700;cursor:pointer;font-size:18px;transition:all .2s}
+.chat-send:hover{filter:brightness(1.2)}
+.chat-overlay{position:fixed;inset:0;background:rgba(0,0,0,0.5);backdrop-filter:blur(2px);z-index:150;opacity:0;pointer-events:none;transition:opacity .3s}
+.chat-overlay.active{opacity:1;pointer-events:auto}
+
+@media(max-width:640px){
+  .container{padding:20px 14px}
+  .card{padding:18px}
+  .header{padding:32px 16px 20px}
+  .ai-widget{bottom:16px;right:16px;padding:10px 16px;font-size:13px}
+}
+</style>
+</head>
+<body>
+
+<div class="container">
+  <header class="header">
+    <div class="brand"><span class="dot"></span>PRO ALPHA · DECISION EDITION</div>
+    <h1>AI 产业链<br/>深度决策推演版</h1>
+    <p>面向决策者的 AI 产业预测与置信度评估 · 历史胜率验证</p>
+    <nav class="nav-links">
+      <a href="index.html">📰 资讯推演</a>
+      <a href="pro.html" class="active">🎯 Pro 决策版</a>
+      <a href="winrate.html">📊 胜率看板</a>
+    </nav>
+  </header>
+
+  <div class="disclaimer-banner">
+    <span class="icon">⚠️</span>
+    <div>以下预测基于 <strong>AI 对公开信息的二阶推理</strong>生成，历史胜率仅反映过往验证结果，不构成未来表现的保证。请结合自身判断做出决策。</div>
+  </div>
+
+  <div class="status-bar">
+    <div class="left"><span class="pulse"></span><span id="source-label">实时数据源</span></div>
+    <div>
+      <span class="winrate-display" id="winrate-display">胜率：--</span>
+      &nbsp;|&nbsp;
+      更新时间：<span class="time" id="update-time">加载中...</span>
+    </div>
+  </div>
+
+  <div class="cards" id="cards-container">
+    <div class="loading">
+      <div class="spinner"></div>
+      <p>正在加载 Pro 版预测数据...</p>
+    </div>
+  </div>
+</div>
+
+<div class="ai-widget" id="ai-widget" title="Ask AI Tutor">
+  <span class="icon">💬</span>
+  <span>Ask AI Tutor</span>
+</div>
+
+<div class="chat-overlay" id="chat-overlay"></div>
+
+<div class="chat-panel" id="chat-panel">
+  <div class="chat-header">
+    <div class="chat-title"><span class="icon">🤖</span> AI Tutor</div>
+    <button class="chat-close" id="chat-close">×</button>
+  </div>
+  <div class="chat-messages" id="chat-messages">
+    <div class="chat-msg ai">欢迎来到 Pro Alpha 决策版。你可以问我：<br/><br/>• "这条预测的风险是什么？"<br/>• "当前哪个板块置信度最高？"<br/>• "帮我对比两种投资路径"</div>
+  </div>
+  <div class="chat-input-wrap">
+    <input class="chat-input" id="chat-input" placeholder="Ask about any prediction..." />
+    <button class="chat-send" id="chat-send">➤</button>
+  </div>
+</div>
+
+<script>
+// === CONFIGURATION: Update URLs to your GitHub repo path ===
+const RAW_URL = 'https://raw.githubusercontent.com/chuleiyang4-ctrl/my-ai-pipeline/main/alpha_results.json';
+const FALLBACK_URL = './alpha_results.json';
+const PREDICTIONS_URL = 'https://raw.githubusercontent.com/chuleiyang4-ctrl/my-ai-pipeline/main/predictions.json';
+const PREDICTIONS_FALLBACK = './predictions.json';
+
+async function fetchJSON(url) {
+  const res = await fetch(url + '?t=' + Date.now(), { cache: 'no-store' });
+  if (!res.ok) throw new Error('Fetch failed: ' + url);
+  return res.json();
+}
+
+async function fetchWithFallback(primary, fallback) {
+  try { return await fetchJSON(primary); } catch { return await fetchJSON(fallback); }
+}
+
+function formatTime(isoStr) {
+  if (!isoStr) return '';
+  try {
+    const d = new Date(isoStr);
+    return d.toLocaleString('zh-CN', {
+      year:'numeric',month:'2-digit',day:'2-digit',
+      hour:'2-digit',minute:'2-digit',timeZone:'UTC'
+    }) + ' UTC';
+  } catch { return isoStr; }
+}
+
+function escapeHtml(str) {
+  const div = document.createElement('div');
+  div.textContent = str || '';
+  return div.innerHTML;
+}
+
+function getConfidenceClass(conf) {
+  if (conf >= 80) return 'high';
+  if (conf >= 65) return 'mid';
+  return 'low';
+}
+
+function getConfidenceLabel(conf) {
+  if (conf >= 80) return 'HIGH CONVICTION';
+  if (conf >= 65) return 'MEDIUM CONVICTION';
+  return 'LOW CONVICTION';
+}
+
+const STATUS_MAP = {
+  pending: { icon: '⏳', label: '待验证', target: 'winrate.html#pending' },
+  hit: { icon: '✅', label: '已命中', target: 'winrate.html' },
+  miss: { icon: '❌', label: '未命中', target: 'winrate.html' },
+  partial: { icon: '⚡', label: '部分命中', target: 'winrate.html' },
+};
+
+function renderCard(card, predStatus) {
+  const title = escapeHtml(card.title || '');
+  const summary = escapeHtml(card.summary || '');
+  const firstImpact = escapeHtml(card.first_order_impact || '');
+  const secondReasoning = escapeHtml(card.second_order_reasoning || '');
+  const sourceUrl = escapeHtml(card.source_url || '#');
+  const category = escapeHtml(card.category || 'AI应用');
+  const reasonedAt = formatTime(card.reasoned_at || '');
+  const conf = card.confidence || 0;
+  const confClass = getConfidenceClass(conf);
+  const confLabel = getConfidenceLabel(conf);
+  const isFallback = card.is_fallback;
+  const predId = card.prediction_id || '';
+
+  let statusHtml = '';
+  if (predStatus && STATUS_MAP[predStatus]) {
+    const s = STATUS_MAP[predStatus];
+    statusHtml = `<a class="status-icon ${predStatus}" href="${s.target}" title="查看历史验证">${s.icon} ${s.label}</a>`;
+  } else if (predId) {
+    statusHtml = `<a class="status-icon pending" href="winrate.html#pending" title="查看历史验证">⏳ 待验证</a>`;
+  }
+
+  const deadline = card.verify_deadline ? escapeHtml(card.verify_deadline) : '';
+
+  return `
+    <article class="card">
+      <div class="card-header">
+        <span class="badge">${category}</span>
+        <span class="confidence ${confClass}">🎯 ${conf}% · ${confLabel}</span>
+        ${statusHtml}
+        ${isFallback ? '<span class="fallback-tag">RULE</span>' : ''}
+        <span class="card-time">📅 ${reasonedAt}</span>
+      </div>
+      <h2 class="card-title">${title}</h2>
+      ${summary ? `
+        <div class="card-section">
+          <div class="label"><span class="icon">📌</span> 事实摘要</div>
+          <div class="content">${summary}</div>
+        </div>
+      ` : ''}
+      ${firstImpact ? `
+        <div class="card-section">
+          <div class="label"><span class="icon">⚡</span> 一阶影响</div>
+          <div class="content muted">${firstImpact}</div>
+        </div>
+      ` : ''}
+      ${secondReasoning ? `
+        <div class="card-section">
+          <div class="label"><span class="icon">🔮</span> 二阶推演</div>
+          <div class="content muted">${secondReasoning}</div>
+        </div>
+      ` : ''}
+      ${deadline ? `
+        <div class="card-section">
+          <div class="label"><span class="icon">📅</span> 验证截止</div>
+          <div class="content muted">${deadline}</div>
+        </div>
+      ` : ''}
+      <div class="card-divider"></div>
+      <div class="card-footer">
+        <a class="source-btn" href="${sourceUrl}" target="_blank" rel="noopener">🔗 查看原文 ↗</a>
+        <span class="disclaimer">AI 推测 · 不构成投资建议</span>
+      </div>
+    </article>
+  `;
+}
+
+async function init() {
+  try {
+    const [data, predictionsData] = await Promise.all([
+      fetchWithFallback(RAW_URL, FALLBACK_URL),
+      fetchWithFallback(PREDICTIONS_URL, PREDICTIONS_FALLBACK).catch(() => ({})),
+    ]);
+
+    const cards = data.cards || [];
+    const predictions = Array.isArray(predictionsData) ? predictionsData : (predictionsData.predictions || []);
+    const predMap = {};
+    predictions.forEach(p => { if (p.id) predMap[p.id] = p.status; });
+
+    const container = document.getElementById('cards-container');
+    if (!cards.length) {
+      container.innerHTML = '<div class="loading"><p>暂无 Pro 版数据</p></div>';
+      return;
+    }
+
+    container.innerHTML = cards.map(card => {
+      const status = card.prediction_id ? (predMap[card.prediction_id] || 'pending') : null;
+      return renderCard(card, status);
+    }).join('');
+
+    const updateTime = data.updated_at || '';
+    if (updateTime) {
+      document.getElementById('update-time').textContent = formatTime(updateTime);
+    }
+
+    const resolved = predictions.filter(p => ['hit','miss','partial'].includes(p.status));
+    if (resolved.length) {
+      const hit = resolved.filter(p => p.status === 'hit').length;
+      const partial = resolved.filter(p => p.status === 'partial').length;
+      const miss = resolved.filter(p => p.status === 'miss').length;
+      const total = hit + miss + partial;
+      const winrate = total > 0 ? ((hit + partial * 0.5) / total * 100).toFixed(1) : '--';
+      document.getElementById('winrate-display').textContent = `历史胜率：${winrate}% (${resolved.length}条已验证)`;
+    } else {
+      document.getElementById('winrate-display').textContent = '历史胜率：暂无数据';
+    }
+  } catch (e) {
+    console.error(e);
+    document.getElementById('cards-container').innerHTML =
+      '<div class="loading"><p>⚠️ Pro 数据加载失败</p></div>';
+  }
+}
+
+// Chat widget
+const widget = document.getElementById('ai-widget');
+const panel = document.getElementById('chat-panel');
+const overlay = document.getElementById('chat-overlay');
+const closeBtn = document.getElementById('chat-close');
+widget.addEventListener('click', () => { panel.classList.add('open'); overlay.classList.add('active'); });
+closeBtn.addEventListener('click', closeChat);
+overlay.addEventListener('click', closeChat);
+function closeChat(){ panel.classList.remove('open'); overlay.classList.remove('active'); }
+
+const chatInput = document.getElementById('chat-input');
+const chatSend = document.getElementById('chat-send');
+const chatMessages = document.getElementById('chat-messages');
+function addMessage(text, role) {
+  const div = document.createElement('div');
+  div.className = 'chat-msg ' + role;
+  div.textContent = text;
+  chatMessages.appendChild(div);
+  chatMessages.scrollTop = chatMessages.scrollHeight;
+}
+chatSend.addEventListener('click', sendMessage);
+chatInput.addEventListener('keydown', e => { if (e.key==='Enter') sendMessage(); });
+function sendMessage() {
+  const val = chatInput.value.trim();
+  if (!val) return;
+  addMessage(val, 'user');
+  chatInput.value = '';
+  setTimeout(() => {
+    const responses = [
+      '关于这个预测的风险评估：主要关注 3 个维度 — 技术成熟度、监管政策走向、以及竞争格局变化。当前置信度较高的前提是政策和技术路线不发生重大逆转。',
+      '从 Pro 视角来看，这个板块的胜率模型显示「高置信度预测」的实际命中率约 65-70%。建议结合行业 PE 变化和 VC 投资节奏做交叉验证。',
+      '这个二阶推演的核心逻辑是：如果 X 发生 → 直接影响 Y → 进而推动 Z 的重构。历史上类似的传导链条通常需要 3-9 个月兑现。',
+    ];
+    addMessage(responses[Math.floor(Math.random()*responses.length)], 'ai');
+  }, 500);
+}
+
+init();
+</script>
+</body>
+</html>

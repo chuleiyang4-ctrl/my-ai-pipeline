@@ -1,0 +1,76 @@
+{
+  "updated_at": "2026-08-11T00:00:00Z",
+  "total": 5,
+  "cards": [
+    {
+      "title": "Apple Reportedly Developing On-Device LLM for iPhone",
+      "summary": "Apple is reportedly working on a large language model that runs entirely on-device for iPhone, potentially reducing reliance on cloud APIs and improving user privacy.",
+      "first_order_impact": "Direct reduction in cloud API costs for Apple and improved user data privacy for iPhone users.",
+      "second_order_reasoning": "On-device LLM could democratize AI access across iOS ecosystem, enabling third-party developers to build AI-powered apps without backend infrastructure.",
+      "source_url": "https://www.reuters.com/technology/apple-developing-on-device-llm-iphone-sources-say/",
+      "category": "基础模型",
+      "reasoned_at": "2026-08-11T00:00:00Z",
+      "is_fallback": true,
+      "confidence": 82,
+      "prediction_id": "pred_20260811_001",
+      "verify_metric": "Technology adoption rate and App Store AI app count growth for on-device LLM category",
+      "verify_deadline": "2027-02-11"
+    },
+    {
+      "title": "Tesla Optimus Gen3 Enters Mass Production Line",
+      "summary": "Tesla has confirmed that its Optimus Gen3 humanoid robot has entered mass production, with initial units destined for Tesla's own manufacturing facilities.",
+      "first_order_impact": "Tesla's manufacturing cost reduction through automation, potential new revenue stream from robot sales.",
+      "second_order_reasoning": "Mass production of humanoid robots could trigger a new industrial revolution in labor-intensive sectors, reshaping global manufacturing dynamics.",
+      "source_url": "https://electrek.co/2026/08/08/tesla-optimus-gen3-production/",
+      "category": "具身智能",
+      "reasoned_at": "2026-08-11T00:00:00Z",
+      "is_fallback": true,
+      "confidence": 88,
+      "prediction_id": "pred_20260811_002",
+      "verify_metric": "Tesla robot delivery numbers and humanoid robot market size growth",
+      "verify_deadline": "2027-02-11"
+    },
+    {
+      "title": "BlackRock Launches AI-Driven Financial Agent Platform",
+      "summary": "BlackRock has launched a new AI-driven financial agent platform that can autonomously execute multi-step investment research and portfolio management.",
+      "first_order_impact": "Increased efficiency in asset management, potential fee compression in traditional financial advisory services.",
+      "second_order_reasoning": "The entrance of a top-tier asset manager into AI agents signals institutional validation and could trigger a wave of AI-native financial products.",
+      "source_url": "https://www.blackrock.com/corporate/ai-financial-agents",
+      "category": "金融Agent",
+      "reasoned_at": "2026-08-11T00:00:00Z",
+      "is_fallback": true,
+      "confidence": 76,
+      "prediction_id": "pred_20260811_003",
+      "verify_metric": "AUM managed by AI agents and number of institutional AI finance product launches",
+      "verify_deadline": "2027-02-11"
+    },
+    {
+      "title": "NVIDIA Blackwell Ultra Chip Begins Shipping to Cloud Providers",
+      "summary": "NVIDIA has begun shipping its Blackwell Ultra GPU chips to major cloud providers with 4x inference performance improvement.",
+      "first_order_impact": "Cloud providers gain significant inference cost advantage; NVIDIA extends GPU dominance in AI infrastructure.",
+      "second_order_reasoning": "The performance leap could enable new AI applications previously infeasible, accelerating the AI compute demand curve.",
+      "source_url": "https://nvidianews.nvidia.com/news/blackwell-ultra-ships",
+      "category": "AI基础设施",
+      "reasoned_at": "2026-08-11T00:00:00Z",
+      "is_fallback": true,
+      "confidence": 92,
+      "prediction_id": "pred_20260811_004",
+      "verify_metric": "NVIDIA AI infrastructure market share and Blackwell Ultra revenue contribution",
+      "verify_deadline": "2027-02-11"
+    },
+    {
+      "title": "OpenAI o3 Surpasses Human Benchmarks on Multistep Reasoning",
+      "summary": "OpenAI's o3 model has surpassed human expert benchmarks on multistep mathematical and logical reasoning tasks.",
+      "first_order_impact": "Potential disruption in sectors requiring complex reasoning: law, medicine, engineering.",
+      "second_order_reasoning": "If AI consistently outperforms humans on reasoning tasks, it could trigger fundamental reevaluation of knowledge work economics.",
+      "source_url": "https://openai.com/index/o3-surpasses-human",
+      "category": "LLM",
+      "reasoned_at": "2026-08-11T00:00:00Z",
+      "is_fallback": true,
+      "confidence": 79,
+      "prediction_id": "pred_20260811_005",
+      "verify_metric": "Enterprise AI adoption rates for reasoning-intensive tasks and LLM market benchmarks",
+      "verify_deadline": "2027-02-11"
+    }
+  ]
+}
