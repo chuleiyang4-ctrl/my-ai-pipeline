@@ -1,20 +1,76 @@
 {
-  "updated_at": "2026-08-12T05:45:22Z",
+  "updated_at": "2026-08-13T05:50:49Z",
   "total": 15,
   "cards": [
     {
-      "title": "How the “censorship-industrial complex” is changing the Internet and US policy",
+      "title": "Scientists just created female clones of male mice",
+      "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice.&#160; “No one has done this before,” says Monika Ward, a reproductive...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+      "category": "AI应用",
+      "reasoned_at": "2026-08-13T05:50:48Z",
+      "is_fallback": true,
+      "confidence": 79,
+      "prediction_id": "pred_20260813_001",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-02-09"
+    },
+    {
+      "title": "Scaling AI agents with trustworthy data",
+      "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on investment (ROI) from AI hinges...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-08-13T05:50:48Z",
+      "is_fallback": true,
+      "confidence": 73,
+      "prediction_id": "pred_20260813_002",
+      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
+      "verify_deadline": "2027-02-09"
+    },
+    {
+      "title": "The Download: our 35 young innovators and the “censorship-industrial complex”",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How we picked 35 of the world’s top young scientists and engineers On September 8, MIT Technology Review will reveal its 2026 list of Innovators...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/08/12/1141714/the-download-innovators-under-35-censorship-industrial-complex/",
+      "category": "AI应用",
+      "reasoned_at": "2026-08-13T05:50:48Z",
+      "is_fallback": true,
+      "confidence": 81,
+      "prediction_id": "pred_20260813_003",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-02-09"
+    },
+    {
+      "title": "How we picked 35 of the world’s top young scientists and engineers",
+      "summary": "Next month, on September 8, MIT Technology Review will reveal its 2026 list of Innovators Under 35, recognizing 35 young people from around the world who are doing groundbreaking scientific work and building clever technical fixes for sticky problems.&#160; By finding the top young innovators...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/08/12/1141605/2026-innovators-under-35-top-young-scientists-engineers/",
+      "category": "AI应用",
+      "reasoned_at": "2026-08-13T05:50:48Z",
+      "is_fallback": true,
+      "confidence": 78,
+      "prediction_id": "pred_20260813_004",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-02-09"
+    },
+    {
+      "title": "How the “censorship-industrial complex” is changing the internet and US policy",
       "summary": "I first heard the term “censorship-industrial complex” on April 15, 2025.&#160; That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of Russia, Iran, and China, was facing imminent shutdown—the...",
       "first_order_impact": "Direct market movement expected for entities related to: AI应用",
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy/",
       "category": "AI应用",
-      "reasoned_at": "2026-08-12T05:45:21Z",
+      "reasoned_at": "2026-08-13T05:50:48Z",
       "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20260812_001",
+      "confidence": 80,
+      "prediction_id": "pred_20260813_005",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-02-08"
+      "verify_deadline": "2027-02-09"
     },
     {
       "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
@@ -23,12 +79,12 @@
       "second_order_reasoning": "Ripple effects across the LLM value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting/",
       "category": "LLM",
-      "reasoned_at": "2026-08-12T05:45:21Z",
+      "reasoned_at": "2026-08-13T05:50:48Z",
       "is_fallback": true,
-      "confidence": 81,
-      "prediction_id": "pred_20260812_002",
+      "confidence": 85,
+      "prediction_id": "pred_20260813_006",
       "verify_metric": "Technology adoption rate and market dynamics for LLM sector",
-      "verify_deadline": "2027-02-08"
+      "verify_deadline": "2027-02-09"
     },
     {
       "title": "AI professors are negotiating the new realities of academic research",
@@ -37,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research/",
       "category": "AI应用",
-      "reasoned_at": "2026-08-12T05:45:21Z",
+      "reasoned_at": "2026-08-13T05:50:48Z",
       "is_fallback": true,
       "confidence": 77,
-      "prediction_id": "pred_20260812_003",
+      "prediction_id": "pred_20260813_007",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-02-08"
+      "verify_deadline": "2027-02-09"
     },
     {
       "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
@@ -51,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex/",
       "category": "金融Agent",
-      "reasoned_at": "2026-08-12T05:45:21Z",
+      "reasoned_at": "2026-08-13T05:50:49Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20260812_004",
+      "confidence": 74,
+      "prediction_id": "pred_20260813_008",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-02-08"
+      "verify_deadline": "2027-02-09"
     },
     {
       "title": "AI for science needs reasoning, not just data",
@@ -65,12 +121,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science/",
       "category": "AI应用",
-      "reasoned_at": "2026-08-12T05:45:21Z",
+      "reasoned_at": "2026-08-13T05:50:49Z",
       "is_fallback": true,
-      "confidence": 76,
-      "prediction_id": "pred_20260812_005",
+      "confidence": 83,
+      "prediction_id": "pred_20260813_009",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-02-08"
+      "verify_deadline": "2027-02-09"
     },
     {
       "title": "These startups are chasing the next big thing in LLMs",
@@ -79,68 +135,12 @@
       "second_order_reasoning": "Ripple effects across the LLM value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms/",
       "category": "LLM",
-      "reasoned_at": "2026-08-12T05:45:22Z",
-      "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20260812_006",
-      "verify_metric": "Technology adoption rate and market dynamics for LLM sector",
-      "verify_deadline": "2027-02-08"
-    },
-    {
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years, narratives about a “censorship-industrial complex”...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus/",
-      "category": "AI应用",
-      "reasoned_at": "2026-08-12T05:45:22Z",
-      "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20260812_007",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-02-08"
-    },
-    {
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "summary": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been dreading.&#160; For months, Elon Musk’s Department of Government...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy/",
-      "category": "AI应用",
-      "reasoned_at": "2026-08-12T05:45:22Z",
-      "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20260812_008",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-02-08"
-    },
-    {
-      "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model/",
-      "category": "AI应用",
-      "reasoned_at": "2026-08-12T05:45:22Z",
+      "reasoned_at": "2026-08-13T05:50:49Z",
       "is_fallback": true,
       "confidence": 73,
-      "prediction_id": "pred_20260812_009",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-02-08"
-    },
-    {
-      "title": "Puzzle Corner",
-      "summary": "Ready for a fresh set of puzzles? Click here for the September/October 2026 Puzzle Corner, brought to you by Michael S. Branicky, ScD ’95, of the Puzzle Corner Puzzle Crew (aka PC2), which also includes Edward Faulkner ’03, MEng ’04, and Abe Kunin ’03. This column includes solutions to the May/June...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/08/05/1141230/puzzle-corner-84/",
-      "category": "AI应用",
-      "reasoned_at": "2026-08-12T05:45:22Z",
-      "is_fallback": true,
-      "confidence": 80,
-      "prediction_id": "pred_20260812_010",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-02-08"
+      "prediction_id": "pred_20260813_010",
+      "verify_metric": "Technology adoption rate and market dynamics for LLM sector",
+      "verify_deadline": "2027-02-09"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -149,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-08-12T05:45:22Z",
+      "reasoned_at": "2026-08-13T05:50:49Z",
       "is_fallback": true,
-      "confidence": 80,
-      "prediction_id": "pred_20260812_011",
+      "confidence": 79,
+      "prediction_id": "pred_20260813_011",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-02-08"
+      "verify_deadline": "2027-02-09"
     },
     {
       "title": "Railway secures $100 million to challenge AWS with AI-native cloud infrastructure",
@@ -163,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/infrastructure/railway-secures-usd100-million-to-challenge-aws-with-ai-native-cloud",
       "category": "AI应用",
-      "reasoned_at": "2026-08-12T05:45:22Z",
+      "reasoned_at": "2026-08-13T05:50:49Z",
       "is_fallback": true,
-      "confidence": 80,
-      "prediction_id": "pred_20260812_012",
+      "confidence": 72,
+      "prediction_id": "pred_20260813_012",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-02-08"
+      "verify_deadline": "2027-02-09"
     },
     {
       "title": "Claude Code costs up to $200 a month. Goose does the same thing for free.",
@@ -177,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/infrastructure/claude-code-costs-up-to-usd200-a-month-goose-does-the-same-thing-for-free",
       "category": "金融Agent",
-      "reasoned_at": "2026-08-12T05:45:22Z",
+      "reasoned_at": "2026-08-13T05:50:49Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20260812_013",
+      "confidence": 73,
+      "prediction_id": "pred_20260813_013",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-02-08"
+      "verify_deadline": "2027-02-09"
     },
     {
       "title": "Listen Labs raises $69M after viral billboard hiring stunt to scale AI customer interviews",
@@ -191,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/listen-labs-raises-usd69m-after-viral-billboard-hiring-stunt-to-scale-ai",
       "category": "AI应用",
-      "reasoned_at": "2026-08-12T05:45:22Z",
+      "reasoned_at": "2026-08-13T05:50:49Z",
       "is_fallback": true,
-      "confidence": 69,
-      "prediction_id": "pred_20260812_014",
+      "confidence": 68,
+      "prediction_id": "pred_20260813_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-02-08"
+      "verify_deadline": "2027-02-09"
     },
     {
       "title": "Salesforce rolls out new Slackbot AI agent as it battles Microsoft and Google in workplace AI",
@@ -205,12 +205,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/salesforce-rolls-out-new-slackbot-ai-agent-as-it-battles-microsoft-and",
       "category": "金融Agent",
-      "reasoned_at": "2026-08-12T05:45:22Z",
+      "reasoned_at": "2026-08-13T05:50:49Z",
       "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20260812_015",
+      "confidence": 79,
+      "prediction_id": "pred_20260813_015",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-02-08"
+      "verify_deadline": "2027-02-09"
     }
   ]
 }
