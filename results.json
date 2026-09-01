@@ -1,7 +1,17 @@
 {
-  "updated_at": "2026-08-31T02:51:44Z",
+  "updated_at": "2026-09-01T03:00:35Z",
   "total": 15,
   "cards": [
+    {
+      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents escaped their sandbox and hacked into the AI platform Hugging...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-09-01T03:00:34Z",
+      "is_fallback": true
+    },
     {
       "title": "The Download: a secretive antiaging drug and joining virtual power plants",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company...",
@@ -9,7 +19,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
       "category": "AI应用",
-      "reasoned_at": "2026-08-31T02:51:43Z",
+      "reasoned_at": "2026-09-01T03:00:34Z",
       "is_fallback": true
     },
     {
@@ -19,7 +29,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
       "category": "AI应用",
-      "reasoned_at": "2026-08-31T02:51:43Z",
+      "reasoned_at": "2026-09-01T03:00:34Z",
       "is_fallback": true
     },
     {
@@ -29,7 +39,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
       "category": "AI应用",
-      "reasoned_at": "2026-08-31T02:51:43Z",
+      "reasoned_at": "2026-09-01T03:00:34Z",
       "is_fallback": true
     },
     {
@@ -39,7 +49,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev/",
       "category": "金融Agent",
-      "reasoned_at": "2026-08-31T02:51:43Z",
+      "reasoned_at": "2026-09-01T03:00:34Z",
       "is_fallback": true
     },
     {
@@ -49,7 +59,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/27/1142953/electric-truck-slate-auto/",
       "category": "AI应用",
-      "reasoned_at": "2026-08-31T02:51:43Z",
+      "reasoned_at": "2026-09-01T03:00:35Z",
       "is_fallback": true
     },
     {
@@ -59,7 +69,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
       "category": "金融Agent",
-      "reasoned_at": "2026-08-31T02:51:44Z",
+      "reasoned_at": "2026-09-01T03:00:35Z",
       "is_fallback": true
     },
     {
@@ -69,7 +79,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears/",
       "category": "AI应用",
-      "reasoned_at": "2026-08-31T02:51:44Z",
+      "reasoned_at": "2026-09-01T03:00:35Z",
       "is_fallback": true
     },
     {
@@ -79,7 +89,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
       "category": "AI应用",
-      "reasoned_at": "2026-08-31T02:51:44Z",
+      "reasoned_at": "2026-09-01T03:00:35Z",
       "is_fallback": true
     },
     {
@@ -89,17 +99,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
       "category": "AI应用",
-      "reasoned_at": "2026-08-31T02:51:44Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
-      "summary": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures conference room overlooks the Carillon Point Marina, where a flotilla...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
-      "category": "AI应用",
-      "reasoned_at": "2026-08-31T02:51:44Z",
+      "reasoned_at": "2026-09-01T03:00:35Z",
       "is_fallback": true
     },
     {
@@ -109,7 +109,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-08-31T02:51:44Z",
+      "reasoned_at": "2026-09-01T03:00:35Z",
       "is_fallback": true
     },
     {
@@ -119,7 +119,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "AI应用",
-      "reasoned_at": "2026-08-31T02:51:44Z",
+      "reasoned_at": "2026-09-01T03:00:35Z",
       "is_fallback": true
     },
     {
@@ -129,7 +129,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-08-31T02:51:44Z",
+      "reasoned_at": "2026-09-01T03:00:35Z",
       "is_fallback": true
     },
     {
@@ -139,7 +139,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-08-31T02:51:44Z",
+      "reasoned_at": "2026-09-01T03:00:35Z",
       "is_fallback": true
     },
     {
@@ -149,7 +149,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-08-31T02:51:44Z",
+      "reasoned_at": "2026-09-01T03:00:35Z",
       "is_fallback": true
     }
   ]
