@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-09-03T02:29:07Z",
+  "updated_at": "2026-09-04T02:23:41Z",
   "total": 15,
   "cards": [
+    {
+      "title": "The Download: rethinking child safety and fossil-fueled farming",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re increasingly turning...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+      "category": "AI应用",
+      "reasoned_at": "2026-09-04T02:23:40Z",
+      "is_fallback": true,
+      "confidence": 71,
+      "prediction_id": "pred_20260904_001",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-03-03"
+    },
+    {
+      "title": "Agriculture relies on fossil fuels. It’s costing us.",
+      "summary": "If you’ve had to fill up your vehicle’s gas tank or buy a plane ticket lately, you’ve probably felt the effects of rising fossil-fuel prices. But farmers buying fertilizer for their crops are especially aware of just how far the ripple effects of the conflict in Iran have spread. Fertilizer prices...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/03/1143320/fertilizer-prices-fossil-fuels/",
+      "category": "AI应用",
+      "reasoned_at": "2026-09-04T02:23:40Z",
+      "is_fallback": true,
+      "confidence": 75,
+      "prediction_id": "pred_20260904_002",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-03-03"
+    },
+    {
+      "title": "Scaling agentic AI pilots across the enterprise",
+      "summary": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business. Although agentic AI has been adopted by some 80% of Fortune 500...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-09-04T02:23:40Z",
+      "is_fallback": true,
+      "confidence": 77,
+      "prediction_id": "pred_20260904_003",
+      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
+      "verify_deadline": "2027-03-03"
+    },
     {
       "title": "Facilitating AI integration with simplicity at scale",
       "summary": "As companies scale, the technology supporting operations can become a liability just as quickly as it becomes an asset. Disconnected systems, site-specific tools, spreadsheets, and manual workarounds can create data silos that make it harder to spot problems early, coordinate responses, and make...",
@@ -9,12 +51,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-03T02:29:05Z",
+      "reasoned_at": "2026-09-04T02:23:40Z",
       "is_fallback": true,
-      "confidence": 71,
-      "prediction_id": "pred_20260903_001",
+      "confidence": 78,
+      "prediction_id": "pred_20260904_004",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-02"
+      "verify_deadline": "2027-03-03"
     },
     {
       "title": "The Download: AI puzzles and a path to our nearest star system",
@@ -23,12 +65,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-03T02:29:05Z",
+      "reasoned_at": "2026-09-04T02:23:40Z",
       "is_fallback": true,
-      "confidence": 71,
-      "prediction_id": "pred_20260903_002",
+      "confidence": 82,
+      "prediction_id": "pred_20260904_005",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-02"
+      "verify_deadline": "2027-03-03"
     },
     {
       "title": "How AI plotted an interstellar journey to Alpha Centauri",
@@ -37,12 +79,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/01/1143247/ai-interstellar-journey-alpha-centauri/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-03T02:29:05Z",
+      "reasoned_at": "2026-09-04T02:23:40Z",
       "is_fallback": true,
-      "confidence": 71,
-      "prediction_id": "pred_20260903_003",
+      "confidence": 72,
+      "prediction_id": "pred_20260904_006",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-02"
+      "verify_deadline": "2027-03-03"
     },
     {
       "title": "Making the AI-powered case for legacy modernization",
@@ -51,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the AI安全 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/01/1142180/making-the-ai-powered-case-for-legacy-modernization/",
       "category": "AI安全",
-      "reasoned_at": "2026-09-03T02:29:05Z",
+      "reasoned_at": "2026-09-04T02:23:40Z",
       "is_fallback": true,
-      "confidence": 69,
-      "prediction_id": "pred_20260903_004",
+      "confidence": 78,
+      "prediction_id": "pred_20260904_007",
       "verify_metric": "Technology adoption rate and market dynamics for AI安全 sector",
-      "verify_deadline": "2027-03-02"
+      "verify_deadline": "2027-03-03"
     },
     {
       "title": "The Download: engineered microbes for crops, and OpenAI’s culture problem",
@@ -65,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/01/1143199/the-download-engineered-microbes-openai-safety-culture/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-03T02:29:05Z",
+      "reasoned_at": "2026-09-04T02:23:40Z",
       "is_fallback": true,
-      "confidence": 81,
-      "prediction_id": "pred_20260903_005",
+      "confidence": 76,
+      "prediction_id": "pred_20260904_008",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-02"
+      "verify_deadline": "2027-03-03"
     },
     {
       "title": "How engineered microbes could help feed the world’s crops",
@@ -79,12 +121,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/01/1143195/microbe-fertilizer-switch-bioworks/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-03T02:29:06Z",
+      "reasoned_at": "2026-09-04T02:23:40Z",
       "is_fallback": true,
-      "confidence": 70,
-      "prediction_id": "pred_20260903_006",
+      "confidence": 69,
+      "prediction_id": "pred_20260904_009",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-02"
+      "verify_deadline": "2027-03-03"
     },
     {
       "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
@@ -93,54 +135,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai/",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-03T02:29:06Z",
+      "reasoned_at": "2026-09-04T02:23:40Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20260903_007",
+      "confidence": 80,
+      "prediction_id": "pred_20260904_010",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-02"
-    },
-    {
-      "title": "The Download: a secretive antiaging drug and joining virtual power plants",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A startup claims it’s found a drug to make your blood young —Antonio Regalado I knew I’d officially become a “longevity influencer” when a company...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-03T02:29:06Z",
-      "is_fallback": true,
-      "confidence": 75,
-      "prediction_id": "pred_20260903_008",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-02"
-    },
-    {
-      "title": "How to sign up for a virtual power plant—and decide whether you should",
-      "summary": "MIT Technology Review’s How To series helps you get things done.&#160; Your thermostat may not look like a power plant. Neither does your electric vehicle, home battery, or HVAC system. But utility and energy companies increasingly want to treat them like one. A virtual power plant, or VPP, is a...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/08/28/1142956/how-to-sign-up-for-a-virtual-power-plant-and-decide-whether-you-should/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-03T02:29:06Z",
-      "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20260903_009",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-02"
-    },
-    {
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-03T02:29:06Z",
-      "is_fallback": true,
-      "confidence": 82,
-      "prediction_id": "pred_20260903_010",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-02"
+      "verify_deadline": "2027-03-03"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -149,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-03T02:29:06Z",
+      "reasoned_at": "2026-09-04T02:23:40Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20260903_011",
+      "confidence": 78,
+      "prediction_id": "pred_20260904_011",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-02"
+      "verify_deadline": "2027-03-03"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -163,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "AI应用",
-      "reasoned_at": "2026-09-03T02:29:06Z",
+      "reasoned_at": "2026-09-04T02:23:41Z",
       "is_fallback": true,
       "confidence": 76,
-      "prediction_id": "pred_20260903_012",
+      "prediction_id": "pred_20260904_012",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-02"
+      "verify_deadline": "2027-03-03"
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -177,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-03T02:29:06Z",
+      "reasoned_at": "2026-09-04T02:23:41Z",
       "is_fallback": true,
-      "confidence": 83,
-      "prediction_id": "pred_20260903_013",
+      "confidence": 75,
+      "prediction_id": "pred_20260904_013",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-02"
+      "verify_deadline": "2027-03-03"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -191,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-09-03T02:29:06Z",
+      "reasoned_at": "2026-09-04T02:23:41Z",
       "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20260903_014",
+      "confidence": 77,
+      "prediction_id": "pred_20260904_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-02"
+      "verify_deadline": "2027-03-03"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -205,12 +205,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-09-03T02:29:06Z",
+      "reasoned_at": "2026-09-04T02:23:41Z",
       "is_fallback": true,
-      "confidence": 83,
-      "prediction_id": "pred_20260903_015",
+      "confidence": 73,
+      "prediction_id": "pred_20260904_015",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-02"
+      "verify_deadline": "2027-03-03"
     }
   ]
 }
