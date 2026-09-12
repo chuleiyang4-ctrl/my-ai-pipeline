@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-09-11T02:27:14Z",
+  "updated_at": "2026-09-12T02:34:49Z",
   "total": 15,
   "cards": [
+    {
+      "title": "Roundtables: AI’s apocalypse crisis",
+      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "category": "AI应用",
+      "reasoned_at": "2026-09-12T02:34:48Z",
+      "is_fallback": true
+    },
+    {
+      "title": "The Download: biotech’s future and cheaper, cleaner steel",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet the under-35s shaping the future of biotech Every year, MIT Technology Review puts together our 35 Innovators Under 35, a list of some of the...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/11/1143879/the-download-biotech-future-cheaper-cleaner-steel/",
+      "category": "AI应用",
+      "reasoned_at": "2026-09-12T02:34:48Z",
+      "is_fallback": true
+    },
+    {
+      "title": "Meet the under-35s shaping the future of biotech",
+      "summary": "Every year, MIT Technology Review puts together a list of some of the brightest and best young minds working across science and technology. Our 35 Innovators Under 35 are the ones to watch—people whose research and technical work stands to shape the future of their fields. This year, the list...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
+      "category": "AI应用",
+      "reasoned_at": "2026-09-12T02:34:48Z",
+      "is_fallback": true
+    },
     {
       "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was...",
@@ -9,7 +39,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-11T02:27:13Z",
+      "reasoned_at": "2026-09-12T02:34:48Z",
       "is_fallback": true
     },
     {
@@ -19,7 +49,7 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-09-11T02:27:13Z",
+      "reasoned_at": "2026-09-12T02:34:48Z",
       "is_fallback": true
     },
     {
@@ -29,7 +59,7 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/10/1143804/this-road-map-could-help-us-decide-whether-to-deploy-solar-geoengineering/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-09-11T02:27:13Z",
+      "reasoned_at": "2026-09-12T02:34:48Z",
       "is_fallback": true
     },
     {
@@ -39,7 +69,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/10/1143791/us-china-batteries/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-11T02:27:13Z",
+      "reasoned_at": "2026-09-12T02:34:48Z",
       "is_fallback": true
     },
     {
@@ -49,7 +79,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-11T02:27:14Z",
+      "reasoned_at": "2026-09-12T02:34:48Z",
       "is_fallback": true
     },
     {
@@ -59,7 +89,7 @@
       "second_order_reasoning": "Ripple effects across the 基础模型 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
       "category": "基础模型",
-      "reasoned_at": "2026-09-11T02:27:14Z",
+      "reasoned_at": "2026-09-12T02:34:48Z",
       "is_fallback": true
     },
     {
@@ -69,67 +99,37 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/09/1143767/the-download-openai-math-future-battery-record/",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-11T02:27:14Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Batteries just broke another record in the US",
-      "summary": "Battery installations hit a new record in the US in the second quarter of 2026. In total, 20.2 gigawatt-hours of new capacity came online, according to a new report. That’s enough to supply the daily electricity needs of about 700,000 homes. The surge is putting the country on a trajectory to see...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/09/1143680/batteries-us-record/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-11T02:27:14Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Understanding the thermal ceiling in portable power",
-      "summary": "Plug a phone into a modern charger and the first 10 minutes are impressive. The next 20 are not. This is not a defect. It’s the connected device protecting itself. As temperature rises during charging, a smartphone&#8217;s battery management system reduces the current it will accept, because heat...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/09/1143279/understanding-the-thermal-ceiling-in-portable-power/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-11T02:27:14Z",
-      "is_fallback": true
-    },
-    {
-      "title": "What OpenAI’s latest controversy tells us about the future of math",
-      "summary": "OpenAI’s latest mathematical milestone has quickly become mired in controversy. Today, the company announced that its agents have solved one of the Millennium Prize Problems, some of the most important open problems in mathematics. Under normal circumstances, that solution would be a huge feather...",
-      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
-      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
-      "category": "金融Agent",
-      "reasoned_at": "2026-09-11T02:27:14Z",
+      "reasoned_at": "2026-09-12T02:34:48Z",
       "is_fallback": true
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
-      "summary": "Presented by Gravitee Agent complexity is the insidious shadow lurking inside enterprises right now that needs a light shone on it.That’s because enterprises don&#x27;t deploy a single agent and watch it run, they deploy fleets, each one calling APIs, calling other agents, reaching into...",
+      "summary": "Presented by GraviteeRead more",
       "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-11T02:27:14Z",
+      "reasoned_at": "2026-09-12T02:34:49Z",
       "is_fallback": true
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
-      "summary": "Presented by EDB As enterprises give AI agents more autonomy — the ability to plan, decide, and act across systems without a human approving each step — a hard question moves to the center of every architecture review: When an agent tries to complete an action that it was never authorized to do...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "summary": "Presented by EDBRead more",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-11T02:27:14Z",
+      "category": "金融Agent",
+      "reasoned_at": "2026-09-12T02:34:49Z",
       "is_fallback": true
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
-      "summary": "Presented by Tata Communications Enterprises are deploying AI agents, voice AI, and automation across messaging, voice, and digital channels faster than the architecture meant to support it. Most of that deployment has involved attaching conversational AI to legacy systems never built for it, says...",
+      "summary": "Presented by Tata CommunicationsRead more",
       "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-11T02:27:14Z",
+      "reasoned_at": "2026-09-12T02:34:49Z",
       "is_fallback": true
     },
     {
@@ -139,17 +139,17 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-09-11T02:27:14Z",
+      "reasoned_at": "2026-09-12T02:34:49Z",
       "is_fallback": true
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
-      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.At its annual I/O developer conference, Google...",
+      "summary": "For a quarter century, the Google search box has been one of the most recognizable interfaces in computing: a thin white rectangle, a blinking cursor, a few typed words, and a list of blue links. On Tuesday, Google will formally retire that paradigm.Read more",
       "first_order_impact": "Direct market movement expected for entities related to: AI应用",
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-09-11T02:27:14Z",
+      "reasoned_at": "2026-09-12T02:34:49Z",
       "is_fallback": true
     }
   ]
