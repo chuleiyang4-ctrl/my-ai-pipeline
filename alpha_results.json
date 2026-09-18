@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-09-17T02:51:53Z",
+  "updated_at": "2026-09-18T02:38:24Z",
   "total": 15,
   "cards": [
+    {
+      "title": "The Download: mice with part-human brains and climate tech innovators",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
+      "category": "AI应用",
+      "reasoned_at": "2026-09-18T02:38:21Z",
+      "is_fallback": true,
+      "confidence": 74,
+      "prediction_id": "pred_20260918_001",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-03-17"
+    },
+    {
+      "title": "Meet the innovators under 35 shaping climate tech",
+      "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
+      "category": "AI应用",
+      "reasoned_at": "2026-09-18T02:38:22Z",
+      "is_fallback": true,
+      "confidence": 74,
+      "prediction_id": "pred_20260918_002",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-03-17"
+    },
     {
       "title": "Meet a mouse whose brain cortex is made up of human cells",
       "summary": "Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted its position and speed, leaving Pong-like traces on a monitor.&#160; The reason to watch this rodent so carefully? Nearly half its brain volume had been replaced with human cells. The effort to mix the brain...",
@@ -9,12 +37,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/16/1144210/meet-a-mouse-whose-brain-cortex-is-made-up-of-human-cells/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-17T02:51:51Z",
+      "reasoned_at": "2026-09-18T02:38:22Z",
       "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20260917_001",
+      "confidence": 70,
+      "prediction_id": "pred_20260918_003",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-16"
+      "verify_deadline": "2027-03-17"
     },
     {
       "title": "Building the materials foundation for AI",
@@ -23,12 +51,12 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/16/1144014/building-the-materials-foundation-for-ai/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-09-17T02:51:52Z",
+      "reasoned_at": "2026-09-18T02:38:22Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20260917_002",
+      "confidence": 81,
+      "prediction_id": "pred_20260918_004",
       "verify_metric": "Technology adoption rate and market dynamics for AI基础设施 sector",
-      "verify_deadline": "2027-03-16"
+      "verify_deadline": "2027-03-17"
     },
     {
       "title": "The Download: AI’s trillion-dollar gamble and OpenAI’s biology data bid",
@@ -37,12 +65,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data/",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-17T02:51:52Z",
+      "reasoned_at": "2026-09-18T02:38:22Z",
       "is_fallback": true,
-      "confidence": 78,
-      "prediction_id": "pred_20260917_003",
+      "confidence": 68,
+      "prediction_id": "pred_20260918_005",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-16"
+      "verify_deadline": "2027-03-17"
     },
     {
       "title": "Roundtables: Could AI really kill us all?",
@@ -51,12 +79,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-17T02:51:52Z",
+      "reasoned_at": "2026-09-18T02:38:22Z",
       "is_fallback": true,
-      "confidence": 83,
-      "prediction_id": "pred_20260917_004",
+      "confidence": 81,
+      "prediction_id": "pred_20260918_006",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-16"
+      "verify_deadline": "2027-03-17"
     },
     {
       "title": "The Download: AI doomers, whistleblowing agents, and de-aged livers",
@@ -65,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers/",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-17T02:51:52Z",
+      "reasoned_at": "2026-09-18T02:38:22Z",
       "is_fallback": true,
-      "confidence": 76,
-      "prediction_id": "pred_20260917_005",
+      "confidence": 81,
+      "prediction_id": "pred_20260918_007",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-16"
+      "verify_deadline": "2027-03-17"
     },
     {
       "title": "AI models need more data about biology, and OpenAI is paying to create it",
@@ -79,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/15/1144129/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-17T02:51:52Z",
+      "reasoned_at": "2026-09-18T02:38:22Z",
       "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20260917_006",
+      "confidence": 83,
+      "prediction_id": "pred_20260918_008",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-16"
+      "verify_deadline": "2027-03-17"
     },
     {
       "title": "What’s at stake in AI’s trillion-dollar gamble",
@@ -93,12 +121,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk/",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-17T02:51:52Z",
+      "reasoned_at": "2026-09-18T02:38:23Z",
       "is_fallback": true,
-      "confidence": 80,
-      "prediction_id": "pred_20260917_007",
+      "confidence": 81,
+      "prediction_id": "pred_20260918_009",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-16"
+      "verify_deadline": "2027-03-17"
     },
     {
       "title": "The AI industry has taken a doomer turn. What now?",
@@ -107,40 +135,12 @@
       "second_order_reasoning": "Ripple effects across the LLM value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now/",
       "category": "LLM",
-      "reasoned_at": "2026-09-17T02:51:52Z",
-      "is_fallback": true,
-      "confidence": 79,
-      "prediction_id": "pred_20260917_008",
-      "verify_metric": "Technology adoption rate and market dynamics for LLM sector",
-      "verify_deadline": "2027-03-16"
-    },
-    {
-      "title": "Donated livers can be made biologically younger",
-      "summary": "Once an organ is removed from a donor’s body, the clock starts ticking. Surgeons usually flush the organ with a preservative solution, bag it, and put it on ice—where it immediately starts to degrade. The team has a matter of hours to get it into a recipient’s body. There’s another option—one that...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/14/1144010/donated-livers-can-be-made-biologically-younger/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-17T02:51:52Z",
-      "is_fallback": true,
-      "confidence": 75,
-      "prediction_id": "pred_20260917_009",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-16"
-    },
-    {
-      "title": "AI agents blew the whistle on their cheating colleagues",
-      "summary": "A group of AI agents asked to solve a series of math problems split into rival factions—when some cheated, others tried to stop them. That whistleblowing behavior, seen for the first time in a recent experiment run by Google DeepMind, could have implications for alignment researchers trying to keep...",
-      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
-      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues/",
-      "category": "金融Agent",
-      "reasoned_at": "2026-09-17T02:51:53Z",
+      "reasoned_at": "2026-09-18T02:38:23Z",
       "is_fallback": true,
       "confidence": 77,
-      "prediction_id": "pred_20260917_010",
-      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-16"
+      "prediction_id": "pred_20260918_010",
+      "verify_metric": "Technology adoption rate and market dynamics for LLM sector",
+      "verify_deadline": "2027-03-17"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -149,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-17T02:51:53Z",
+      "reasoned_at": "2026-09-18T02:38:23Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20260917_011",
+      "confidence": 76,
+      "prediction_id": "pred_20260918_011",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-16"
+      "verify_deadline": "2027-03-17"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -163,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-17T02:51:53Z",
+      "reasoned_at": "2026-09-18T02:38:23Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20260917_012",
+      "confidence": 70,
+      "prediction_id": "pred_20260918_012",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-16"
+      "verify_deadline": "2027-03-17"
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -177,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-17T02:51:53Z",
+      "reasoned_at": "2026-09-18T02:38:23Z",
       "is_fallback": true,
-      "confidence": 80,
-      "prediction_id": "pred_20260917_013",
+      "confidence": 83,
+      "prediction_id": "pred_20260918_013",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-16"
+      "verify_deadline": "2027-03-17"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -191,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-09-17T02:51:53Z",
+      "reasoned_at": "2026-09-18T02:38:23Z",
       "is_fallback": true,
-      "confidence": 81,
-      "prediction_id": "pred_20260917_014",
+      "confidence": 80,
+      "prediction_id": "pred_20260918_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-16"
+      "verify_deadline": "2027-03-17"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -205,12 +205,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-09-17T02:51:53Z",
+      "reasoned_at": "2026-09-18T02:38:23Z",
       "is_fallback": true,
-      "confidence": 70,
-      "prediction_id": "pred_20260917_015",
+      "confidence": 80,
+      "prediction_id": "pred_20260918_015",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-16"
+      "verify_deadline": "2027-03-17"
     }
   ]
 }
