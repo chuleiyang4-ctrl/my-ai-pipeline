@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-09-22T02:47:35Z",
+  "updated_at": "2026-09-23T02:47:55Z",
   "total": 15,
   "cards": [
+    {
+      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
+      "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
+      "category": "AI应用",
+      "reasoned_at": "2026-09-23T02:47:53Z",
+      "is_fallback": true,
+      "confidence": 68,
+      "prediction_id": "pred_20260923_001",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-03-22"
+    },
+    {
+      "title": "The Download: why AI’s latest breakthroughs and fears may be more hype than reality",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Don’t be fooled by this summer of AI hype&#160; —Timnit Gebru, executive director of the Distributed AI Research Institute (DAIR), and Emily M...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
+      "category": "AI应用",
+      "reasoned_at": "2026-09-23T02:47:53Z",
+      "is_fallback": true,
+      "confidence": 71,
+      "prediction_id": "pred_20260923_002",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-03-22"
+    },
+    {
+      "title": "Don’t be fooled by this summer of AI hype",
+      "summary": "It’s been a busy few months for AI hype. At the end of April, Anthropic claimed that its model Claude Mythos is better at finding software vulnerabilities than most security experts. Then we had the OpenAI–Hugging Face hacking incident, after which Anthropic (proudly) and Meta (reluctantly)...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
+      "category": "AI应用",
+      "reasoned_at": "2026-09-23T02:47:54Z",
+      "is_fallback": true,
+      "confidence": 74,
+      "prediction_id": "pred_20260923_003",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-03-22"
+    },
     {
       "title": "The Download: investigating deaths at the US border’s “virtual wall”",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The US spent billions on border surveillance. Why can’t it catch people before they die? When José Morales Bernal crossed the border into the US in...",
@@ -9,12 +51,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-22T02:47:33Z",
+      "reasoned_at": "2026-09-23T02:47:54Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20260922_001",
+      "confidence": 71,
+      "prediction_id": "pred_20260923_004",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-21"
+      "verify_deadline": "2027-03-22"
     },
     {
       "title": "How we made the first comprehensive map of deaths along the US border’s “virtual wall”",
@@ -23,12 +65,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-22T02:47:34Z",
+      "reasoned_at": "2026-09-23T02:47:54Z",
       "is_fallback": true,
-      "confidence": 76,
-      "prediction_id": "pred_20260922_002",
+      "confidence": 77,
+      "prediction_id": "pred_20260923_005",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-21"
+      "verify_deadline": "2027-03-22"
     },
     {
       "title": "4 ways to address the failures we found along the US border’s “virtual wall”",
@@ -37,12 +79,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-22T02:47:34Z",
+      "reasoned_at": "2026-09-23T02:47:54Z",
       "is_fallback": true,
-      "confidence": 80,
-      "prediction_id": "pred_20260922_003",
+      "confidence": 81,
+      "prediction_id": "pred_20260923_006",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-21"
+      "verify_deadline": "2027-03-22"
     },
     {
       "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
@@ -51,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-22T02:47:34Z",
+      "reasoned_at": "2026-09-23T02:47:54Z",
       "is_fallback": true,
-      "confidence": 83,
-      "prediction_id": "pred_20260922_004",
+      "confidence": 74,
+      "prediction_id": "pred_20260923_007",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-21"
+      "verify_deadline": "2027-03-22"
     },
     {
       "title": "She died at the San Diego border. A surveillance camera was in plain sight",
@@ -65,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-22T02:47:34Z",
+      "reasoned_at": "2026-09-23T02:47:54Z",
       "is_fallback": true,
-      "confidence": 71,
-      "prediction_id": "pred_20260922_005",
+      "confidence": 68,
+      "prediction_id": "pred_20260923_008",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-21"
+      "verify_deadline": "2027-03-22"
     },
     {
       "title": "The Download: AI’s extinction risk and bioweapons threat",
@@ -79,12 +121,12 @@
       "second_order_reasoning": "Ripple effects across the AI安全 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
       "category": "AI安全",
-      "reasoned_at": "2026-09-22T02:47:34Z",
+      "reasoned_at": "2026-09-23T02:47:54Z",
       "is_fallback": true,
-      "confidence": 78,
-      "prediction_id": "pred_20260922_006",
+      "confidence": 70,
+      "prediction_id": "pred_20260923_009",
       "verify_metric": "Technology adoption rate and market dynamics for AI安全 sector",
-      "verify_deadline": "2027-03-21"
+      "verify_deadline": "2027-03-22"
     },
     {
       "title": "Could AI really kill us all? Your questions, answered.",
@@ -93,54 +135,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-22T02:47:34Z",
-      "is_fallback": true,
-      "confidence": 79,
-      "prediction_id": "pred_20260922_007",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-21"
-    },
-    {
-      "title": "The specter of AI-enabled bioweapons is a wake-up call for biotech",
-      "summary": "In recent weeks, leaders of some of the biggest AI companies have warned that the very tech they are developing is dangerous. Last weekend, Anthropic CEO Dario Amodei argued that AI carries serious risk and that progress should be slowed. OpenAI CEO Sam Altman responded on X: “I agree with Dario...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI安全",
-      "second_order_reasoning": "Ripple effects across the AI安全 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/18/1144329/the-specter-of-ai-enabled-bioweapons-is-a-wake-up-call-for-biotech/",
-      "category": "AI安全",
-      "reasoned_at": "2026-09-22T02:47:34Z",
-      "is_fallback": true,
-      "confidence": 69,
-      "prediction_id": "pred_20260922_008",
-      "verify_metric": "Technology adoption rate and market dynamics for AI安全 sector",
-      "verify_deadline": "2027-03-21"
-    },
-    {
-      "title": "The Download: mice with part-human brains and climate tech innovators",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Meet a mouse whose brain cortex is made up of human cells Multiple cameras tracked a mouse as it wandered around a small arena. A computer charted...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/17/1144314/the-download-mice-part-human-brains-climate-tech-innovators/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-22T02:47:34Z",
+      "reasoned_at": "2026-09-23T02:47:54Z",
       "is_fallback": true,
       "confidence": 74,
-      "prediction_id": "pred_20260922_009",
+      "prediction_id": "pred_20260923_010",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-21"
-    },
-    {
-      "title": "Meet the innovators under 35 shaping climate tech",
-      "summary": "Each year, the editorial team at MIT Technology Review puts together a list of 35 innovators under 35—a group of researchers, inventors, and other young minds worth following. The team worked on the newest edition of the list for months, and the final slate includes nine individuals from all over...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/17/1144251/innovators-shaping-climate-tech/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-22T02:47:34Z",
-      "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20260922_010",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-21"
+      "verify_deadline": "2027-03-22"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -149,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-22T02:47:34Z",
+      "reasoned_at": "2026-09-23T02:47:55Z",
       "is_fallback": true,
-      "confidence": 81,
-      "prediction_id": "pred_20260922_011",
+      "confidence": 71,
+      "prediction_id": "pred_20260923_011",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-21"
+      "verify_deadline": "2027-03-22"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -163,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-22T02:47:34Z",
+      "reasoned_at": "2026-09-23T02:47:55Z",
       "is_fallback": true,
       "confidence": 77,
-      "prediction_id": "pred_20260922_012",
+      "prediction_id": "pred_20260923_012",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-21"
+      "verify_deadline": "2027-03-22"
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -177,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-22T02:47:35Z",
+      "reasoned_at": "2026-09-23T02:47:55Z",
       "is_fallback": true,
-      "confidence": 71,
-      "prediction_id": "pred_20260922_013",
+      "confidence": 80,
+      "prediction_id": "pred_20260923_013",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-03-21"
+      "verify_deadline": "2027-03-22"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -191,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-09-22T02:47:35Z",
+      "reasoned_at": "2026-09-23T02:47:55Z",
       "is_fallback": true,
-      "confidence": 78,
-      "prediction_id": "pred_20260922_014",
+      "confidence": 69,
+      "prediction_id": "pred_20260923_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-21"
+      "verify_deadline": "2027-03-22"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -205,12 +205,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-09-22T02:47:35Z",
+      "reasoned_at": "2026-09-23T02:47:55Z",
       "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20260922_015",
+      "confidence": 80,
+      "prediction_id": "pred_20260923_015",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-03-21"
+      "verify_deadline": "2027-03-22"
     }
   ]
 }
