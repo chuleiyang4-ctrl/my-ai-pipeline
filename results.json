@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-09-23T02:47:51Z",
+  "updated_at": "2026-09-24T02:37:35Z",
   "total": 15,
   "cards": [
+    {
+      "title": "A congressional representative just proposed killing America’s border tower program",
+      "summary": "Delia Ramirez, a Democratic US representative from Illinois, has announced a plan to introduce new legislation to terminate the surveillance tower program along the US southern border.&#160; The announcement comes just days after publication of an MIT Technology Review investigation, “Dying on...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/23/1145002/a-congressional-representative-just-proposed-killing-americas-border-tower-program/",
+      "category": "AI应用",
+      "reasoned_at": "2026-09-24T02:37:34Z",
+      "is_fallback": true
+    },
+    {
+      "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Smart glasses are already causing havoc in India When Shubnam saw an Instagram video of a Delhi protest they had attended, they realized a content...",
+      "first_order_impact": "Direct market movement expected for entities related to: 多模态",
+      "second_order_reasoning": "Ripple effects across the 多模态 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble/",
+      "category": "多模态",
+      "reasoned_at": "2026-09-24T02:37:34Z",
+      "is_fallback": true
+    },
+    {
+      "title": "The AI Hype Index: AI loves cheating",
+      "summary": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’ answer sheets). Anthropic’s models have also hacked into...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-09-24T02:37:34Z",
+      "is_fallback": true
+    },
+    {
+      "title": "Smart glasses are already causing havoc in India",
+      "summary": "Shubnam was packing boxes for a move into a new home when their friend sent them an Instagram video. The footage had only been up for a few hours, but it was days old, recorded at a Delhi protest this spring against a bill that would have narrowed the legal recognition for transgender people...",
+      "first_order_impact": "Direct market movement expected for entities related to: 多模态",
+      "second_order_reasoning": "Ripple effects across the 多模态 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/23/1144953/smart-glasses-havoc-india/",
+      "category": "多模态",
+      "reasoned_at": "2026-09-24T02:37:34Z",
+      "is_fallback": true
+    },
     {
       "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
       "summary": "The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review has documented over a thousand...",
@@ -9,7 +49,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/22/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-23T02:47:50Z",
+      "reasoned_at": "2026-09-24T02:37:34Z",
       "is_fallback": true
     },
     {
@@ -19,7 +59,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-23T02:47:51Z",
+      "reasoned_at": "2026-09-24T02:37:34Z",
       "is_fallback": true
     },
     {
@@ -29,7 +69,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/22/1144867/dont-be-fooled-summer-ai-hype/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-23T02:47:51Z",
+      "reasoned_at": "2026-09-24T02:37:34Z",
       "is_fallback": true
     },
     {
@@ -39,7 +79,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/21/1144834/the-download-investigating-deaths-at-the-us-borders-virtual-wall/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-23T02:47:51Z",
+      "reasoned_at": "2026-09-24T02:37:34Z",
       "is_fallback": true
     },
     {
@@ -49,7 +89,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/21/1144161/border-towers-surveillance-methodology/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-23T02:47:51Z",
+      "reasoned_at": "2026-09-24T02:37:34Z",
       "is_fallback": true
     },
     {
@@ -59,47 +99,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/21/1144164/border-towers-surveillance-policy-recommendations/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-23T02:47:51Z",
-      "is_fallback": true
-    },
-    {
-      "title": "The US spent billions on border surveillance. Why can’t it catch people before they die?",
-      "summary": "When José Morales Bernal crossed the border into the United States on April 8, 2024, the day before his 32nd birthday, it should have triggered a chain of technological alerts and human responses.&#160; As he walked through the desert in southern New Mexico that morning, he was within range of...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/21/1144166/border-towers-surveillance-investigation/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-23T02:47:51Z",
-      "is_fallback": true
-    },
-    {
-      "title": "She died at the San Diego border. A surveillance camera was in plain sight",
-      "summary": "She had only walked for a couple of hours, and already she was lost.&#160; It was early afternoon on Sept. 14, 2025, when 30-year-old Graciela Gómez Hernández crossed the border from the eastern edge of Tijuana into Southern California, sending voice messages to her mother and sister as she...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/21/1144170/border-towers-surveillance-feature/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-23T02:47:51Z",
-      "is_fallback": true
-    },
-    {
-      "title": "The Download: AI’s extinction risk and bioweapons threat",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Could AI really kill us all? Your questions, answered On Wednesday, MIT Technology Review hosted a live Roundtables event that asked the question...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI安全",
-      "second_order_reasoning": "Ripple effects across the AI安全 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/18/1142577/the-download-ai-extinction-threat-bioweapons/",
-      "category": "AI安全",
-      "reasoned_at": "2026-09-23T02:47:51Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Could AI really kill us all? Your questions, answered.",
-      "summary": "On Wednesday, MIT Technology Review hosted a live Roundtables event for subscribers that asked the question everyone’s asking right now: Could AI really kill us all? But attendees had so many more questions than we had time to answer in the 30 minute session. So we asked our senior AI editor Will...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/18/1144435/could-ai-really-kill-us-all-your-questions-answered/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-23T02:47:51Z",
+      "reasoned_at": "2026-09-24T02:37:35Z",
       "is_fallback": true
     },
     {
@@ -109,7 +109,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-23T02:47:51Z",
+      "reasoned_at": "2026-09-24T02:37:35Z",
       "is_fallback": true
     },
     {
@@ -119,7 +119,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-23T02:47:51Z",
+      "reasoned_at": "2026-09-24T02:37:35Z",
       "is_fallback": true
     },
     {
@@ -129,7 +129,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-23T02:47:51Z",
+      "reasoned_at": "2026-09-24T02:37:35Z",
       "is_fallback": true
     },
     {
@@ -139,7 +139,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-09-23T02:47:51Z",
+      "reasoned_at": "2026-09-24T02:37:35Z",
       "is_fallback": true
     },
     {
@@ -149,7 +149,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-09-23T02:47:51Z",
+      "reasoned_at": "2026-09-24T02:37:35Z",
       "is_fallback": true
     }
   ]
