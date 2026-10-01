@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-09-30T03:27:08Z",
+  "updated_at": "2026-10-01T03:32:30Z",
   "total": 15,
   "cards": [
+    {
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-10-01T03:32:28Z",
+      "is_fallback": true
+    },
+    {
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-10-01T03:32:28Z",
+      "is_fallback": true
+    },
     {
       "title": "The Download: climate tech companies to watch and AI’s discovery problem",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big...",
@@ -9,7 +29,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-30T03:27:07Z",
+      "reasoned_at": "2026-10-01T03:32:28Z",
       "is_fallback": true
     },
     {
@@ -19,7 +39,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-30T03:27:07Z",
+      "reasoned_at": "2026-10-01T03:32:28Z",
       "is_fallback": true
     },
     {
@@ -29,7 +49,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-30T03:27:07Z",
+      "reasoned_at": "2026-10-01T03:32:28Z",
       "is_fallback": true
     },
     {
@@ -39,7 +59,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-30T03:27:07Z",
+      "reasoned_at": "2026-10-01T03:32:28Z",
       "is_fallback": true
     },
     {
@@ -49,7 +69,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-30T03:27:07Z",
+      "reasoned_at": "2026-10-01T03:32:30Z",
       "is_fallback": true
     },
     {
@@ -59,7 +79,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index/",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-30T03:27:08Z",
+      "reasoned_at": "2026-10-01T03:32:30Z",
       "is_fallback": true
     },
     {
@@ -69,7 +89,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue/",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-30T03:27:08Z",
+      "reasoned_at": "2026-10-01T03:32:30Z",
       "is_fallback": true
     },
     {
@@ -79,27 +99,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/25/1145157/the-download-pentagon-ai-lie-detector-young-organ-limits/",
       "category": "AI应用",
-      "reasoned_at": "2026-09-30T03:27:08Z",
-      "is_fallback": true
-    },
-    {
-      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
-      "summary": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called Polygraph+ or Polygraph Next, will focus on scoring algorithms that use artificial intelligence and machine learning...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-30T03:27:08Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Young organs may not be a fountain of youth for recipients",
-      "summary": "Around this time last year I was attending an aging conference in Manchester, listening to a talk about fly aging, when my phone started pinging. News outlets were reporting that a hot mic had caught Russia’s and China’s leaders discussing the possibility of living forever. “With the developments...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/25/1145083/young-organs-may-not-be-a-fountain-of-youth-for-recipients/",
-      "category": "AI应用",
-      "reasoned_at": "2026-09-30T03:27:08Z",
+      "reasoned_at": "2026-10-01T03:32:30Z",
       "is_fallback": true
     },
     {
@@ -109,7 +109,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-30T03:27:08Z",
+      "reasoned_at": "2026-10-01T03:32:30Z",
       "is_fallback": true
     },
     {
@@ -119,7 +119,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-30T03:27:08Z",
+      "reasoned_at": "2026-10-01T03:32:30Z",
       "is_fallback": true
     },
     {
@@ -129,7 +129,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-09-30T03:27:08Z",
+      "reasoned_at": "2026-10-01T03:32:30Z",
       "is_fallback": true
     },
     {
@@ -139,7 +139,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-09-30T03:27:08Z",
+      "reasoned_at": "2026-10-01T03:32:30Z",
       "is_fallback": true
     },
     {
@@ -149,7 +149,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-09-30T03:27:08Z",
+      "reasoned_at": "2026-10-01T03:32:30Z",
       "is_fallback": true
     }
   ]
