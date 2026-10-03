@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-10-02T03:32:28Z",
+  "updated_at": "2026-10-03T03:16:39Z",
   "total": 15,
   "cards": [
+    {
+      "title": "Redefining enterprise intelligence with autonomous AI",
+      "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-10-03T03:16:38Z",
+      "is_fallback": true
+    },
+    {
+      "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A new contest pits competitors against each other in a race to biological youth —Jessica Hamzelou This week, I officially signed up for an unusual...",
+      "first_order_impact": "Direct market movement expected for entities related to: LLM",
+      "second_order_reasoning": "Ripple effects across the LLM value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
+      "category": "LLM",
+      "reasoned_at": "2026-10-03T03:16:38Z",
+      "is_fallback": true
+    },
+    {
+      "title": "A new contest pits competitors against each other in a race to biological youth",
+      "summary": "This week, I officially signed up for an unusual competition. One that rewards competitors for getting younger. I recently turned 40, and I don’t need reminding that both time and my chronological age only tick forward. But this game is focused on competitors’ biological ages—figures that are meant...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-03T03:16:38Z",
+      "is_fallback": true
+    },
+    {
+      "title": "Don’t be fooled—LLMs don’t reason",
+      "summary": "On an afternoon in Seoul in March 2016, I watched a program I helped build put a stone on the fifth line of a Go board in what looked like a gift to its human opponent. Move 37 in game two of the five-game match looked so absurd that some commentators thought it was a&#8230;",
+      "first_order_impact": "Direct market movement expected for entities related to: LLM",
+      "second_order_reasoning": "Ripple effects across the LLM value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
+      "category": "LLM",
+      "reasoned_at": "2026-10-03T03:16:38Z",
+      "is_fallback": true
+    },
     {
       "title": "The Download: AI “mind-reading” and creative uses for small batteries",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. An AI “mind-reading” tool can reconstruct what you’re looking at based on a brain scan A new AI tool can guess what you’re looking at just by...",
@@ -9,7 +49,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-02T03:32:27Z",
+      "reasoned_at": "2026-10-03T03:16:38Z",
       "is_fallback": true
     },
     {
@@ -19,7 +59,7 @@
       "second_order_reasoning": "Ripple effects across the 多模态 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
       "category": "多模态",
-      "reasoned_at": "2026-10-02T03:32:27Z",
+      "reasoned_at": "2026-10-03T03:16:38Z",
       "is_fallback": true
     },
     {
@@ -29,7 +69,7 @@
       "second_order_reasoning": "Ripple effects across the AI安全 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
       "category": "AI安全",
-      "reasoned_at": "2026-10-02T03:32:27Z",
+      "reasoned_at": "2026-10-03T03:16:38Z",
       "is_fallback": true
     },
     {
@@ -39,7 +79,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-02T03:32:27Z",
+      "reasoned_at": "2026-10-03T03:16:38Z",
       "is_fallback": true
     },
     {
@@ -49,7 +89,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-02T03:32:27Z",
+      "reasoned_at": "2026-10-03T03:16:38Z",
       "is_fallback": true
     },
     {
@@ -59,47 +99,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-02T03:32:27Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Coming soon: Our 2026 list of Climate Tech Companies to Watch",
-      "summary": "Earlier this month, the UN announced the planet will tip past 1.5 ˚C of warming, “likely within the next few years,” squashing any lingering hope that nations would cut emissions fast enough to achieve the loftiest goal of the Paris climate agreement. In the US, the world’s second-largest-emitting...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/29/1145183/2026-climate-tech-companies-to-watch-preview/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-02T03:32:27Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Making AI an asset, not an expense",
-      "summary": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often where the conversation goes. As AI moves from experimentation...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-02T03:32:27Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Roundtables: The Deadly Failures of The Virtual Border Wall",
-      "summary": "Listen to the session or watch below The US has spent billions building a “virtual wall” of surveillance towers along its southern border over the past 25 years, promising they will help detect and apprehend border crossers and save lives. But a groundbreaking investigation by MIT Technology Review...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/28/1144890/roundtables-the-deadly-failures-of-the-virtual-border-wall/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-02T03:32:27Z",
-      "is_fallback": true
-    },
-    {
-      "title": "When can we say AI made a scientific discovery?",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last Wednesday, Anthropic announced that earlier this year it had launched a molecular biology lab, where Claude agents read and conjecture about hard biology...",
-      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
-      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/28/1145230/when-can-we-say-ai-made-a-scientific-discovery/",
-      "category": "金融Agent",
-      "reasoned_at": "2026-10-02T03:32:28Z",
+      "reasoned_at": "2026-10-03T03:16:38Z",
       "is_fallback": true
     },
     {
@@ -109,7 +109,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-02T03:32:28Z",
+      "reasoned_at": "2026-10-03T03:16:38Z",
       "is_fallback": true
     },
     {
@@ -119,7 +119,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-02T03:32:28Z",
+      "reasoned_at": "2026-10-03T03:16:39Z",
       "is_fallback": true
     },
     {
@@ -129,7 +129,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-02T03:32:28Z",
+      "reasoned_at": "2026-10-03T03:16:39Z",
       "is_fallback": true
     },
     {
@@ -139,7 +139,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-10-02T03:32:28Z",
+      "reasoned_at": "2026-10-03T03:16:39Z",
       "is_fallback": true
     },
     {
@@ -149,7 +149,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-10-02T03:32:28Z",
+      "reasoned_at": "2026-10-03T03:16:39Z",
       "is_fallback": true
     }
   ]
