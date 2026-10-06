@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-10-05T03:29:03Z",
+  "updated_at": "2026-10-06T04:16:31Z",
   "total": 15,
   "cards": [
+    {
+      "title": "Connecting AI agents to enterprise knowledge",
+      "summary": "For all the data that AI systems continually amass and analyze, enterprise AI agents often suffer from a curious shortcoming: a lack of knowledge. More than data, knowledge is the understanding of what the data means in the context of individual organizations. AI agents need this understanding to...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1145580/connecting-ai-agents-to-enterprise-knowledge/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-10-06T04:16:30Z",
+      "is_fallback": true,
+      "confidence": 79,
+      "prediction_id": "pred_20261006_001",
+      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
+      "verify_deadline": "2027-04-04"
+    },
+    {
+      "title": "Bringing predictive analytics to the agentic AI era",
+      "summary": "In 2026, the question for enterprise AI is no longer whether predictive models can outperform statistical forecasts—that argument is settled. The big question now is how to enable predictive systems to act on their own conclusions without drifting from business intent. The frontier has moved from...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1143813/bringing-predictive-analytics-to-the-agentic-ai-era/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-10-06T04:16:30Z",
+      "is_fallback": true,
+      "confidence": 79,
+      "prediction_id": "pred_20261006_002",
+      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
+      "verify_deadline": "2027-04-04"
+    },
+    {
+      "title": "The Download: AI’s popularity paradox and EmTech Future 2026",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. People really hate AI, so why can’t they get enough? —Will Douglas Heaven Over the summer I talked to the CEO of Springboards, a startup building an...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1145711/the-download-ai-popularity-paradox-emtech-future-2026/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-06T04:16:30Z",
+      "is_fallback": true,
+      "confidence": 76,
+      "prediction_id": "pred_20261006_003",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-04-04"
+    },
+    {
+      "title": "People really hate AI, so why can’t they get enough?",
+      "summary": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my head since: “We often say that we’re a self-loathing...",
+      "first_order_impact": "Direct market movement expected for entities related to: LLM",
+      "second_order_reasoning": "Ripple effects across the LLM value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough/",
+      "category": "LLM",
+      "reasoned_at": "2026-10-06T04:16:30Z",
+      "is_fallback": true,
+      "confidence": 83,
+      "prediction_id": "pred_20261006_004",
+      "verify_metric": "Technology adoption rate and market dynamics for LLM sector",
+      "verify_deadline": "2027-04-04"
+    },
+    {
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI基础设施",
+      "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "category": "AI基础设施",
+      "reasoned_at": "2026-10-06T04:16:30Z",
+      "is_fallback": true,
+      "confidence": 81,
+      "prediction_id": "pred_20261006_005",
+      "verify_metric": "Technology adoption rate and market dynamics for AI基础设施 sector",
+      "verify_deadline": "2027-04-04"
+    },
     {
       "title": "Redefining enterprise intelligence with autonomous AI",
       "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year...",
@@ -9,12 +79,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-05T03:29:01Z",
+      "reasoned_at": "2026-10-06T04:16:30Z",
       "is_fallback": true,
       "confidence": 73,
-      "prediction_id": "pred_20261005_001",
+      "prediction_id": "pred_20261006_006",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-03"
+      "verify_deadline": "2027-04-04"
     },
     {
       "title": "The Download: a biological de-aging contest and why LLMs don’t reason",
@@ -23,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the LLM value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/02/1145666/the-download-biological-de-aging-ai-reasoning/",
       "category": "LLM",
-      "reasoned_at": "2026-10-05T03:29:01Z",
+      "reasoned_at": "2026-10-06T04:16:30Z",
       "is_fallback": true,
       "confidence": 82,
-      "prediction_id": "pred_20261005_002",
+      "prediction_id": "pred_20261006_007",
       "verify_metric": "Technology adoption rate and market dynamics for LLM sector",
-      "verify_deadline": "2027-04-03"
+      "verify_deadline": "2027-04-04"
     },
     {
       "title": "A new contest pits competitors against each other in a race to biological youth",
@@ -37,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/02/1145610/younger-contest-race-to-biological-youth/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-05T03:29:01Z",
+      "reasoned_at": "2026-10-06T04:16:31Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261005_003",
+      "confidence": 80,
+      "prediction_id": "pred_20261006_008",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-03"
+      "verify_deadline": "2027-04-04"
     },
     {
       "title": "Don’t be fooled—LLMs don’t reason",
@@ -51,12 +121,12 @@
       "second_order_reasoning": "Ripple effects across the LLM value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/02/1145639/dont-be-fooled-llms-dont-reason/",
       "category": "LLM",
-      "reasoned_at": "2026-10-05T03:29:01Z",
+      "reasoned_at": "2026-10-06T04:16:31Z",
       "is_fallback": true,
-      "confidence": 79,
-      "prediction_id": "pred_20261005_004",
+      "confidence": 86,
+      "prediction_id": "pred_20261006_009",
       "verify_metric": "Technology adoption rate and market dynamics for LLM sector",
-      "verify_deadline": "2027-04-03"
+      "verify_deadline": "2027-04-04"
     },
     {
       "title": "The Download: AI “mind-reading” and creative uses for small batteries",
@@ -65,82 +135,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/01/1145592/the-download-ai-mind-reading-small-batteries/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-05T03:29:01Z",
+      "reasoned_at": "2026-10-06T04:16:31Z",
       "is_fallback": true,
-      "confidence": 76,
-      "prediction_id": "pred_20261005_005",
+      "confidence": 79,
+      "prediction_id": "pred_20261006_010",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-03"
-    },
-    {
-      "title": "An AI “mind-reading” tool can reconstruct what you’re looking at from a brain scan",
-      "summary": "A new AI tool can guess what you’re looking at just by analyzing your brain scans—and re-create that image with remarkable precision. It can go the other way, too, and predict a person’s brain activity based on what they’re looking at.&#160; In the image above, for example, the left-hand image of...",
-      "first_order_impact": "Direct market movement expected for entities related to: 多模态",
-      "second_order_reasoning": "Ripple effects across the 多模态 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/01/1145588/ai-mind-reading-reconstructs-what-youre-looking-at/",
-      "category": "多模态",
-      "reasoned_at": "2026-10-05T03:29:01Z",
-      "is_fallback": true,
-      "confidence": 75,
-      "prediction_id": "pred_20261005_006",
-      "verify_metric": "Technology adoption rate and market dynamics for 多模态 sector",
-      "verify_deadline": "2027-04-03"
-    },
-    {
-      "title": "How smaller, distributed batteries could help the grid",
-      "summary": "If you want to install a big battery in New York City, you have to cut through a notoriously tough tangle of regulations. That’s made it difficult to get large energy storage projects on the grid. Faced with those obstacles, some startups are getting creative, finding ways to use relatively small...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI安全",
-      "second_order_reasoning": "Ripple effects across the AI安全 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/01/1145435/distributed-batteries/",
-      "category": "AI安全",
-      "reasoned_at": "2026-10-05T03:29:01Z",
-      "is_fallback": true,
-      "confidence": 82,
-      "prediction_id": "pred_20261005_007",
-      "verify_metric": "Technology adoption rate and market dynamics for AI安全 sector",
-      "verify_deadline": "2027-04-03"
-    },
-    {
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into...",
-      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
-      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "category": "金融Agent",
-      "reasoned_at": "2026-10-05T03:29:02Z",
-      "is_fallback": true,
-      "confidence": 82,
-      "prediction_id": "pred_20261005_008",
-      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-03"
-    },
-    {
-      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
-      "summary": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in the weeks since has kept OpenAI in the spotlight and raised...",
-      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
-      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer/",
-      "category": "金融Agent",
-      "reasoned_at": "2026-10-05T03:29:02Z",
-      "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20261005_009",
-      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-03"
-    },
-    {
-      "title": "The Download: climate tech companies to watch and AI’s discovery problem",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Coming soon: our 2026 list of Climate Tech Companies to Watch With the planet nearing 1.5 °C of warming, climate policies being unraveled, and Big...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-05T03:29:02Z",
-      "is_fallback": true,
-      "confidence": 69,
-      "prediction_id": "pred_20261005_010",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-03"
+      "verify_deadline": "2027-04-04"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -149,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-05T03:29:02Z",
+      "reasoned_at": "2026-10-06T04:16:31Z",
       "is_fallback": true,
-      "confidence": 71,
-      "prediction_id": "pred_20261005_011",
+      "confidence": 70,
+      "prediction_id": "pred_20261006_011",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-03"
+      "verify_deadline": "2027-04-04"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -163,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-05T03:29:02Z",
+      "reasoned_at": "2026-10-06T04:16:31Z",
       "is_fallback": true,
-      "confidence": 76,
-      "prediction_id": "pred_20261005_012",
+      "confidence": 82,
+      "prediction_id": "pred_20261006_012",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-03"
+      "verify_deadline": "2027-04-04"
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -177,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-05T03:29:02Z",
+      "reasoned_at": "2026-10-06T04:16:31Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261005_013",
+      "confidence": 78,
+      "prediction_id": "pred_20261006_013",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-03"
+      "verify_deadline": "2027-04-04"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -191,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-10-05T03:29:02Z",
+      "reasoned_at": "2026-10-06T04:16:31Z",
       "is_fallback": true,
-      "confidence": 73,
-      "prediction_id": "pred_20261005_014",
+      "confidence": 75,
+      "prediction_id": "pred_20261006_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-03"
+      "verify_deadline": "2027-04-04"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -205,12 +205,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-10-05T03:29:02Z",
+      "reasoned_at": "2026-10-06T04:16:31Z",
       "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20261005_015",
+      "confidence": 68,
+      "prediction_id": "pred_20261006_015",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-03"
+      "verify_deadline": "2027-04-04"
     }
   ]
 }
