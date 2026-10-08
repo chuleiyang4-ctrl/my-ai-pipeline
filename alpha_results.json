@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-10-07T03:43:16Z",
+  "updated_at": "2026-10-08T03:57:00Z",
   "total": 14,
   "cards": [
+    {
+      "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Weight-loss drugs show signs of slowing biological aging, say drugmakers Popular weight-loss drugs may do more than help people shed pounds. They...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-08T03:56:59Z",
+      "is_fallback": true,
+      "confidence": 75,
+      "prediction_id": "pred_20261008_001",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-04-06"
+    },
     {
       "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
       "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by...",
@@ -9,12 +23,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:56:59Z",
       "is_fallback": true,
-      "confidence": 80,
-      "prediction_id": "pred_20261007_001",
+      "confidence": 79,
+      "prediction_id": "pred_20261008_002",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     },
     {
       "title": "The Download: 10 climate tech companies to watch",
@@ -23,12 +37,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:56:59Z",
       "is_fallback": true,
       "confidence": 80,
-      "prediction_id": "pred_20261007_002",
+      "prediction_id": "pred_20261008_003",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     },
     {
       "title": "Here’s how our climate team picked 10 promising companies to watch",
@@ -37,12 +51,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:56:59Z",
       "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20261007_003",
+      "confidence": 73,
+      "prediction_id": "pred_20261008_004",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     },
     {
       "title": "WeLion New Energy and its semi-solid-state batteries",
@@ -51,12 +65,12 @@
       "second_order_reasoning": "Ripple effects across the AI安全 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/06/1144987/2026-climate-tech-companies-to-watch-welion-semi-solid-state-batteries/",
       "category": "AI安全",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:56:59Z",
       "is_fallback": true,
-      "confidence": 82,
-      "prediction_id": "pred_20261007_004",
+      "confidence": 80,
+      "prediction_id": "pred_20261008_005",
       "verify_metric": "Technology adoption rate and market dynamics for AI安全 sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     },
     {
       "title": "Form Energy and its iron batteries",
@@ -65,12 +79,12 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/06/1145020/2026-climate-tech-companies-to-watch-form-energy-iron-batteries/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:56:59Z",
       "is_fallback": true,
-      "confidence": 71,
-      "prediction_id": "pred_20261007_005",
+      "confidence": 76,
+      "prediction_id": "pred_20261008_006",
       "verify_metric": "Technology adoption rate and market dynamics for AI基础设施 sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     },
     {
       "title": "X-energy and its helium-cooled nuclear reactors",
@@ -79,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/06/1145025/2026-climate-tech-companies-to-watch-x-energy-helium-cooled-nuclear-reactors/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:56:59Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261007_006",
+      "confidence": 81,
+      "prediction_id": "pred_20261008_007",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     },
     {
       "title": "Energy Dome and its carbon dioxide batteries",
@@ -93,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/06/1145032/2026-climate-tech-companies-to-watch-energy-dome-carbon-dioxide-batteries/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:56:59Z",
       "is_fallback": true,
-      "confidence": 73,
-      "prediction_id": "pred_20261007_007",
+      "confidence": 71,
+      "prediction_id": "pred_20261008_008",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     },
     {
       "title": "Brimstone and its one-stop process for making cleaner cement and critical minerals",
@@ -107,26 +121,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/06/1145172/2026-climate-tech-companies-to-watch-brimstone-one-stop-process-making-cleaner-cement-critical-minerals/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:56:59Z",
       "is_fallback": true,
-      "confidence": 73,
-      "prediction_id": "pred_20261007_008",
+      "confidence": 72,
+      "prediction_id": "pred_20261008_009",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-05"
-    },
-    {
-      "title": "WaveSave and its portable rubber dam",
-      "summary": "As sea levels rise and flood risks worsen due to global warming, WaveSave’s easy-to-erect portable dam offers a quick-response tool. People can use the dam to protect themselves and their property, and it can also store freshwater for later use. Communities in Europe, Africa, and Southeast Asia...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI安全",
-      "second_order_reasoning": "Ripple effects across the AI安全 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/06/1145208/2026-climate-tech-companies-to-watch-wavesave-portable-rubber-dam/",
-      "category": "AI安全",
-      "reasoned_at": "2026-10-07T03:43:15Z",
-      "is_fallback": true,
-      "confidence": 82,
-      "prediction_id": "pred_20261007_009",
-      "verify_metric": "Technology adoption rate and market dynamics for AI安全 sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -135,12 +135,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:56:59Z",
       "is_fallback": true,
-      "confidence": 73,
-      "prediction_id": "pred_20261007_010",
+      "confidence": 81,
+      "prediction_id": "pred_20261008_010",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -149,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:56:59Z",
       "is_fallback": true,
-      "confidence": 79,
-      "prediction_id": "pred_20261007_011",
+      "confidence": 80,
+      "prediction_id": "pred_20261008_011",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -163,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:56:59Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20261007_012",
+      "confidence": 72,
+      "prediction_id": "pred_20261008_012",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -177,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:56:59Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20261007_013",
+      "confidence": 78,
+      "prediction_id": "pred_20261008_013",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -191,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-10-07T03:43:15Z",
+      "reasoned_at": "2026-10-08T03:57:00Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261007_014",
+      "confidence": 82,
+      "prediction_id": "pred_20261008_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-05"
+      "verify_deadline": "2027-04-06"
     }
   ]
 }
