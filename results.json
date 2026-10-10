@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-10-09T04:02:13Z",
-  "total": 14,
+  "updated_at": "2026-10-10T03:47:39Z",
+  "total": 15,
   "cards": [
+    {
+      "title": "The Download: AI’s refusal problem and weight-loss drug side effects",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. We’re putting too much faith in AI’s ability to say no Today’s AI models are trained to refuse a vast number of prompts. If you ask your chatbot how...",
+      "first_order_impact": "Direct market movement expected for entities related to: LLM",
+      "second_order_reasoning": "Ripple effects across the LLM value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
+      "category": "LLM",
+      "reasoned_at": "2026-10-10T03:47:38Z",
+      "is_fallback": true
+    },
+    {
+      "title": "We’re putting too much faith in AI’s ability to say no",
+      "summary": "Ever since people first seriously contemplated giving machines an intelligence modeled on our own, there has never been any question that they would, like us, be able to say no. The sci-fi canon is full of stories of robotic disobedience. Most of these capers are, of course, cautionary.&#160; But...",
+      "first_order_impact": "Direct market movement expected for entities related to: 具身智能",
+      "second_order_reasoning": "Ripple effects across the 具身智能 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
+      "category": "具身智能",
+      "reasoned_at": "2026-10-10T03:47:38Z",
+      "is_fallback": true
+    },
+    {
+      "title": "Job titles of the future: Delivery drone air traffic controller",
+      "summary": "The moment Trevor Wischnewsky heard that drones were delivering pizza and sushi around his Texas neighborhood, his mind was made up. “It was super fascinating,” he says. “I just immediately wanted to be a part of it.” Wischnewsky is now an RPIC, or “remote pilot in command,” at a company called...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-10T03:47:38Z",
+      "is_fallback": true
+    },
+    {
+      "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
+      "summary": "This week my colleague Antonio Regalado had an interesting update on GLP-1 weight-loss drugs. According to research presented at an aging meeting in Boston, these drugs seem to affect at least some measures of biological age. Overweight and diabetic people who take GLP-1s have a biological age...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-10T03:47:38Z",
+      "is_fallback": true
+    },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "summary": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that could be...",
@@ -9,7 +49,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-09T04:02:12Z",
+      "reasoned_at": "2026-10-10T03:47:38Z",
       "is_fallback": true
     },
     {
@@ -19,7 +59,7 @@
       "second_order_reasoning": "Ripple effects across the 具身智能 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
       "category": "具身智能",
-      "reasoned_at": "2026-10-09T04:02:12Z",
+      "reasoned_at": "2026-10-10T03:47:39Z",
       "is_fallback": true
     },
     {
@@ -29,7 +69,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-09T04:02:12Z",
+      "reasoned_at": "2026-10-10T03:47:39Z",
       "is_fallback": true
     },
     {
@@ -39,7 +79,7 @@
       "second_order_reasoning": "Ripple effects across the 具身智能 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
       "category": "具身智能",
-      "reasoned_at": "2026-10-09T04:02:12Z",
+      "reasoned_at": "2026-10-10T03:47:39Z",
       "is_fallback": true
     },
     {
@@ -49,7 +89,7 @@
       "second_order_reasoning": "Ripple effects across the 基础模型 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
       "category": "基础模型",
-      "reasoned_at": "2026-10-09T04:02:12Z",
+      "reasoned_at": "2026-10-10T03:47:39Z",
       "is_fallback": true
     },
     {
@@ -59,37 +99,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-09T04:02:12Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Weight-loss drugs show signs of slowing biological aging, say drugmakers",
-      "summary": "Popular weight-loss drugs may do more than help people shed pounds. They might also melt away the years. Drug giants Eli Lilly and Novo Nordisk say patients taking their drugs age less quickly, according to readouts from molecular “aging clocks.” Such clocks assess a person’s biological age by...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/06/1145836/weight-loss-drugs-glp1-lilly-novo-aging-clocks/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-09T04:02:12Z",
-      "is_fallback": true
-    },
-    {
-      "title": "The Download: 10 climate tech companies to watch",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. 10 climate tech companies to watch Each year, MIT Technology Review puts together a list of the most promising climate tech companies in the world...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/06/1145796/the-download-10-climate-tech-companies-to-watch/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-09T04:02:12Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Here’s how our climate team picked 10 promising companies to watch",
-      "summary": "As the team at MIT Technology Review set out to choose companies for this year’s edition of our annual list of Climate Tech Companies to Watch, the challenge felt more daunting than any year since we started compiling the list in 2023.&#160; This year is shaping up to be one of the hottest ever...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/06/1144978/2026-climate-tech-companies-to-watch-how-we-chose/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-09T04:02:12Z",
+      "reasoned_at": "2026-10-10T03:47:39Z",
       "is_fallback": true
     },
     {
@@ -99,7 +109,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-09T04:02:12Z",
+      "reasoned_at": "2026-10-10T03:47:39Z",
       "is_fallback": true
     },
     {
@@ -109,7 +119,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-09T04:02:12Z",
+      "reasoned_at": "2026-10-10T03:47:39Z",
       "is_fallback": true
     },
     {
@@ -119,7 +129,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-09T04:02:12Z",
+      "reasoned_at": "2026-10-10T03:47:39Z",
       "is_fallback": true
     },
     {
@@ -129,7 +139,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-10-09T04:02:13Z",
+      "reasoned_at": "2026-10-10T03:47:39Z",
       "is_fallback": true
     },
     {
@@ -139,7 +149,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-10-09T04:02:13Z",
+      "reasoned_at": "2026-10-10T03:47:39Z",
       "is_fallback": true
     }
   ]
