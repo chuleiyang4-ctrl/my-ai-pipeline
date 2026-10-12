@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-11T03:20:58Z",
+  "updated_at": "2026-10-12T03:43:46Z",
   "total": 15,
   "cards": [
     {
@@ -9,12 +9,12 @@
       "second_order_reasoning": "Ripple effects across the LLM value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/09/1146250/the-download-ai-refusal-problem-weight-loss-drug-side-effects/",
       "category": "LLM",
-      "reasoned_at": "2026-10-11T03:20:56Z",
+      "reasoned_at": "2026-10-12T03:43:44Z",
       "is_fallback": true,
       "confidence": 85,
-      "prediction_id": "pred_20261011_001",
+      "prediction_id": "pred_20261012_001",
       "verify_metric": "Technology adoption rate and market dynamics for LLM sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "We’re putting too much faith in AI’s ability to say no",
@@ -23,12 +23,12 @@
       "second_order_reasoning": "Ripple effects across the 具身智能 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/09/1145728/we-are-putting-too-much-faith-in-ai-to-say-no/",
       "category": "具身智能",
-      "reasoned_at": "2026-10-11T03:20:56Z",
+      "reasoned_at": "2026-10-12T03:43:44Z",
       "is_fallback": true,
-      "confidence": 75,
-      "prediction_id": "pred_20261011_002",
+      "confidence": 71,
+      "prediction_id": "pred_20261012_002",
       "verify_metric": "Technology adoption rate and market dynamics for 具身智能 sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "Job titles of the future: Delivery drone air traffic controller",
@@ -37,12 +37,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/09/1145737/job-titles-delivery-drone-air-traffic-controller-trevor-wischnewsky/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-11T03:20:56Z",
+      "reasoned_at": "2026-10-12T03:43:44Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261011_003",
+      "confidence": 68,
+      "prediction_id": "pred_20261012_003",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "We’re still figuring out the side effects of GLP-1 weight-loss drugs",
@@ -51,12 +51,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/09/1146094/were-still-figuring-out-the-side-effects-of-glp-1-weight-loss-drugs/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-11T03:20:57Z",
+      "reasoned_at": "2026-10-12T03:43:44Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20261011_004",
+      "confidence": 71,
+      "prediction_id": "pred_20261012_004",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
@@ -65,12 +65,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-11T03:20:57Z",
+      "reasoned_at": "2026-10-12T03:43:44Z",
       "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20261011_005",
+      "confidence": 81,
+      "prediction_id": "pred_20261012_005",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
@@ -79,12 +79,12 @@
       "second_order_reasoning": "Ripple effects across the 具身智能 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams/",
       "category": "具身智能",
-      "reasoned_at": "2026-10-11T03:20:57Z",
+      "reasoned_at": "2026-10-12T03:43:44Z",
       "is_fallback": true,
-      "confidence": 79,
-      "prediction_id": "pred_20261011_006",
+      "confidence": 71,
+      "prediction_id": "pred_20261012_006",
       "verify_metric": "Technology adoption rate and market dynamics for 具身智能 sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "Why we’re watching these climate tech companies",
@@ -93,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/08/1145920/climate-tech-companies-list/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-11T03:20:57Z",
+      "reasoned_at": "2026-10-12T03:43:45Z",
       "is_fallback": true,
-      "confidence": 70,
-      "prediction_id": "pred_20261011_007",
+      "confidence": 69,
+      "prediction_id": "pred_20261012_007",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "AI breakthroughs in robotics won’t change your life any time soon",
@@ -107,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the 具身智能 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon/",
       "category": "具身智能",
-      "reasoned_at": "2026-10-11T03:20:57Z",
+      "reasoned_at": "2026-10-12T03:43:45Z",
       "is_fallback": true,
-      "confidence": 79,
-      "prediction_id": "pred_20261011_008",
+      "confidence": 78,
+      "prediction_id": "pred_20261012_008",
       "verify_metric": "Technology adoption rate and market dynamics for 具身智能 sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "Building a safer path to autonomous industrial AI",
@@ -121,12 +121,12 @@
       "second_order_reasoning": "Ripple effects across the 基础模型 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai/",
       "category": "基础模型",
-      "reasoned_at": "2026-10-11T03:20:57Z",
+      "reasoned_at": "2026-10-12T03:43:45Z",
       "is_fallback": true,
-      "confidence": 84,
-      "prediction_id": "pred_20261011_009",
+      "confidence": 88,
+      "prediction_id": "pred_20261012_009",
       "verify_metric": "Technology adoption rate and market dynamics for 基础模型 sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "The Download: weight-loss drugs slowing aging and carbon dioxide batteries",
@@ -135,12 +135,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/07/1145895/the-download-weight-loss-drugs-slow-aging-carbon-dioxide-batteries/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-11T03:20:57Z",
+      "reasoned_at": "2026-10-12T03:43:45Z",
       "is_fallback": true,
-      "confidence": 69,
-      "prediction_id": "pred_20261011_010",
+      "confidence": 72,
+      "prediction_id": "pred_20261012_010",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -149,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-11T03:20:57Z",
+      "reasoned_at": "2026-10-12T03:43:45Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20261011_011",
+      "confidence": 76,
+      "prediction_id": "pred_20261012_011",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -163,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-11T03:20:57Z",
+      "reasoned_at": "2026-10-12T03:43:45Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261011_012",
+      "confidence": 80,
+      "prediction_id": "pred_20261012_012",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -177,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-11T03:20:57Z",
+      "reasoned_at": "2026-10-12T03:43:45Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261011_013",
+      "confidence": 81,
+      "prediction_id": "pred_20261012_013",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -191,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-10-11T03:20:57Z",
+      "reasoned_at": "2026-10-12T03:43:45Z",
       "is_fallback": true,
-      "confidence": 69,
-      "prediction_id": "pred_20261011_014",
+      "confidence": 72,
+      "prediction_id": "pred_20261012_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -205,12 +205,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-10-11T03:20:58Z",
+      "reasoned_at": "2026-10-12T03:43:45Z",
       "is_fallback": true,
-      "confidence": 83,
-      "prediction_id": "pred_20261011_015",
+      "confidence": 75,
+      "prediction_id": "pred_20261012_015",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-09"
+      "verify_deadline": "2027-04-10"
     }
   ]
 }
