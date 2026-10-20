@@ -1,7 +1,91 @@
 {
-  "updated_at": "2026-10-19T02:45:32Z",
+  "updated_at": "2026-10-20T02:56:57Z",
   "total": 15,
   "cards": [
+    {
+      "title": "Making the internet better for AI agents might make it worse for everyone else",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites have long allowed bots to perform automated tasks, like...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-10-20T02:56:54Z",
+      "is_fallback": true,
+      "confidence": 83,
+      "prediction_id": "pred_20261020_001",
+      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
+      "verify_deadline": "2027-04-18"
+    },
+    {
+      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
+      "summary": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head, sparking wild speculation as well as cautious (and...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-20T02:56:54Z",
+      "is_fallback": true,
+      "confidence": 73,
+      "prediction_id": "pred_20261020_002",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-04-18"
+    },
+    {
+      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Inside the quest to combat Arctic fires and save the planet’s frozen carbon —James Temple In July 2021, a wildfire burned through a forest on the...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-10-20T02:56:54Z",
+      "is_fallback": true,
+      "confidence": 70,
+      "prediction_id": "pred_20261020_003",
+      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
+      "verify_deadline": "2027-04-18"
+    },
+    {
+      "title": "Inside the quest to combat Arctic fires and save the planet’s frozen carbon",
+      "summary": "In the middle of an especially warm July in 2021, a wildfire ignited in a thick forest of black spruce and peeling paper birch trees on the northern campus of the University of Alaska, Fairbanks.&#160; The blaze, possibly sparked by lightning, burned across the dry carpet of feather mosses and...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1146832/inside-the-quest-to-combat-arctic-fires-and-save-the-planets-frozen-carbon/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-20T02:56:54Z",
+      "is_fallback": true,
+      "confidence": 75,
+      "prediction_id": "pred_20261020_004",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-04-18"
+    },
+    {
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "summary": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home Alone. The agents—copies of Claude Opus 4.7 nicknamed...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-10-20T02:56:54Z",
+      "is_fallback": true,
+      "confidence": 80,
+      "prediction_id": "pred_20261020_005",
+      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
+      "verify_deadline": "2027-04-18"
+    },
+    {
+      "title": "How far can we push computing?",
+      "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of science and technology to help you understand what’s coming next. You can read more from the series here. On the evening of December 29, 1959, at an American Physical Society meeting at Caltech, the physicist...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/19/1145904/tr-explains-how-far-can-we-push-computing/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-20T02:56:54Z",
+      "is_fallback": true,
+      "confidence": 81,
+      "prediction_id": "pred_20261020_006",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-04-18"
+    },
     {
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "summary": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It isn’t yet an example of AI-generated life, but that...",
@@ -9,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-19T02:45:30Z",
+      "reasoned_at": "2026-10-20T02:56:55Z",
       "is_fallback": true,
-      "confidence": 78,
-      "prediction_id": "pred_20261019_001",
+      "confidence": 75,
+      "prediction_id": "pred_20261020_007",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-17"
+      "verify_deadline": "2027-04-18"
     },
     {
       "title": "The Download: failed social media bans, and extending pets’ lives",
@@ -23,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/16/1146864/the-download-failed-social-media-bans-and-extending-pets-lives/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-19T02:45:30Z",
+      "reasoned_at": "2026-10-20T02:56:55Z",
       "is_fallback": true,
-      "confidence": 70,
-      "prediction_id": "pred_20261019_002",
+      "confidence": 73,
+      "prediction_id": "pred_20261020_008",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-17"
+      "verify_deadline": "2027-04-18"
     },
     {
       "title": "This implant can restore sight for patients with macular degeneration",
@@ -37,12 +121,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/16/1145840/prima-implant-restores-sight-macular-degeneration-patients/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-19T02:45:30Z",
+      "reasoned_at": "2026-10-20T02:56:55Z",
       "is_fallback": true,
-      "confidence": 80,
-      "prediction_id": "pred_20261019_003",
+      "confidence": 83,
+      "prediction_id": "pred_20261020_009",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-17"
+      "verify_deadline": "2027-04-18"
     },
     {
       "title": "Love is infrastructure",
@@ -51,96 +135,12 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/16/1145845/love-is-infrastructure-fiction-charlie-jane-anders/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-10-19T02:45:30Z",
+      "reasoned_at": "2026-10-20T02:56:55Z",
       "is_fallback": true,
-      "confidence": 81,
-      "prediction_id": "pred_20261019_004",
+      "confidence": 75,
+      "prediction_id": "pred_20261020_010",
       "verify_metric": "Technology adoption rate and market dynamics for AI基础设施 sector",
-      "verify_deadline": "2027-04-17"
-    },
-    {
-      "title": "Can’t bear to say goodbye to your pet? Biotech’s got you covered.",
-      "summary": "I don’t remember much about Peppy, my first and only pet cat. I can conjure the sensation of stroking her while she purred, recall how she used to get stuck in trees (just like in cartoons!), and chuckle about the time she pooed in my baby sister’s cot. That’s about it. What I do vividly&#8230;",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/16/1146766/pet-biotech-longevity-cloning-cryonics/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-19T02:45:30Z",
-      "is_fallback": true,
-      "confidence": 81,
-      "prediction_id": "pred_20261019_005",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-17"
-    },
-    {
-      "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-      "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids under 16 from accessing...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-19T02:45:30Z",
-      "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20261019_006",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-17"
-    },
-    {
-      "title": "The Download: reviving frozen pig kidneys and boosting nuclear power",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Pig kidneys that were “frozen” for a year have been brought back to life Pig kidneys that were cooled to -150 °C and stored in a freezer for months...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/15/1146755/the-download-reviving-frozen-pig-kidneys-boosting-nuclear-power/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-19T02:45:30Z",
-      "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261019_007",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-17"
-    },
-    {
-      "title": "How much more can nuclear power plants give?",
-      "summary": "In this age of rising electricity demand, people are trying to squeeze every last bit of power out of every power plant possible. Over the past few weeks, there’s been big news about nuclear power plants trying to do just that. Constellation, the largest nuclear operator in the US, announced plans...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/15/1146577/nuclear-power-upgrade/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-19T02:45:30Z",
-      "is_fallback": true,
-      "confidence": 69,
-      "prediction_id": "pred_20261019_008",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-17"
-    },
-    {
-      "title": "Six wild ideas for perpetuating your mind",
-      "summary": "Have you ever thought about what makes you you? Science assures us it has everything to do with the three-pound organ between our ears, with its billions of neurons and trillions of delicate connections. But it’s a lot trickier to explain why we have a sense of self-awareness or to pin down...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/15/1145819/six-wild-ideas-perpetuating-your-mind-cognitive-immortality/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-19T02:45:30Z",
-      "is_fallback": true,
-      "confidence": 80,
-      "prediction_id": "pred_20261019_009",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-17"
-    },
-    {
-      "title": "Pig kidneys that were “frozen” for a year have been brought back to life",
-      "summary": "Pig kidneys that were cooled to -150 °C and stored in a freezer for months have been successfully rewarmed and shown to work again for the first time, say scientists. They hope to replicate the findings with human organs. The kidneys—which are similar in size to human ones—were left in a glass-like...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/15/1146091/pig-kidneys-that-were-frozen-for-a-year-have-been-brought-back-to-life/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-19T02:45:30Z",
-      "is_fallback": true,
-      "confidence": 79,
-      "prediction_id": "pred_20261019_010",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-17"
+      "verify_deadline": "2027-04-18"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -149,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-19T02:45:30Z",
+      "reasoned_at": "2026-10-20T02:56:55Z",
       "is_fallback": true,
-      "confidence": 75,
-      "prediction_id": "pred_20261019_011",
+      "confidence": 73,
+      "prediction_id": "pred_20261020_011",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-17"
+      "verify_deadline": "2027-04-18"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -163,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-19T02:45:30Z",
+      "reasoned_at": "2026-10-20T02:56:55Z",
       "is_fallback": true,
-      "confidence": 83,
-      "prediction_id": "pred_20261019_012",
+      "confidence": 73,
+      "prediction_id": "pred_20261020_012",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-17"
+      "verify_deadline": "2027-04-18"
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -177,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-19T02:45:30Z",
+      "reasoned_at": "2026-10-20T02:56:55Z",
       "is_fallback": true,
-      "confidence": 71,
-      "prediction_id": "pred_20261019_013",
+      "confidence": 81,
+      "prediction_id": "pred_20261020_013",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-17"
+      "verify_deadline": "2027-04-18"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -191,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-10-19T02:45:30Z",
+      "reasoned_at": "2026-10-20T02:56:55Z",
       "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20261019_014",
+      "confidence": 79,
+      "prediction_id": "pred_20261020_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-17"
+      "verify_deadline": "2027-04-18"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -205,12 +205,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-10-19T02:45:30Z",
+      "reasoned_at": "2026-10-20T02:56:55Z",
       "is_fallback": true,
-      "confidence": 78,
-      "prediction_id": "pred_20261019_015",
+      "confidence": 77,
+      "prediction_id": "pred_20261020_015",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-17"
+      "verify_deadline": "2027-04-18"
     }
   ]
 }
