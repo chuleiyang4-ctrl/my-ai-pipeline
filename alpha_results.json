@@ -1,20 +1,62 @@
 {
-  "updated_at": "2026-10-27T03:14:56Z",
+  "updated_at": "2026-10-28T03:29:33Z",
   "total": 15,
   "cards": [
     {
+      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-28T03:29:30Z",
+      "is_fallback": true,
+      "confidence": 73,
+      "prediction_id": "pred_20261028_001",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-04-26"
+    },
+    {
+      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
+      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-28T03:29:30Z",
+      "is_fallback": true,
+      "confidence": 70,
+      "prediction_id": "pred_20261028_002",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-04-26"
+    },
+    {
+      "title": "How solid-state transformers could help power the AI boom",
+      "summary": "Transformers are a crucial but nearly invisible part of our grid. The devices help efficiently move power across long distances, but they’re complicated and in short supply. And given that their basic design hasn’t changed much for about a century, they could use an upgrade.&#160; As the world...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-28T03:29:30Z",
+      "is_fallback": true,
+      "confidence": 70,
+      "prediction_id": "pred_20261028_003",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-04-26"
+    },
+    {
       "title": "Will the real Anthropic please stand up",
-      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the company’s...",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first,&#160;sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100 pages or so are focused on risks) lays out the...",
       "first_order_impact": "Direct market movement expected for entities related to: AI应用",
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-27T03:14:55Z",
+      "reasoned_at": "2026-10-28T03:29:31Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20261027_001",
+      "confidence": 83,
+      "prediction_id": "pred_20261028_004",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-25"
+      "verify_deadline": "2027-04-26"
     },
     {
       "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
@@ -23,12 +65,12 @@
       "second_order_reasoning": "Ripple effects across the AI安全 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
       "category": "AI安全",
-      "reasoned_at": "2026-10-27T03:14:55Z",
+      "reasoned_at": "2026-10-28T03:29:31Z",
       "is_fallback": true,
-      "confidence": 78,
-      "prediction_id": "pred_20261027_002",
+      "confidence": 73,
+      "prediction_id": "pred_20261028_005",
       "verify_metric": "Technology adoption rate and market dynamics for AI安全 sector",
-      "verify_deadline": "2027-04-25"
+      "verify_deadline": "2027-04-26"
     },
     {
       "title": "The focus on AI safety disasters ignores everyday harms",
@@ -37,12 +79,12 @@
       "second_order_reasoning": "Ripple effects across the LLM value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
       "category": "LLM",
-      "reasoned_at": "2026-10-27T03:14:55Z",
+      "reasoned_at": "2026-10-28T03:29:31Z",
       "is_fallback": true,
-      "confidence": 87,
-      "prediction_id": "pred_20261027_003",
+      "confidence": 77,
+      "prediction_id": "pred_20261028_006",
       "verify_metric": "Technology adoption rate and market dynamics for LLM sector",
-      "verify_deadline": "2027-04-25"
+      "verify_deadline": "2027-04-26"
     },
     {
       "title": "The Download: testing six tech promises and biotech’s blind spots",
@@ -51,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-27T03:14:55Z",
+      "reasoned_at": "2026-10-28T03:29:31Z",
       "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20261027_004",
+      "confidence": 78,
+      "prediction_id": "pred_20261028_007",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-25"
+      "verify_deadline": "2027-04-26"
     },
     {
       "title": "In the biotech world, you can’t see everything",
@@ -65,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-27T03:14:55Z",
+      "reasoned_at": "2026-10-28T03:29:31Z",
       "is_fallback": true,
-      "confidence": 75,
-      "prediction_id": "pred_20261027_005",
+      "confidence": 83,
+      "prediction_id": "pred_20261028_008",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-25"
+      "verify_deadline": "2027-04-26"
     },
     {
       "title": "Designing an AI serving harness built to last",
@@ -79,12 +121,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-27T03:14:55Z",
+      "reasoned_at": "2026-10-28T03:29:31Z",
       "is_fallback": true,
-      "confidence": 69,
-      "prediction_id": "pred_20261027_006",
+      "confidence": 77,
+      "prediction_id": "pred_20261028_009",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-25"
+      "verify_deadline": "2027-04-26"
     },
     {
       "title": "The Foundations of Scalable AI",
@@ -93,54 +135,12 @@
       "second_order_reasoning": "Ripple effects across the 基础模型 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
       "category": "基础模型",
-      "reasoned_at": "2026-10-27T03:14:55Z",
+      "reasoned_at": "2026-10-28T03:29:32Z",
       "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20261027_007",
+      "confidence": 81,
+      "prediction_id": "pred_20261028_010",
       "verify_metric": "Technology adoption rate and market dynamics for 基础模型 sector",
-      "verify_deadline": "2027-04-25"
-    },
-    {
-      "title": "The Download: computing’s next leap and permafrost’s climate threat",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room at the...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-27T03:14:55Z",
-      "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261027_008",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-25"
-    },
-    {
-      "title": "Making the case for context-aware AI",
-      "summary": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships that determine whether a decision is the right one. As...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-27T03:14:55Z",
-      "is_fallback": true,
-      "confidence": 69,
-      "prediction_id": "pred_20261027_009",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-25"
-    },
-    {
-      "title": "Three things you should know about permafrost",
-      "summary": "How much do you know about permafrost? Maybe, like me, you’ve been aware that this layer of frozen soil is thawing, that it’s important in the global puzzle of climate change … and that’s about the extent of it.&#160;&#160; The great news for both of us is that my colleague James Temple just...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/22/1147591/permafrost-primer/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-27T03:14:55Z",
-      "is_fallback": true,
-      "confidence": 79,
-      "prediction_id": "pred_20261027_010",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-25"
+      "verify_deadline": "2027-04-26"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -149,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-27T03:14:56Z",
+      "reasoned_at": "2026-10-28T03:29:32Z",
       "is_fallback": true,
-      "confidence": 73,
-      "prediction_id": "pred_20261027_011",
+      "confidence": 81,
+      "prediction_id": "pred_20261028_011",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-25"
+      "verify_deadline": "2027-04-26"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -163,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-27T03:14:56Z",
+      "reasoned_at": "2026-10-28T03:29:32Z",
       "is_fallback": true,
-      "confidence": 78,
-      "prediction_id": "pred_20261027_012",
+      "confidence": 68,
+      "prediction_id": "pred_20261028_012",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-25"
+      "verify_deadline": "2027-04-26"
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -177,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-27T03:14:56Z",
+      "reasoned_at": "2026-10-28T03:29:32Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20261027_013",
+      "confidence": 72,
+      "prediction_id": "pred_20261028_013",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-04-25"
+      "verify_deadline": "2027-04-26"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -191,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-10-27T03:14:56Z",
+      "reasoned_at": "2026-10-28T03:29:32Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20261027_014",
+      "confidence": 83,
+      "prediction_id": "pred_20261028_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-25"
+      "verify_deadline": "2027-04-26"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -205,12 +205,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-10-27T03:14:56Z",
+      "reasoned_at": "2026-10-28T03:29:32Z",
       "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20261027_015",
+      "confidence": 68,
+      "prediction_id": "pred_20261028_015",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-04-25"
+      "verify_deadline": "2027-04-26"
     }
   ]
 }
