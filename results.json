@@ -1,7 +1,27 @@
 {
-  "updated_at": "2026-10-28T03:29:28Z",
-  "total": 15,
+  "updated_at": "2026-10-29T03:51:42Z",
+  "total": 14,
   "cards": [
+    {
+      "title": "Creating AI value with enterprise context",
+      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-29T03:51:41Z",
+      "is_fallback": true
+    },
+    {
+      "title": "The Download: dead startups fueling AI and interspecies communication",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
+      "category": "AI应用",
+      "reasoned_at": "2026-10-29T03:51:41Z",
+      "is_fallback": true
+    },
     {
       "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100...",
@@ -9,7 +29,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-28T03:29:26Z",
+      "reasoned_at": "2026-10-29T03:51:41Z",
       "is_fallback": true
     },
     {
@@ -19,7 +39,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-28T03:29:26Z",
+      "reasoned_at": "2026-10-29T03:51:41Z",
       "is_fallback": true
     },
     {
@@ -29,7 +49,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-28T03:29:26Z",
+      "reasoned_at": "2026-10-29T03:51:41Z",
       "is_fallback": true
     },
     {
@@ -39,7 +59,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-28T03:29:27Z",
+      "reasoned_at": "2026-10-29T03:51:41Z",
       "is_fallback": true
     },
     {
@@ -49,7 +69,7 @@
       "second_order_reasoning": "Ripple effects across the AI安全 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight/",
       "category": "AI安全",
-      "reasoned_at": "2026-10-28T03:29:27Z",
+      "reasoned_at": "2026-10-29T03:51:41Z",
       "is_fallback": true
     },
     {
@@ -59,7 +79,7 @@
       "second_order_reasoning": "Ripple effects across the LLM value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms/",
       "category": "LLM",
-      "reasoned_at": "2026-10-28T03:29:27Z",
+      "reasoned_at": "2026-10-29T03:51:41Z",
       "is_fallback": true
     },
     {
@@ -69,37 +89,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
       "category": "AI应用",
-      "reasoned_at": "2026-10-28T03:29:27Z",
-      "is_fallback": true
-    },
-    {
-      "title": "In the biotech world, you can’t see everything",
-      "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes.&#160; I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was wondering what new...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-28T03:29:27Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Designing an AI serving harness built to last",
-      "summary": "The next competitive advantage in enterprise AI has less to do with which model you choose than with what you build around it. That’s an important shift. For the past several years, much of the AI conversation has centered on model capability: bigger models, better reasoning, larger context...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last/",
-      "category": "AI应用",
-      "reasoned_at": "2026-10-28T03:29:27Z",
-      "is_fallback": true
-    },
-    {
-      "title": "The Foundations of Scalable AI",
-      "summary": "A scalable AI system requires a strong foundation. Data, engineering, platforms, operating models, and governance must converge to work as one. This session from MIT Technology Review&#8217;s EmTech Future conference explores what it takes to build that foundation in a highly regulated environment...",
-      "first_order_impact": "Direct market movement expected for entities related to: 基础模型",
-      "second_order_reasoning": "Ripple effects across the 基础模型 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/22/1146103/the-foundations-of-scalable-ai/",
-      "category": "基础模型",
-      "reasoned_at": "2026-10-28T03:29:27Z",
+      "reasoned_at": "2026-10-29T03:51:41Z",
       "is_fallback": true
     },
     {
@@ -109,7 +99,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-28T03:29:27Z",
+      "reasoned_at": "2026-10-29T03:51:42Z",
       "is_fallback": true
     },
     {
@@ -119,7 +109,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-28T03:29:27Z",
+      "reasoned_at": "2026-10-29T03:51:42Z",
       "is_fallback": true
     },
     {
@@ -129,7 +119,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-10-28T03:29:27Z",
+      "reasoned_at": "2026-10-29T03:51:42Z",
       "is_fallback": true
     },
     {
@@ -139,7 +129,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-10-28T03:29:28Z",
+      "reasoned_at": "2026-10-29T03:51:42Z",
       "is_fallback": true
     },
     {
@@ -149,7 +139,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-10-28T03:29:28Z",
+      "reasoned_at": "2026-10-29T03:51:42Z",
       "is_fallback": true
     }
   ]
