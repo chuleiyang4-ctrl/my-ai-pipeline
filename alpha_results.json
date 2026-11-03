@@ -1,7 +1,77 @@
 {
-  "updated_at": "2026-11-02T03:50:13Z",
-  "total": 14,
+  "updated_at": "2026-11-03T04:53:05Z",
+  "total": 15,
   "cards": [
+    {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "category": "AI应用",
+      "reasoned_at": "2026-11-03T04:53:04Z",
+      "is_fallback": true,
+      "confidence": 81,
+      "prediction_id": "pred_20261103_001",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-05-02"
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-11-03T04:53:04Z",
+      "is_fallback": true,
+      "confidence": 68,
+      "prediction_id": "pred_20261103_002",
+      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
+      "verify_deadline": "2027-05-02"
+    },
+    {
+      "title": "Stop counting tokens, start counting what ships",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-11-03T04:53:04Z",
+      "is_fallback": true,
+      "confidence": 79,
+      "prediction_id": "pred_20261103_003",
+      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
+      "verify_deadline": "2027-05-02"
+    },
+    {
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-11-03T04:53:04Z",
+      "is_fallback": true,
+      "confidence": 77,
+      "prediction_id": "pred_20261103_004",
+      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
+      "verify_deadline": "2027-05-02"
+    },
+    {
+      "title": "The agentic web is here",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-11-03T04:53:04Z",
+      "is_fallback": true,
+      "confidence": 79,
+      "prediction_id": "pred_20261103_005",
+      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
+      "verify_deadline": "2027-05-02"
+    },
     {
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last...",
@@ -9,12 +79,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:12Z",
+      "reasoned_at": "2026-11-03T04:53:04Z",
       "is_fallback": true,
-      "confidence": 73,
-      "prediction_id": "pred_20261102_001",
+      "confidence": 71,
+      "prediction_id": "pred_20261103_006",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-01"
+      "verify_deadline": "2027-05-02"
     },
     {
       "title": "Eating disorders are on the rise. GLP-1s could make things worse.",
@@ -23,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:12Z",
+      "reasoned_at": "2026-11-03T04:53:04Z",
       "is_fallback": true,
-      "confidence": 70,
-      "prediction_id": "pred_20261102_002",
+      "confidence": 83,
+      "prediction_id": "pred_20261103_007",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-01"
+      "verify_deadline": "2027-05-02"
     },
     {
       "title": "The Download: AI agent tracking and climate feedback loops",
@@ -37,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-02T03:50:12Z",
+      "reasoned_at": "2026-11-03T04:53:04Z",
       "is_fallback": true,
-      "confidence": 78,
-      "prediction_id": "pred_20261102_003",
+      "confidence": 81,
+      "prediction_id": "pred_20261103_008",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-01"
+      "verify_deadline": "2027-05-02"
     },
     {
       "title": "We urgently need to monitor AI agents’ actions in real time",
@@ -51,12 +121,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-02T03:50:12Z",
+      "reasoned_at": "2026-11-03T04:53:04Z",
       "is_fallback": true,
-      "confidence": 73,
-      "prediction_id": "pred_20261102_004",
+      "confidence": 68,
+      "prediction_id": "pred_20261103_009",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-01"
+      "verify_deadline": "2027-05-02"
     },
     {
       "title": "Our climate models have a big, dangerous blind spot",
@@ -65,68 +135,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:12Z",
+      "reasoned_at": "2026-11-03T04:53:05Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261102_005",
+      "confidence": 83,
+      "prediction_id": "pred_20261103_010",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-01"
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:12Z",
-      "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20261102_006",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-01"
-    },
-    {
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:12Z",
-      "is_fallback": true,
-      "confidence": 75,
-      "prediction_id": "pred_20261102_007",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-01"
-    },
-    {
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:13Z",
-      "is_fallback": true,
-      "confidence": 80,
-      "prediction_id": "pred_20261102_008",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-01"
-    },
-    {
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:13Z",
-      "is_fallback": true,
-      "confidence": 69,
-      "prediction_id": "pred_20261102_009",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-01"
+      "verify_deadline": "2027-05-02"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -135,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-02T03:50:13Z",
+      "reasoned_at": "2026-11-03T04:53:05Z",
       "is_fallback": true,
-      "confidence": 76,
-      "prediction_id": "pred_20261102_010",
+      "confidence": 79,
+      "prediction_id": "pred_20261103_011",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-01"
+      "verify_deadline": "2027-05-02"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -149,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-02T03:50:13Z",
+      "reasoned_at": "2026-11-03T04:53:05Z",
       "is_fallback": true,
-      "confidence": 71,
-      "prediction_id": "pred_20261102_011",
+      "confidence": 83,
+      "prediction_id": "pred_20261103_012",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-01"
+      "verify_deadline": "2027-05-02"
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -163,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-02T03:50:13Z",
+      "reasoned_at": "2026-11-03T04:53:05Z",
       "is_fallback": true,
       "confidence": 75,
-      "prediction_id": "pred_20261102_012",
+      "prediction_id": "pred_20261103_013",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-01"
+      "verify_deadline": "2027-05-02"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -177,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:13Z",
+      "reasoned_at": "2026-11-03T04:53:05Z",
       "is_fallback": true,
-      "confidence": 82,
-      "prediction_id": "pred_20261102_013",
+      "confidence": 76,
+      "prediction_id": "pred_20261103_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-01"
+      "verify_deadline": "2027-05-02"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -191,12 +205,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:13Z",
+      "reasoned_at": "2026-11-03T04:53:05Z",
       "is_fallback": true,
-      "confidence": 83,
-      "prediction_id": "pred_20261102_014",
+      "confidence": 81,
+      "prediction_id": "pred_20261103_015",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-01"
+      "verify_deadline": "2027-05-02"
     }
   ]
 }

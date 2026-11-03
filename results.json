@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-11-02T03:50:10Z",
-  "total": 14,
+  "updated_at": "2026-11-03T04:53:02Z",
+  "total": 15,
   "cards": [
+    {
+      "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. At the end of September, President Trump signed an executive order that contained just one directive, ordering government agencies to rebrand what they had been...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
+      "category": "AI应用",
+      "reasoned_at": "2026-11-03T04:53:01Z",
+      "is_fallback": true
+    },
+    {
+      "title": "Raising the quality of insights in agentic analytics",
+      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-11-03T04:53:01Z",
+      "is_fallback": true
+    },
+    {
+      "title": "Stop counting tokens, start counting what ships",
+      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-11-03T04:53:01Z",
+      "is_fallback": true
+    },
+    {
+      "title": "The Download: the agentic web arrives and the drive for safer roads",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The agentic web is here In 2001, a decade after inventing the World Wide Web, Tim Berners-Lee articulated a new vision: an internet navigated by...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147889/the-download-agentic-web-arrives-eliminating-traffic-deaths/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-11-03T04:53:01Z",
+      "is_fallback": true
+    },
+    {
+      "title": "The agentic web is here",
+      "summary": "In 2001, a decade after he invented the World Wide Web, Tim Berners-Lee articulated a new vision. Together with two colleagues, he published an article in the magazine Scientific American in which he outlined what he called the “Semantic Web”: an internet designed to be navigated by autonomous...",
+      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
+      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/02/1147846/the-agentic-web-is-here/",
+      "category": "金融Agent",
+      "reasoned_at": "2026-11-03T04:53:01Z",
+      "is_fallback": true
+    },
     {
       "title": "The Download: GLP-1s and eating disorders, self-aware cities, and forever chemicals",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Eating disorders are on the rise. GLP-1s could make things worse. GLP-1 weight-loss drugs are one of the biggest biotech breakthroughs of the last...",
@@ -9,7 +59,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/30/1147843/the-download-glp-1s-eating-disorders-forever-chemicals/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:09Z",
+      "reasoned_at": "2026-11-03T04:53:01Z",
       "is_fallback": true
     },
     {
@@ -19,7 +69,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/30/1147838/eating-disorders-rise-glp-1s-weight-loss-drugs/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:09Z",
+      "reasoned_at": "2026-11-03T04:53:01Z",
       "is_fallback": true
     },
     {
@@ -29,7 +79,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-02T03:50:09Z",
+      "reasoned_at": "2026-11-03T04:53:01Z",
       "is_fallback": true
     },
     {
@@ -39,7 +89,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-02T03:50:09Z",
+      "reasoned_at": "2026-11-03T04:53:01Z",
       "is_fallback": true
     },
     {
@@ -49,47 +99,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:09Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Creating AI value with enterprise context",
-      "summary": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:09Z",
-      "is_fallback": true
-    },
-    {
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding down his crypto startup, he didn’t think its data...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:09Z",
-      "is_fallback": true
-    },
-    {
-      "title": "The Download: Anthropic’s IPO, smarter power grids, and exercise pills",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Will the real Anthropic please stand up? After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document (100...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/27/1147693/the-download-anthropic-ipo-smarter-power-grids-exercise-pills/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:10Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Industrial Intelligence: The next growth opportunity for manufacturing",
-      "summary": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers. Consider an experienced operator preparing to restart a line after a changeover. The machine settings matter, but so does knowing how a particular material behaves...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/10/27/1147142/industrial-intelligence-the-next-growth-opportunity-for-manufacturing/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:10Z",
+      "reasoned_at": "2026-11-03T04:53:01Z",
       "is_fallback": true
     },
     {
@@ -99,7 +109,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-02T03:50:10Z",
+      "reasoned_at": "2026-11-03T04:53:01Z",
       "is_fallback": true
     },
     {
@@ -109,7 +119,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-02T03:50:10Z",
+      "reasoned_at": "2026-11-03T04:53:02Z",
       "is_fallback": true
     },
     {
@@ -119,7 +129,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-02T03:50:10Z",
+      "reasoned_at": "2026-11-03T04:53:02Z",
       "is_fallback": true
     },
     {
@@ -129,7 +139,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:10Z",
+      "reasoned_at": "2026-11-03T04:53:02Z",
       "is_fallback": true
     },
     {
@@ -139,7 +149,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-11-02T03:50:10Z",
+      "reasoned_at": "2026-11-03T04:53:02Z",
       "is_fallback": true
     }
   ]
