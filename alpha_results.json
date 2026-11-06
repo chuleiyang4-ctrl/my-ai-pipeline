@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-11-05T04:39:03Z",
+  "updated_at": "2026-11-06T04:38:43Z",
   "total": 15,
   "cards": [
+    {
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the fastest-growing data center market in the US and ground...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI基础设施",
+      "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
+      "category": "AI基础设施",
+      "reasoned_at": "2026-11-06T04:38:41Z",
+      "is_fallback": true,
+      "confidence": 77,
+      "prediction_id": "pred_20261106_001",
+      "verify_metric": "Technology adoption rate and market dynamics for AI基础设施 sector",
+      "verify_deadline": "2027-05-05"
+    },
+    {
+      "title": "A new bill could change how the US builds energy infrastructure",
+      "summary": "A sweeping bit of legislation designed to cut red tape could speed up the buildout of energy infrastructure in the US. With the dust barely settled on this week’s momentous midterms, the Senate is set to vote on the Bipartisan American Affordability and Jobs Act (BAAJA) on November 9. It’s a plan...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI基础设施",
+      "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
+      "category": "AI基础设施",
+      "reasoned_at": "2026-11-06T04:38:41Z",
+      "is_fallback": true,
+      "confidence": 71,
+      "prediction_id": "pred_20261106_002",
+      "verify_metric": "Technology adoption rate and market dynamics for AI基础设施 sector",
+      "verify_deadline": "2027-05-05"
+    },
     {
       "title": "Texas was the new epicenter of the AI data center buildout. That might be kaput.",
       "summary": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech&#8217;s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat against Ken Paxton. Gina Hinojosa won the race for...",
@@ -9,12 +37,12 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-11-05T04:39:01Z",
+      "reasoned_at": "2026-11-06T04:38:41Z",
       "is_fallback": true,
-      "confidence": 73,
-      "prediction_id": "pred_20261105_001",
+      "confidence": 74,
+      "prediction_id": "pred_20261106_003",
       "verify_metric": "Technology adoption rate and market dynamics for AI基础设施 sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     },
     {
       "title": "Roundtables: Inside the Quest for Cognitive Immortality",
@@ -23,12 +51,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-05T04:39:01Z",
+      "reasoned_at": "2026-11-06T04:38:41Z",
       "is_fallback": true,
-      "confidence": 69,
-      "prediction_id": "pred_20261105_002",
+      "confidence": 70,
+      "prediction_id": "pred_20261106_004",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     },
     {
       "title": "What’s next for US energy policy after the midterm elections?",
@@ -37,12 +65,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-05T04:39:01Z",
+      "reasoned_at": "2026-11-06T04:38:41Z",
       "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20261105_003",
+      "confidence": 76,
+      "prediction_id": "pred_20261106_005",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     },
     {
       "title": "The Download: blended meat, restored sight, and the agentic web",
@@ -51,12 +79,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-05T04:39:02Z",
+      "reasoned_at": "2026-11-06T04:38:41Z",
       "is_fallback": true,
-      "confidence": 76,
-      "prediction_id": "pred_20261105_004",
+      "confidence": 68,
+      "prediction_id": "pred_20261106_006",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     },
     {
       "title": "Securing the agentic enterprise with data lineage",
@@ -65,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-05T04:39:02Z",
+      "reasoned_at": "2026-11-06T04:38:41Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261105_005",
+      "confidence": 75,
+      "prediction_id": "pred_20261106_007",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     },
     {
       "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
@@ -79,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-05T04:39:02Z",
+      "reasoned_at": "2026-11-06T04:38:41Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20261105_006",
+      "confidence": 74,
+      "prediction_id": "pred_20261106_008",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     },
     {
       "title": "How “reverse game theory” could keep AI agents in check",
@@ -93,12 +121,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/03/1147934/reverse-game-theory-mechanism-design-ai-alignment/",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-05T04:39:02Z",
+      "reasoned_at": "2026-11-06T04:38:41Z",
       "is_fallback": true,
-      "confidence": 78,
-      "prediction_id": "pred_20261105_007",
+      "confidence": 82,
+      "prediction_id": "pred_20261106_009",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     },
     {
       "title": "Here’s who is falling in line for Trump’s “Super Intelligence” loyalty test",
@@ -107,40 +135,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/02/1147932/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-05T04:39:02Z",
+      "reasoned_at": "2026-11-06T04:38:42Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20261105_008",
+      "confidence": 77,
+      "prediction_id": "pred_20261106_010",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-04"
-    },
-    {
-      "title": "Raising the quality of insights in agentic analytics",
-      "summary": "In just a few years, generative AI has changed the face of enterprise analytics, notably by making analytics accessible to users across the organization. Agentic AI promises to do even more, by automating entire workflows and taking actions based on agent insights. But there is a problem: The...",
-      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
-      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/02/1147660/raising-the-quality-of-insights-in-agentic-analytics/",
-      "category": "金融Agent",
-      "reasoned_at": "2026-11-05T04:39:02Z",
-      "is_fallback": true,
-      "confidence": 76,
-      "prediction_id": "pred_20261105_009",
-      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-04"
-    },
-    {
-      "title": "Stop counting tokens, start counting what ships",
-      "summary": "When a developer gives an AI agent a coding task, the agent does more than answer once. It plans, generates code, runs tests, and repeats the process to correct errors. A single task can use 10 to 50 times more tokens than a basic chat prompt. The more useful the agent becomes, the more calls&#8230;",
-      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
-      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/02/1147702/stop-counting-tokens-start-counting-what-ships/",
-      "category": "金融Agent",
-      "reasoned_at": "2026-11-05T04:39:02Z",
-      "is_fallback": true,
-      "confidence": 71,
-      "prediction_id": "pred_20261105_010",
-      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -149,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-05T04:39:02Z",
+      "reasoned_at": "2026-11-06T04:38:42Z",
       "is_fallback": true,
       "confidence": 80,
-      "prediction_id": "pred_20261105_011",
+      "prediction_id": "pred_20261106_011",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -163,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-05T04:39:02Z",
+      "reasoned_at": "2026-11-06T04:38:42Z",
       "is_fallback": true,
-      "confidence": 70,
-      "prediction_id": "pred_20261105_012",
+      "confidence": 68,
+      "prediction_id": "pred_20261106_012",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -177,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-05T04:39:02Z",
+      "reasoned_at": "2026-11-06T04:38:42Z",
       "is_fallback": true,
-      "confidence": 75,
-      "prediction_id": "pred_20261105_013",
+      "confidence": 82,
+      "prediction_id": "pred_20261106_013",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -191,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-11-05T04:39:03Z",
+      "reasoned_at": "2026-11-06T04:38:42Z",
       "is_fallback": true,
-      "confidence": 79,
-      "prediction_id": "pred_20261105_014",
+      "confidence": 70,
+      "prediction_id": "pred_20261106_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -205,12 +205,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-11-05T04:39:03Z",
+      "reasoned_at": "2026-11-06T04:38:42Z",
       "is_fallback": true,
-      "confidence": 71,
-      "prediction_id": "pred_20261105_015",
+      "confidence": 76,
+      "prediction_id": "pred_20261106_015",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-04"
+      "verify_deadline": "2027-05-05"
     }
   ]
 }
