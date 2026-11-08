@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-07T04:03:42Z",
+  "updated_at": "2026-11-08T03:49:06Z",
   "total": 15,
   "cards": [
     {
@@ -9,7 +9,7 @@
       "second_order_reasoning": "Ripple effects across the 具身智能 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
       "category": "具身智能",
-      "reasoned_at": "2026-11-07T04:03:40Z",
+      "reasoned_at": "2026-11-08T03:49:04Z",
       "is_fallback": true
     },
     {
@@ -19,7 +19,7 @@
       "second_order_reasoning": "Ripple effects across the 具身智能 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
       "category": "具身智能",
-      "reasoned_at": "2026-11-07T04:03:40Z",
+      "reasoned_at": "2026-11-08T03:49:05Z",
       "is_fallback": true
     },
     {
@@ -29,7 +29,7 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-11-07T04:03:41Z",
+      "reasoned_at": "2026-11-08T03:49:05Z",
       "is_fallback": true
     },
     {
@@ -39,7 +39,7 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-11-07T04:03:41Z",
+      "reasoned_at": "2026-11-08T03:49:05Z",
       "is_fallback": true
     },
     {
@@ -49,7 +49,7 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-11-07T04:03:41Z",
+      "reasoned_at": "2026-11-08T03:49:05Z",
       "is_fallback": true
     },
     {
@@ -59,7 +59,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-07T04:03:41Z",
+      "reasoned_at": "2026-11-08T03:49:05Z",
       "is_fallback": true
     },
     {
@@ -69,7 +69,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-07T04:03:41Z",
+      "reasoned_at": "2026-11-08T03:49:05Z",
       "is_fallback": true
     },
     {
@@ -79,7 +79,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-07T04:03:41Z",
+      "reasoned_at": "2026-11-08T03:49:05Z",
       "is_fallback": true
     },
     {
@@ -89,7 +89,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-07T04:03:41Z",
+      "reasoned_at": "2026-11-08T03:49:06Z",
       "is_fallback": true
     },
     {
@@ -99,7 +99,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-07T04:03:41Z",
+      "reasoned_at": "2026-11-08T03:49:06Z",
       "is_fallback": true
     },
     {
@@ -109,7 +109,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-07T04:03:42Z",
+      "reasoned_at": "2026-11-08T03:49:06Z",
       "is_fallback": true
     },
     {
@@ -119,7 +119,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-07T04:03:42Z",
+      "reasoned_at": "2026-11-08T03:49:06Z",
       "is_fallback": true
     },
     {
@@ -129,7 +129,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-07T04:03:42Z",
+      "reasoned_at": "2026-11-08T03:49:06Z",
       "is_fallback": true
     },
     {
@@ -139,7 +139,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-11-07T04:03:42Z",
+      "reasoned_at": "2026-11-08T03:49:06Z",
       "is_fallback": true
     },
     {
@@ -149,7 +149,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-11-07T04:03:42Z",
+      "reasoned_at": "2026-11-08T03:49:06Z",
       "is_fallback": true
     }
   ]
