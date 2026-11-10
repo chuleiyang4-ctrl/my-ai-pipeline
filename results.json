@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-11-09T04:00:24Z",
+  "updated_at": "2026-11-10T05:34:00Z",
   "total": 15,
   "cards": [
+    {
+      "title": "The backlash about data centers might really just be about electricity",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s largest data center hub...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+      "category": "AI应用",
+      "reasoned_at": "2026-11-10T05:33:59Z",
+      "is_fallback": true
+    },
+    {
+      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
+      "summary": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could play a key role in setting federal AI policy.&#160; I spoke with...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI安全",
+      "second_order_reasoning": "Ripple effects across the AI安全 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai/",
+      "category": "AI安全",
+      "reasoned_at": "2026-11-10T05:33:59Z",
+      "is_fallback": true
+    },
+    {
+      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the UCLA School of Law and the former chair of the...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation/",
+      "category": "AI应用",
+      "reasoned_at": "2026-11-10T05:33:59Z",
+      "is_fallback": true
+    },
+    {
+      "title": "Innovating with AI in the special chemicals industry",
+      "summary": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of bringing products to market. For specialty chemicals...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry/",
+      "category": "AI应用",
+      "reasoned_at": "2026-11-10T05:33:59Z",
+      "is_fallback": true
+    },
+    {
+      "title": "The climate case for AI has not been made",
+      "summary": "This week, as countries meet in Antalya, Turkey for the United Nations climate conference, one topic likely to dominate the conversation is artificial intelligence. The host has already called on countries to commit to ensuring that AI is designed, powered, and deployed in ways that support climate...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/09/1148166/the-climate-case-for-ai-has-not-been-made/",
+      "category": "AI应用",
+      "reasoned_at": "2026-11-10T05:33:59Z",
+      "is_fallback": true
+    },
     {
       "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. I watched a humanoid robot clean my apartment. It felt like a taste of the future. —Grace Huckins When I saw an X post about a new humanoid-robot...",
@@ -9,7 +59,7 @@
       "second_order_reasoning": "Ripple effects across the 具身智能 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom/",
       "category": "具身智能",
-      "reasoned_at": "2026-11-09T04:00:23Z",
+      "reasoned_at": "2026-11-10T05:33:59Z",
       "is_fallback": true
     },
     {
@@ -19,7 +69,7 @@
       "second_order_reasoning": "Ripple effects across the 具身智能 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/06/1148090/i-watched-a-humanoid-robot-clean-my-apartment-it-felt-like-a-taste-of-the-future/",
       "category": "具身智能",
-      "reasoned_at": "2026-11-09T04:00:23Z",
+      "reasoned_at": "2026-11-10T05:33:59Z",
       "is_fallback": true
     },
     {
@@ -29,7 +79,7 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-11-09T04:00:23Z",
+      "reasoned_at": "2026-11-10T05:33:59Z",
       "is_fallback": true
     },
     {
@@ -39,7 +89,7 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/05/1148062/permitting-reform/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-11-09T04:00:23Z",
+      "reasoned_at": "2026-11-10T05:33:59Z",
       "is_fallback": true
     },
     {
@@ -49,57 +99,7 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-11-09T04:00:24Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "summary": "Tuesday, November 17, 2026 In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Join science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado for a conversation exploring...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/04/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-09T04:00:24Z",
-      "is_fallback": true
-    },
-    {
-      "title": "What’s next for US energy policy after the midterm elections?",
-      "summary": "I’ve been locked in to my various screens since results from midterm elections started to roll in last night. And it didn’t take long to see the beginning of the blue wave: Democrats took control of both the US House of Representatives and the Senate, a dramatic swing from Donald Trump’s victory...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/04/1148022/us-energy-midterm/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-09T04:00:24Z",
-      "is_fallback": true
-    },
-    {
-      "title": "The Download: blended meat, restored sight, and the agentic web",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. These startups hope “blended” food will cut our appetite for red meat&#160; In the fall of 2025, Jeff Dodge served hungry students steaming marinara...",
-      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
-      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/04/1148001/the-download-blended-meat-sight-restoring-implant-agentic-web/",
-      "category": "金融Agent",
-      "reasoned_at": "2026-11-09T04:00:24Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Securing the agentic enterprise with data lineage",
-      "summary": "A sales representative asks an AI agent for customer pricing, and the agent pulls data from multiple sources: restricted pricing systems, internal communications, and archived quotes. The output looks accurate to the agent, so a second agent uses the data to draft the proposal for the sales rep. No...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-09T04:00:24Z",
-      "is_fallback": true
-    },
-    {
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game theory” aims to control powerful AI models by designing...",
-      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
-      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence/",
-      "category": "金融Agent",
-      "reasoned_at": "2026-11-09T04:00:24Z",
+      "reasoned_at": "2026-11-10T05:33:59Z",
       "is_fallback": true
     },
     {
@@ -109,7 +109,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-09T04:00:24Z",
+      "reasoned_at": "2026-11-10T05:34:00Z",
       "is_fallback": true
     },
     {
@@ -119,7 +119,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-09T04:00:24Z",
+      "reasoned_at": "2026-11-10T05:34:00Z",
       "is_fallback": true
     },
     {
@@ -129,7 +129,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-09T04:00:24Z",
+      "reasoned_at": "2026-11-10T05:34:00Z",
       "is_fallback": true
     },
     {
@@ -139,7 +139,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-11-09T04:00:24Z",
+      "reasoned_at": "2026-11-10T05:34:00Z",
       "is_fallback": true
     },
     {
@@ -149,7 +149,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-11-09T04:00:24Z",
+      "reasoned_at": "2026-11-10T05:34:00Z",
       "is_fallback": true
     }
   ]
