@@ -1,7 +1,47 @@
 {
-  "updated_at": "2026-11-17T05:59:33Z",
+  "updated_at": "2026-11-18T05:29:35Z",
   "total": 15,
   "cards": [
+    {
+      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
+      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
+      "category": "AI应用",
+      "reasoned_at": "2026-11-18T05:29:33Z",
+      "is_fallback": true
+    },
+    {
+      "title": "Hydropower hit record lows in the US Southwest this summer",
+      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
+      "category": "AI应用",
+      "reasoned_at": "2026-11-18T05:29:33Z",
+      "is_fallback": true
+    },
+    {
+      "title": "Research Reports",
+      "summary": "To access a report, click on the corresponding image below.",
+      "first_order_impact": "Direct market movement expected for entities related to: 多模态",
+      "second_order_reasoning": "Ripple effects across the 多模态 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/17/1148203/research-reports/",
+      "category": "多模态",
+      "reasoned_at": "2026-11-18T05:29:33Z",
+      "is_fallback": true
+    },
+    {
+      "title": "The Download: Jensen Huang’s open-source dilemma and cognitive immortality",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The open-source movement wants Jensen Huang back A petition to reinstate Jensen Huang as Nvidia CEO has attracted more than 115,000 signatures...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/17/1148679/the-download-jensen-huang-open-source-ai-cognitive-immortality/",
+      "category": "AI应用",
+      "reasoned_at": "2026-11-18T05:29:33Z",
+      "is_fallback": true
+    },
     {
       "title": "The open-source movement wants Jensen Huang back",
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. On Friday, a petition to reinstate Jensen Huang as CEO of Nvidia began circulating on social media, and by Monday it listed some notable signatories, including...",
@@ -9,7 +49,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-17T05:59:32Z",
+      "reasoned_at": "2026-11-18T05:29:34Z",
       "is_fallback": true
     },
     {
@@ -19,7 +59,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/16/1148565/building-trustworthy-ai-by-fencing-it-in-not-predicting-it/",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-17T05:59:32Z",
+      "reasoned_at": "2026-11-18T05:29:34Z",
       "is_fallback": true
     },
     {
@@ -29,7 +69,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/16/1148599/the-download-testing-tech-promises-cognitive-immortality-quest/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-17T05:59:32Z",
+      "reasoned_at": "2026-11-18T05:29:34Z",
       "is_fallback": true
     },
     {
@@ -39,7 +79,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/16/1146070/building-ai-that-can-work-across-the-enterprise/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-17T05:59:32Z",
+      "reasoned_at": "2026-11-18T05:29:34Z",
       "is_fallback": true
     },
     {
@@ -49,7 +89,7 @@
       "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/13/1148551/the-download-silicon-valley-midterms-nvidia-chip-tracking/",
       "category": "AI基础设施",
-      "reasoned_at": "2026-11-17T05:59:33Z",
+      "reasoned_at": "2026-11-18T05:29:34Z",
       "is_fallback": true
     },
     {
@@ -59,47 +99,7 @@
       "second_order_reasoning": "Ripple effects across the 具身智能 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/13/1148474/more-autonomy-fewer-ndas-volunteers-have-new-requests-for-brain-implant-trials/",
       "category": "具身智能",
-      "reasoned_at": "2026-11-17T05:59:33Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Silicon Valley claims to know the future. So why did it get the midterms so wrong?",
-      "summary": "The self-styled visionaries of Silicon Valley, leaders like OpenAI chief executive Sam Altman and SpaceX boss Elon Musk, have built careers claiming to see the future. Long-term vision is currency: Meta’s Mark Zuckerberg built a 10-year road map for Facebook in 2016, and Google famously told...",
-      "first_order_impact": "Direct market movement expected for entities related to: 多模态",
-      "second_order_reasoning": "Ripple effects across the 多模态 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/13/1148498/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/",
-      "category": "多模态",
-      "reasoned_at": "2026-11-17T05:59:33Z",
-      "is_fallback": true
-    },
-    {
-      "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
-      "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group claimed they were...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI基础设施",
-      "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
-      "category": "AI基础设施",
-      "reasoned_at": "2026-11-17T05:59:33Z",
-      "is_fallback": true
-    },
-    {
-      "title": "The Download: COP31’s climate challenge and the quest for immortality",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. What to know about this year’s UN climate talks Thousands of delegates, lobbyists, and journalists have gathered in Antalya, Turkey, for COP31, the...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/12/1148444/the-download-cop31-climate-talks-cognitive-immortality/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-17T05:59:33Z",
-      "is_fallback": true
-    },
-    {
-      "title": "What to know about this year’s UN climate talks",
-      "summary": "It’s that time of year again: Thousands of delegates, lobbyists, and journalists are gathered for the annual UN climate talks, taking place this time in Antalya, Turkey. COP31 officially kicked off on November 8, marking the beginning of negotiations on one of the biggest stages of the climate...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/11/1148308/un-climate-talks/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-17T05:59:33Z",
+      "reasoned_at": "2026-11-18T05:29:34Z",
       "is_fallback": true
     },
     {
@@ -109,7 +109,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-17T05:59:33Z",
+      "reasoned_at": "2026-11-18T05:29:34Z",
       "is_fallback": true
     },
     {
@@ -119,7 +119,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-17T05:59:33Z",
+      "reasoned_at": "2026-11-18T05:29:34Z",
       "is_fallback": true
     },
     {
@@ -129,7 +129,7 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-17T05:59:33Z",
+      "reasoned_at": "2026-11-18T05:29:34Z",
       "is_fallback": true
     },
     {
@@ -139,7 +139,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-11-17T05:59:33Z",
+      "reasoned_at": "2026-11-18T05:29:34Z",
       "is_fallback": true
     },
     {
@@ -149,7 +149,7 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-11-17T05:59:33Z",
+      "reasoned_at": "2026-11-18T05:29:34Z",
       "is_fallback": true
     }
   ]
