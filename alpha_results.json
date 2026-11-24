@@ -1,7 +1,49 @@
 {
-  "updated_at": "2026-11-23T05:08:06Z",
+  "updated_at": "2026-11-24T07:54:07Z",
   "total": 15,
   "cards": [
+    {
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or sentient as a risk factor for anyone investing. Given “the way we...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
+      "category": "AI应用",
+      "reasoned_at": "2026-11-24T07:54:05Z",
+      "is_fallback": true,
+      "confidence": 78,
+      "prediction_id": "pred_20261124_001",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-05-23"
+    },
+    {
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation nonprofit METR finds that some capabilities are...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
+      "category": "AI应用",
+      "reasoned_at": "2026-11-24T07:54:06Z",
+      "is_fallback": true,
+      "confidence": 79,
+      "prediction_id": "pred_20261124_002",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-05-23"
+    },
+    {
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "summary": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an effort to capture carbon from the air and lock it away. A...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
+      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
+      "category": "AI应用",
+      "reasoned_at": "2026-11-24T07:54:06Z",
+      "is_fallback": true,
+      "confidence": 82,
+      "prediction_id": "pred_20261124_003",
+      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
+      "verify_deadline": "2027-05-23"
+    },
     {
       "title": "The most misunderstood graph in AI just got a major update",
       "summary": "A new report from the AI evaluation nonprofit METR finds that some AI capabilities are continuing to improve along an exponential trajectory—but it also indicates that models aren’t quite as good at tasks that require judgment as they are at coding. The report is an update to the organization’s...",
@@ -9,12 +51,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-23T05:08:05Z",
+      "reasoned_at": "2026-11-24T07:54:06Z",
       "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20261123_001",
+      "confidence": 78,
+      "prediction_id": "pred_20261124_004",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-22"
+      "verify_deadline": "2027-05-23"
     },
     {
       "title": "The Download: inside the quest to make our minds immortal",
@@ -23,12 +65,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-23T05:08:05Z",
+      "reasoned_at": "2026-11-24T07:54:06Z",
       "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20261123_002",
+      "confidence": 78,
+      "prediction_id": "pred_20261124_005",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-22"
+      "verify_deadline": "2027-05-23"
     },
     {
       "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
@@ -37,12 +79,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-23T05:08:05Z",
+      "reasoned_at": "2026-11-24T07:54:06Z",
       "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20261123_003",
+      "confidence": 69,
+      "prediction_id": "pred_20261124_006",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-22"
+      "verify_deadline": "2027-05-23"
     },
     {
       "title": "A human liver has been kept alive outside the body for a record seven weeks",
@@ -51,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-23T05:08:05Z",
+      "reasoned_at": "2026-11-24T07:54:06Z",
       "is_fallback": true,
-      "confidence": 82,
-      "prediction_id": "pred_20261123_004",
+      "confidence": 73,
+      "prediction_id": "pred_20261124_007",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-22"
+      "verify_deadline": "2027-05-23"
     },
     {
       "title": "What a billion-dollar deal says about the US battery market",
@@ -65,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/19/1148922/sila-panasonic-battery-deal/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-23T05:08:05Z",
+      "reasoned_at": "2026-11-24T07:54:06Z",
       "is_fallback": true,
-      "confidence": 82,
-      "prediction_id": "pred_20261123_005",
+      "confidence": 77,
+      "prediction_id": "pred_20261124_008",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-22"
+      "verify_deadline": "2027-05-23"
     },
     {
       "title": "The AI Hype Index: AI is everywhere",
@@ -79,12 +121,12 @@
       "second_order_reasoning": "Ripple effects across the 具身智能 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere/",
       "category": "具身智能",
-      "reasoned_at": "2026-11-23T05:08:05Z",
+      "reasoned_at": "2026-11-24T07:54:06Z",
       "is_fallback": true,
-      "confidence": 83,
-      "prediction_id": "pred_20261123_006",
+      "confidence": 70,
+      "prediction_id": "pred_20261124_009",
       "verify_metric": "Technology adoption rate and market dynamics for 具身智能 sector",
-      "verify_deadline": "2027-05-22"
+      "verify_deadline": "2027-05-23"
     },
     {
       "title": "The Download: AI learns to smell and hydropower struggles",
@@ -93,54 +135,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/18/1148845/the-download-ai-learns-to-smell-hydropower-struggles/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-23T05:08:05Z",
-      "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20261123_007",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-22"
-    },
-    {
-      "title": "This smell startup says its AI nose is as good as a human’s",
-      "summary": "In a lab near Newark Airport in New Jersey, a team of around 30 experienced human sniffers are slowly working their way through every odor on Earth. Their careful notes—“nutty,” “peachy,” “marine”—are cross-referenced with a chemical analysis to create a rich set of training data for what AI...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI基础设施",
-      "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans/",
-      "category": "AI基础设施",
-      "reasoned_at": "2026-11-23T05:08:05Z",
+      "reasoned_at": "2026-11-24T07:54:06Z",
       "is_fallback": true,
       "confidence": 83,
-      "prediction_id": "pred_20261123_008",
-      "verify_metric": "Technology adoption rate and market dynamics for AI基础设施 sector",
-      "verify_deadline": "2027-05-22"
-    },
-    {
-      "title": "Roundtables: Inside the Quest for Cognitive Immortality",
-      "summary": "Listen to the session or watch below In an effort to reach an elusive continuity of the self, some far-thinking technologists are working on ways to keep your brain going—even beyond death. Science editor Mary Beth Griggs and senior editor for biomedicine Antonio Regalado explore possible paths to...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/17/1148049/roundtables-inside-the-quest-for-cognitive-immortality/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-23T05:08:05Z",
-      "is_fallback": true,
-      "confidence": 80,
-      "prediction_id": "pred_20261123_009",
+      "prediction_id": "pred_20261124_010",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-22"
-    },
-    {
-      "title": "Hydropower hit record lows in the US Southwest this summer",
-      "summary": "The US Southwest generated 28% less electricity via hydropower between April and August than the 10-year average, according to new data from the US Energy Information Administration. Most hydropower plants in the US rely on dams to hold back water, creating reservoirs. The water can be released...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/17/1148742/hydropower-drought-colorado-river/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-23T05:08:05Z",
-      "is_fallback": true,
-      "confidence": 75,
-      "prediction_id": "pred_20261123_010",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-22"
+      "verify_deadline": "2027-05-23"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -149,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-23T05:08:05Z",
+      "reasoned_at": "2026-11-24T07:54:06Z",
       "is_fallback": true,
       "confidence": 82,
-      "prediction_id": "pred_20261123_011",
+      "prediction_id": "pred_20261124_011",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-22"
+      "verify_deadline": "2027-05-23"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -163,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-23T05:08:06Z",
+      "reasoned_at": "2026-11-24T07:54:06Z",
       "is_fallback": true,
-      "confidence": 73,
-      "prediction_id": "pred_20261123_012",
+      "confidence": 76,
+      "prediction_id": "pred_20261124_012",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-22"
+      "verify_deadline": "2027-05-23"
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -177,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-23T05:08:06Z",
+      "reasoned_at": "2026-11-24T07:54:06Z",
       "is_fallback": true,
-      "confidence": 73,
-      "prediction_id": "pred_20261123_013",
+      "confidence": 74,
+      "prediction_id": "pred_20261124_013",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-22"
+      "verify_deadline": "2027-05-23"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -191,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-11-23T05:08:06Z",
+      "reasoned_at": "2026-11-24T07:54:07Z",
       "is_fallback": true,
-      "confidence": 83,
-      "prediction_id": "pred_20261123_014",
+      "confidence": 74,
+      "prediction_id": "pred_20261124_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-22"
+      "verify_deadline": "2027-05-23"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -205,12 +205,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-11-23T05:08:06Z",
+      "reasoned_at": "2026-11-24T07:54:07Z",
       "is_fallback": true,
-      "confidence": 83,
-      "prediction_id": "pred_20261123_015",
+      "confidence": 72,
+      "prediction_id": "pred_20261124_015",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-22"
+      "verify_deadline": "2027-05-23"
     }
   ]
 }
