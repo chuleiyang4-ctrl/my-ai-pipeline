@@ -1,20 +1,48 @@
 {
-  "updated_at": "2026-11-25T06:28:21Z",
+  "updated_at": "2026-11-26T06:20:38Z",
   "total": 15,
   "cards": [
     {
-      "title": "Raising the stakes for enterprise networks with AI modernization",
-      "summary": "Enterprise networks are under severe strain. As companies rush to deploy artificial intelligence, the technology is quickly becoming the biggest source of demand on the network. Now, agentic AI is adding to the load. Tasks conducted by AI agents generate an estimated 450% more network traffic than...",
-      "first_order_impact": "Direct market movement expected for entities related to: 金融Agent",
-      "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization/",
-      "category": "金融Agent",
-      "reasoned_at": "2026-11-25T06:28:19Z",
+      "title": "How data centers are driving a US natural-gas boom",
+      "summary": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible to meet the world’s rising electricity demand with other...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI基础设施",
+      "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants/",
+      "category": "AI基础设施",
+      "reasoned_at": "2026-11-26T06:20:37Z",
       "is_fallback": true,
-      "confidence": 82,
-      "prediction_id": "pred_20261125_001",
-      "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-24"
+      "confidence": 75,
+      "prediction_id": "pred_20261126_001",
+      "verify_metric": "Technology adoption rate and market dynamics for AI基础设施 sector",
+      "verify_deadline": "2027-05-25"
+    },
+    {
+      "title": "The Download: AI swamping open records, and firefighting for permafrost",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI is straining America’s open records systems AI has intensified investors&#8217; interest in public records. Over the last few years...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI基础设施",
+      "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires/",
+      "category": "AI基础设施",
+      "reasoned_at": "2026-11-26T06:20:37Z",
+      "is_fallback": true,
+      "confidence": 69,
+      "prediction_id": "pred_20261126_002",
+      "verify_metric": "Technology adoption rate and market dynamics for AI基础设施 sector",
+      "verify_deadline": "2027-05-25"
+    },
+    {
+      "title": "AI is straining America’s open records systems",
+      "summary": "In Panton, Vermont, population 660, town clerk Kyle Rowe did it all. He crafted budgets, paid vendors, handled property tax disputes, and served as the town’s zoning supervisor and presiding elections officer. During morning office hours at the town hall—a wood-frame structure built as a church in...",
+      "first_order_impact": "Direct market movement expected for entities related to: AI基础设施",
+      "second_order_reasoning": "Ripple effects across the AI基础设施 value chain may create new opportunities or risks for adjacent sectors.",
+      "source_url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems/",
+      "category": "AI基础设施",
+      "reasoned_at": "2026-11-26T06:20:37Z",
+      "is_fallback": true,
+      "confidence": 78,
+      "prediction_id": "pred_20261126_003",
+      "verify_metric": "Technology adoption rate and market dynamics for AI基础设施 sector",
+      "verify_deadline": "2027-05-25"
     },
     {
       "title": "The Download: AI’s gas power boom and a consciousness reality check",
@@ -23,12 +51,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-25T06:28:20Z",
+      "reasoned_at": "2026-11-26T06:20:37Z",
       "is_fallback": true,
-      "confidence": 70,
-      "prediction_id": "pred_20261125_002",
+      "confidence": 72,
+      "prediction_id": "pred_20261126_004",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-24"
+      "verify_deadline": "2027-05-25"
     },
     {
       "title": "Data centers are getting their own natural gas power plants",
@@ -37,12 +65,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-25T06:28:20Z",
+      "reasoned_at": "2026-11-26T06:20:37Z",
       "is_fallback": true,
-      "confidence": 78,
-      "prediction_id": "pred_20261125_003",
+      "confidence": 82,
+      "prediction_id": "pred_20261126_005",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-24"
+      "verify_deadline": "2027-05-25"
     },
     {
       "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
@@ -51,12 +79,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-25T06:28:20Z",
+      "reasoned_at": "2026-11-26T06:20:37Z",
       "is_fallback": true,
-      "confidence": 75,
-      "prediction_id": "pred_20261125_004",
+      "confidence": 77,
+      "prediction_id": "pred_20261126_006",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-24"
+      "verify_deadline": "2027-05-25"
     },
     {
       "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
@@ -65,12 +93,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-25T06:28:20Z",
+      "reasoned_at": "2026-11-26T06:20:37Z",
       "is_fallback": true,
-      "confidence": 74,
-      "prediction_id": "pred_20261125_005",
+      "confidence": 81,
+      "prediction_id": "pred_20261126_007",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-24"
+      "verify_deadline": "2027-05-25"
     },
     {
       "title": "Why using rocks for carbon removal could eventually reduce crop growth",
@@ -79,12 +107,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-25T06:28:20Z",
+      "reasoned_at": "2026-11-26T06:20:38Z",
       "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20261125_006",
+      "confidence": 80,
+      "prediction_id": "pred_20261126_008",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-24"
+      "verify_deadline": "2027-05-25"
     },
     {
       "title": "The most misunderstood graph in AI just got a major update",
@@ -93,12 +121,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-25T06:28:20Z",
+      "reasoned_at": "2026-11-26T06:20:38Z",
       "is_fallback": true,
-      "confidence": 79,
-      "prediction_id": "pred_20261125_007",
+      "confidence": 74,
+      "prediction_id": "pred_20261126_009",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-24"
+      "verify_deadline": "2027-05-25"
     },
     {
       "title": "The Download: inside the quest to make our minds immortal",
@@ -107,40 +135,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://www.technologyreview.com/2026/11/20/1149371/the-download-quest-to-make-minds-immortal/",
       "category": "AI应用",
-      "reasoned_at": "2026-11-25T06:28:20Z",
+      "reasoned_at": "2026-11-26T06:20:38Z",
       "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20261125_008",
+      "confidence": 76,
+      "prediction_id": "pred_20261126_010",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-24"
-    },
-    {
-      "title": "The Download: a living liver, a billion-dollar battery deal, and AI hype",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. A human liver has been kept alive outside the body for a record seven weeks Researchers in Australia claim they’ve kept a human liver alive on life...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-25T06:28:20Z",
-      "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261125_009",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-24"
-    },
-    {
-      "title": "A human liver has been kept alive outside the body for a record seven weeks",
-      "summary": "Researchers in Australia claim they’ve kept a human liver alive, on life support, outside the body for seven weeks, opening up speculative new possibilities in biomedical engineering. The feat, whose details are pending publication, was carried out in Sydney after a team led by surgeon and inventor...",
-      "first_order_impact": "Direct market movement expected for entities related to: AI应用",
-      "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
-      "source_url": "https://www.technologyreview.com/2026/11/19/1148934/a-human-liver-has-been-kept-alive-outside-the-body-for-seven-weeks-setting-a-record/",
-      "category": "AI应用",
-      "reasoned_at": "2026-11-25T06:28:20Z",
-      "is_fallback": true,
-      "confidence": 68,
-      "prediction_id": "pred_20261125_010",
-      "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-24"
+      "verify_deadline": "2027-05-25"
     },
     {
       "title": "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
@@ -149,12 +149,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-25T06:28:20Z",
+      "reasoned_at": "2026-11-26T06:20:38Z",
       "is_fallback": true,
-      "confidence": 72,
-      "prediction_id": "pred_20261125_011",
+      "confidence": 83,
+      "prediction_id": "pred_20261126_011",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-24"
+      "verify_deadline": "2027-05-25"
     },
     {
       "title": "When agents act on their own, governance has to live in the data layer",
@@ -163,12 +163,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/security/when-agents-act-on-their-own-governance-has-to-live-in-the-data-layer",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-25T06:28:20Z",
+      "reasoned_at": "2026-11-26T06:20:38Z",
       "is_fallback": true,
-      "confidence": 80,
-      "prediction_id": "pred_20261125_012",
+      "confidence": 78,
+      "prediction_id": "pred_20261126_012",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-24"
+      "verify_deadline": "2027-05-25"
     },
     {
       "title": "Orchestration is the new challenge for CX in the age of AI agents",
@@ -177,12 +177,12 @@
       "second_order_reasoning": "Ripple effects across the 金融Agent value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/orchestration/orchestration-is-the-new-challenge-for-cx-in-the-age-of-ai-agents",
       "category": "金融Agent",
-      "reasoned_at": "2026-11-25T06:28:20Z",
+      "reasoned_at": "2026-11-26T06:20:38Z",
       "is_fallback": true,
-      "confidence": 83,
-      "prediction_id": "pred_20261125_013",
+      "confidence": 73,
+      "prediction_id": "pred_20261126_013",
       "verify_metric": "Technology adoption rate and market dynamics for 金融Agent sector",
-      "verify_deadline": "2027-05-24"
+      "verify_deadline": "2027-05-25"
     },
     {
       "title": "VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push",
@@ -191,12 +191,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/ai/venturebeat-names-rob-strechay-as-its-first-lead-analyst-expanding-its-enterprise-ai-research-push",
       "category": "AI应用",
-      "reasoned_at": "2026-11-25T06:28:20Z",
+      "reasoned_at": "2026-11-26T06:20:38Z",
       "is_fallback": true,
-      "confidence": 77,
-      "prediction_id": "pred_20261125_014",
+      "confidence": 75,
+      "prediction_id": "pred_20261126_014",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-24"
+      "verify_deadline": "2027-05-25"
     },
     {
       "title": "Google just redesigned the search box for the first time in 25 years — here’s why it matters more than you think.",
@@ -205,12 +205,12 @@
       "second_order_reasoning": "Ripple effects across the AI应用 value chain may create new opportunities or risks for adjacent sectors.",
       "source_url": "https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think",
       "category": "AI应用",
-      "reasoned_at": "2026-11-25T06:28:20Z",
+      "reasoned_at": "2026-11-26T06:20:38Z",
       "is_fallback": true,
-      "confidence": 73,
-      "prediction_id": "pred_20261125_015",
+      "confidence": 78,
+      "prediction_id": "pred_20261126_015",
       "verify_metric": "Technology adoption rate and market dynamics for AI应用 sector",
-      "verify_deadline": "2027-05-24"
+      "verify_deadline": "2027-05-25"
     }
   ]
 }
